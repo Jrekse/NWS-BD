@@ -1,31 +1,31 @@
 import React, {Component} from 'react';
-import Vss from "./assets/vssbannerhead.jpeg"
+import CatSelect from './Pages/CategorySelect';
 import './App.css';
 
 class App extends Component {
-  // state = {
-  //   currentPage: "Home"
-  // };
+  state = {
+    currentPage: "Home"
+  };
 
-  // handlePageChange = page => {
-  //   this.setState({ currentPage: page });
-  // };
+  handlePageChange = page => {
+    this.setState({ currentPage: page });
+  };
 
-  // renderPage = () => {
-  //   if (this.state.currentPage === "Home") {
-  //     return ;
-  //   } else if (this.state.currentPage === "Category") {
-  //     return ;
-  //   } else if (this.state.currentPage === "Post") {
-  //     return ; 
-  //   } else {
-  //     return 
-  //   }
-  // };
+  renderPage = () => {
+    if (this.state.currentPage === "Home") {
+      return <CatSelect/>;
+    } else if (this.state.currentPage === "Category") {
+      return ;
+    } else if (this.state.currentPage === "Post") {
+      return ; 
+    } else {
+      return 
+    }
+  };
   render(){
       return (
         <div className="App">
-          {/* {this.renderPage()} */}
+          {this.renderPage()}
         </div>
       )
   }
