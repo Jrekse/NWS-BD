@@ -1,6 +1,6 @@
-const CatData = [
+const CatDataR2 = [
     {
-        "title" : "Auto Repair",
+        "title" : "Charters",
         "Posts" : [
             {
                 'title' : 'Company 1',
@@ -13,39 +13,54 @@ const CatData = [
                 'logo' : '../assets/logoTwo.png',
                 'info' : 'We are a company, We do things, We kind of care.',
                 'content' : 'Coming Soon'
-            },
+            }
+        ]
+    },
+    {
+        "title" : "Outdoor Gear",
+        "Posts" : [
             {
-                'title' : 'Company 1a',
-                'logo' : '../assets/logoOne.jpeg',
-                'info' : 'We are a company, We do things, We dont care.',
-                'content' : 'Coming Soon'
-            },
-            {
-                'title' : 'Company 2a',
-                'logo' : '../assets/logoTwo.png',
-                'info' : 'We are a company, We do things, We kind of care.',
-                'content' : 'Coming Soon'
-            },
-            {
-                'title' : 'Company 1b',
+                'title' : 'Company 1',
                 'logo' : '../assets/logoOne.jpeg',
                 'info' : 'We are a company, We do things, We almost care.',
                 'content' : 'Coming Soon'
             },
             {
-                'title' : 'Company 2b',
+                'title' : 'Company 2',
                 'logo' : '../assets/logoTwo.png',
                 'info' : 'We are a company, We do things, We kind of care.',
                 'content' : 'Coming Soon'
-            },
+            }
+        ]
+    },
+    {
+        "title" : "Lodges",
+        "Posts" : [
             {
-                'title' : 'Company 1c',
+                'title' : 'Company 1',
                 'logo' : '../assets/logoOne.jpeg',
                 'info' : 'We are a company, We do things, We almost care.',
                 'content' : 'Coming Soon'
             },
             {
-                'title' : 'Company 2c',
+                'title' : 'Company 2',
+                'logo' : '../assets/logoTwo.png',
+                'info' : 'We are a company, We do things, We kind of care.',
+                'content' : 'Coming Soon'
+            }
+        ]
+    },
+    {
+        "title" : "Knives",
+        "Posts" : [
+            {
+                'title' : 'Company 1',
+                'logo' : '../assets/logoOne.jpeg',
+                'info' : 'We are a company, We do things, We almost care.',
+                'content' : 'Coming Soon'
+            },
+            {
+                'title' : 'Company 2',
                 'logo' : '../assets/logoTwo.png',
                 'info' : 'We are a company, We do things, We kind of care.',
                 'content' : 'Coming Soon'
@@ -53,4 +68,4 @@ const CatData = [
         ]
     },
 ]
-export default CatData;
+export default CatDataR2;

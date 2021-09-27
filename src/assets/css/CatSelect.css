@@ -1,0 +1,46 @@
+.CSBody{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.CSHead{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.CSMain{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.categoryTable{
+    display: inline-block;
+    width: 70%;
+    margin: 0px;
+}
+#simple-board{
+    height: 600px;
+    margin: 0px;
+    width: 100%;
+}
+.sidebarAd{
+    display: inline-block;
+    width: 30%;
+    margin: 0px;
+}
+.vssmast{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.VBanner{
+    width: 80%;
+}
+#cell0-0{
+    background-color: greenyellow;
+    width: 25%;
+}
+#cell1-0{
+    background-color: aqua;
+    width: 25%;
+}
+#cell2-0{
+    background-color: pink;
+    width: 25%;
+}

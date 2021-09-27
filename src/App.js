@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import CatSelect from './Pages/CategorySelect';
+import Category from './Pages/Category';
 import './App.css';
 
 class App extends Component {
   state = {
-    currentPage: "Home"
+    currentPage: "Category"
   };
 
   handlePageChange = page => {
@@ -15,7 +16,7 @@ class App extends Component {
     if (this.state.currentPage === "Home") {
       return <CatSelect/>;
     } else if (this.state.currentPage === "Category") {
-      return ;
+      return <Category/>;
     } else if (this.state.currentPage === "Post") {
       return ; 
     } else {
