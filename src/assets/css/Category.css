@@ -1,24 +1,28 @@
-.CBody{
-    margin-left: 5%;
-    margin-right: 5%;
-}
-.CHead{
-    width: 100%;
-    margin-bottom: 15px;
-}
 .cards{
     height: 100%;
+    margin: 20px;
+    display:inline-flex;
 }
 .PostCard{
     background-color: silver;
-    display: inline-block;
     margin: 10px;
-    width: 30%;
-    height: 340px;
+    height: fit-content;
 }
 .description{
     background-color: whitesmoke;
     margin: 10px;
-    height: 250px;
-    padding: 5px;
+    height: fit-content;
+}
+ul{
+    list-style: none;
+}
+img{
+    text-indent:-9999px;
+    width: 202px;
+}
+#email{
+    font-size:smaller;
+}
+.categoryTable{
+    columns: 4 auto;
 }
