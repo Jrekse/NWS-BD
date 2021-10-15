@@ -11,6 +11,7 @@
 .description{
     background-color: whitesmoke;
     margin: 10px;
+    padding: 5px;
     height: fit-content;
 }
 ul{
@@ -18,11 +19,12 @@ ul{
 }
 img{
     text-indent:-9999px;
-    width: 202px;
+    width: 350px;
+    margin-top: 10px;
 }
 #email{
     font-size:smaller;
 }
 .categoryTable{
-    columns: 4 auto;
+    columns: 3 auto;
 }
