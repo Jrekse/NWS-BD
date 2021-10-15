@@ -10,34 +10,18 @@
     width: 100%;
     margin-bottom: 20px;
 }
-.categoryTable{
+.categoryselectTable{
     display: inline-block;
-    width: 70%;
     margin: 0px;
-}
-#simple-board{
-    height: 600px;
-    margin: 0px;
-    width: 100%;
 }
 .sidebarAd{
     display: inline-block;
     width: 30%;
     margin: 0px;
 }
-.vssmast{
-    width: 100%;
-    margin-bottom: 10px;
+td{
+    border: 1px solid #999;
+    padding: 0.5rem;
+    background: linear-gradient(90deg, rgba(2,10,32,1) 0%, rgba(0,204,204) 5%, rgba(0,212,255,1) 100%);
 }
-.VBanner{
-    width: 80%;
-}
-#cell0-0{
-    background-color: greenyellow;
-}
-#cell1-0{
-    background-color: aqua;
-}
-#cell2-0{
-    background-color: pink;
-}
+  

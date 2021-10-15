@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import BlackH from "../assets/images/black_hills-300X600.jpg"
+// import BlackH from "../assets/images/black_hills-300X600.jpg"
 import '../assets/css/CatSelect.css';
 
 class Catselect extends Component {
@@ -12,28 +12,57 @@ class Catselect extends Component {
 
             <section className='CSMain'>
 
-                <section className='categoryTable'>
-                    <table id="simple-board">
+                <section className='categoryselectTable'>
+                    <table>
                         <tbody>
-                            <tr id="row0">
-                                <td id="cell0-0"><a href='https://css-tricks.com/creating-the-perfect-commit-in-git/'>Auctioneers</a></td>
+                            <tr>
+                                <td>Air Freight</td>
+                                <td>Apparel</td>
+                                <td>Boats</td>
+                                <td>Fishing Resorts</td>
+                                <td>Food</td>
+                                <td>Furniture</td>
+                                <td>Knives</td>
+                                <td>Lodging</td>
+                                <td>Power Equipment</td>
+                                <td>Hunting Education</td>
+                                <td>Sport Fishing</td>
                             </tr>
-                            <tr id="row1">
-                                <td id="cell1-0" >Apparel / Accessories</td>
-                             
+                            <tr>
+                                <td>Construction</td>
+                                <td>Charters</td>
+                                <td>Education</td>
+                                <td>Gear</td>
+                                <td>Government Agencies</td>
+                                <td>Hunting Guides</td>
+                                <td>Marina</td>
+                                <td>Meat Products</td>
+                                <td>Resturaunts</td>
+                                <td>Realty</td>
+                                <td>Tourism</td>
                             </tr>
-                            <tr id="row2">
-                                <td id="cell2-0" >Boats</td>
+                            <tr>
+                                <td>Firearms / Ammo</td>
+                                <td>Firearm Cleaning</td>
+                                <td>Fishing Equipment</td>
+                                <td>Holsters</td>
+                                <td>Hunting</td>
+                                <td>Insurance</td>
+                                <td>Motorcycles</td>
+                                <td>Non-Profits</td>
+                                <td>RV's</td>
+                                <td>Safes</td>
+                                <td>Trucks</td>
                             </tr>
-                        </tbody>                          
+                        </tbody>
                     </table>
                 </section>
 
-                <aside className='sidebarAd'>
+                {/* <aside className='sidebarAd'>
                     <a href="http://www.black-hills.com/">
                         <img className='BHills' src={BlackH} alt="blackhills"/>
                     </a>
-                </aside>
+                </aside> */}
                 
             </section>
         </div>
