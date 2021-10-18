@@ -4,8 +4,9 @@
     display:inline-flex;
 }
 .PostCard{
-    background-color: silver;
+    background-color: #7d7a00;
     margin: 10px;
+    min-width: 25%;
     height: fit-content;
 }
 .description{
@@ -19,12 +20,12 @@ ul{
 }
 img{
     text-indent:-9999px;
-    width: 350px;
+    width: 370px;
     margin-top: 10px;
 }
 #email{
     font-size:smaller;
 }
 .categoryTable{
-    columns: 3 auto;
+    columns: 4 auto;
 }
