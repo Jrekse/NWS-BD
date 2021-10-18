@@ -1,31 +1,48 @@
 .cards{
-    height: 100%;
-    margin: 20px;
+    /* height: 100%; */
+    margin: 10px;
     display:inline-flex;
 }
+a{
+    color:#8b9fbb;
+    font-size: 12px;
+}
 .PostCard{
-    background-color: #7d7a00;
+    background-color: #0D1321;
+    color: #F0EBD8;
+    border-radius: 12px;
     margin: 10px;
-    min-width: 25%;
-    height: fit-content;
+    width: 400px;
 }
 .description{
-    background-color: whitesmoke;
+    background-color: #1D2D44;
+    text-align: left;
+    color: #F0EBD8;
     margin: 10px;
+    padding-right: 10px;
     padding: 5px;
-    height: fit-content;
+    border-radius: 12px;
+    max-height: 150px;
+    overflow: hidden;
+}
+.description:hover{
+    overflow: auto;
+}
+#myDropdown{
+    max-height: 330px;
 }
 ul{
     list-style: none;
 }
 img{
     text-indent:-9999px;
-    width: 370px;
+    width: 380px;
     margin-top: 10px;
+    border-radius: 5px;
 }
 #email{
     font-size:smaller;
 }
 .categoryTable{
-    columns: 4 auto;
+    columns: 3 auto;
 }

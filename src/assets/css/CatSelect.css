@@ -1,27 +1,25 @@
 .CSBody{
-    margin-left: 5%;
-    margin-right: 5%;
-}
-.CSHead{
-    width: 100%;
-    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .CSMain{
-    width: 100%;
+    max-width: 100%;
     margin-bottom: 20px;
-}
-.categoryselectTable{
-    display: inline-block;
-    margin: 0px;
-}
-.sidebarAd{
-    display: inline-block;
-    width: 30%;
-    margin: 0px;
 }
 td{
     border: 1px solid #999;
+    background-color: #1D2D44;
     padding: 0.5rem;
-    background: linear-gradient(90deg, rgba(2,10,32,1) 0%, rgba(0,204,204) 5%, rgba(0,212,255,1) 100%);
 }
-  
+td:hover{
+    background-color: #0D1321;
+}
+.banner{
+    width: 1000px;
+    height: 100px;
+}
+.ad1{
+    width: 400px;
+    height: 300px;
+    margin: 5px;
+}

@@ -41,7 +41,7 @@ import './App.css';
 
 class App extends Component {
   state = {
-    currentPage: "Air"
+    currentPage: ""
   };
 
   handlePageChange = page => {
@@ -124,6 +124,7 @@ class App extends Component {
   render(){
       return (
         <div className="App">
+          <a className='goBack' href='https://nwsportsmanmag.com/'>Go back</a>
           <CatSelect currentPage={this.state.currentPage} handlePageChange={this.handlePageChange}/>
           {this.renderPage()}
         </div>

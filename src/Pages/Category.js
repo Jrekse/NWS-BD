@@ -16,7 +16,7 @@ function Category(props){
                                     <p>{obj.address}</p>                                    
                                     <p>{obj.phone}</p>
                                     <p id='email'>{obj.email}</p>
-                                    <p><a href={obj.url}>Visit Our Website</a></p>
+                                    <p><a href={obj.url} target='_blank' rel="noreferrer">Visit Our Website</a></p>
                                     <p className='description'>{obj.content}</p>
                                 </section>
                             </div>
