@@ -6,6 +6,7 @@ const Holsters = [
                     'address' : '5507 TX Hwy 24 N, PO Box 475, Cooper, Tx 75432',
                     'url' : 'http://www.bullardleather.com/',
                     'email' : 'bullardleather@gmail.com',
+                    'class' : 'premium',
         'content' : 'We are a small, family business of leather craftsman in Cooper, Texas, that started out making holster from our closed in back porch. Formerly known as DM Bullard Leather, we have changed to Bullard Leather and moved to Cooper, Texas. At Bullard Leather, everything is handmade and hand-molded for a perfect fit from Hermann Oak leather (Veg tanned). We believe all quality leather makers use Hermann Oak, as the quality comes from their tanning process done by our leather holster makers. The better the tanning process, the higher the quality of leather. Take a Tour of the Shop and Meet the Crew Here at Bullard Leather. We are working every day to make the best Gun Leather money can buy! Open Monday – Thursday 8:00 am to 4:00 pm.'
     },
     {
@@ -15,6 +16,7 @@ const Holsters = [
                     'address' : '',
                     'url' : 'http://www.covertcarrier.com/',
                     'email' : 'info@covertcarrier.com',
+                    'class' : 'premium',
         'content' : 'The Covert Carrier allows a user to carry a small framed semi-automatic pistol, inside the waistband (IWB), without a traditional Holster, Case or Pouch. The product line is ideal for deep cover or general concealed carry. Use of the device results in “Total Handgun Concealment!”'
     },
     {
@@ -24,11 +26,30 @@ const Holsters = [
                     'address' : '',
                     'url' : 'https://www.daraholsters.com/',
                     'email' : 'support@daraholsters.com',
+                    'class' : 'premium',
         'content' : 'We manufacture premium Custom Holsters for Concealed Carry, Competition and Law Enforcement.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Man Gear Alaska, LLC',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 414-4327',
                     'address' : '',
                     'url' : 'https://mangearalaska.com/',

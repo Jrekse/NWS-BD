@@ -1,11 +1,12 @@
 const Hunting = [
     {
         'title' : 'Clear Creek Sports Club',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(530) 520-9464',
                     'address' : 'Corning, CA',
                     'url' : 'http://www.clearcreeksportsclub.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'Clear Creek Sports Club is a family ran hunting club that has been open since 1986. Owners Brad and Evangelina Henman are third generation hunting club operators that still believe that you treat each member like they are family. Headquartered at Rolling Hills Casino in Corning, California on a 1,400 acre ranch land owned by the Nomlaki Indian Tribe. In cooperation with the Tribe, Clear Creek Sports Club is developing a wildlife oasis for upland game birds, waterfowl, turkey, and dove. Wildlife management is first with food plots and nesting cover being developed throughout the HQ ranch. There is fishing also available on the ranch in the 65 acre lake for Trophy Trout. This along with BV Farms a rice ranch west of Corning with over1000+ acres of wild and farmed habitat, the club has a little of something for everyone. The Club is most well-known for the fast flying pheasants that make for a more challenging hunt. The Henman Family has been raising club birds for over 31 years.'
     },
     {
@@ -15,17 +16,37 @@ const Hunting = [
                     'address' : '',
                     'url' : 'http://www.thornebaylodge.com/',
                     'email' : 'info@thornebaylodge.com',
+                    'class' : 'premium',
         'content' : 'Thorne Bay Lodge is a do it yourself fishing and hunting accommodations, we also do charter salt water fishing fully guided and guided river fishing if needed… We open April 1 through November 30th.'
     },
     {
         'title' : 'Rocky Mountain Elk Ranch',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(208) 351-7301',
                     'address' : '',
                     'url' : 'http://www.rockymountainelkranch.com/',
                     'email' : 'jeff@rockymountainelkranch.net',
+                    'class' : 'premium',
         'content' : 'We are an all private trophy elk hunting ranch located in SE Idaho about 1 1/2 hrs from Jackson Hole, WY and Yellowstone Park. We offer 3 day guided hunts for elk and buffalo. Meals, lodging, and guide service are included and you can bring a non hunting guest that shares your room for free. Group discounts and private reservations for 4 or more hunters.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Upfront Outfitters',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Upfront_Outfitters-logo.jpg',
@@ -37,7 +58,7 @@ const Hunting = [
     },
     {
         'title' : 'Waterfowl Junkie',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(651) 230-4935',
                     'address' : '',
                     'url' : 'http://www.waterfowljunkie.com/',

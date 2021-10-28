@@ -6,6 +6,7 @@ const huntingguide = [
                     'address' : '2765 Turner Hill, Bonners Ferry, ID',
                     'url' : 'http://3heartoutfitters.net/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'Are you looking for an adventure in northern Idaho? Would like to hunt big game? River rafting? What about fishing? Or how about a trail ride for the whole family? No matter the adventure that you are looking for, 3 Heart Outfitters in beautiful Bonners Ferry, Idaho, is the place for you. With over 125 years of experience in the area, we are the go-to destination for all things outdoors. Whether chasing elk on Buckhorn Ridge or stalking rainbow trout on the Kootenai River, Gary and his 3 Heart Outfitters guides will provide a quality outdoor adventure for all that wish to experience the ultimate adventure in the Northern Rockies. 3 Heart Outfitters is a simple call (208) 267-5858 or email away from the adventure of a lifetime.'
     },
     {
@@ -15,11 +16,40 @@ const huntingguide = [
                     'address' : '',
                     'url' : 'https://www.arrowridgeranch.com/',
                     'email' : 'arrowridgeranch@yahoo.com',
+                    'class' : 'premium',
         'content' : 'Arrow Ridge Ranch is located in beautiful and scenic central Wisconsin. We are within 90 minutes of several major airports and we provide pick up and drop off to and from these airports at no charge. Over 700 acres of terrain here ranges from rolling hills and ridges covered with tall pines and oaks, to grassy fields and lush food plots. There are several water sources throughout the property. Hunting methods range from spot and stalk, to comfortable double ladder stands, to spacious insulated and heated box blinds. No matter what your preferred style, you will see plenty of trophy class animals. The preserve is set up as a free ranging environment. Where you see Bucks, you will see does, Bulls, and cows, young and fully mature. All the breeding that occurs, happens naturally. Come Hunt with us.'
     },
     {
+        'title' : 'Hidden Ranch Outfitters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Hidden_Ranch_Outfitters-logo.jpg',
+                    'phone' : '509-681-0218',
+                    'address' : '1845 Road 14 N. E., Coulee City, WA, 99115',
+                    'url' : 'http://www.hiddenranchoutfitters.com/',
+                    'email' : 'info@hiddenranchoutfitters.com',
+                    'class' : 'premium',
+        'content' : 'HRO provides professionally guided deer hunts on over 40,000 acres of privately owned land with exclusive access! Plus, pheasant and chukar hunting on our 2,000 acre privately owned HRO shooting preserve with exclusive access! HRO offers a variety of packages with many options to choose from, assuring your adventure will be custom to your specific needs. Rustic Lodging is available for large or small groups with a bunch of “elbow room” for EVERYONE to enjoy a unique and private experience. If you’re looking for one-of-a-kind sight-seeing adventure, look no more! We provide maps and show you around assuring maximum enjoyment of this beautiful place. Be sure and bring your camera as you will be up-front and close to nature for those difficult, one-of-a-kind shots not available on public lands. Family means everything to us. We hope that our family can help you and yours spend some quality time together soon.'
+    },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
+    {
         'title' : 'Pine Mountain Outfitters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(406) 560-5512',
                     'address' : '',
                     'url' : 'http://www.pinemountainoutfitters.com/',
@@ -28,7 +58,7 @@ const huntingguide = [
     },
     {
         'title' : 'Rocky Mountain Elk Ranch',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(208) 351-7301',
                     'address' : '',
                     'url' : 'http://www.rockymountainelkranch.com/',

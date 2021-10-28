@@ -1,23 +1,23 @@
 const Boats = [
     {
         'title' : 'Alaska Mining & Diving',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
         'phone' : '(907)-277-1741',
         'address' : '3222 Commercial Dr, Anchorage, AK 9950',
         'url' : 'https://www.akmining.com/',
         'email' : 'sales@akmining.com',
-        'content' : 'Alaska’s premier supplier of outdoor powersports products, and we’re proud to be a premier dealer for Can-Am, Evinrude, Honda, Jetcraft, Lowe, Ski-Doo, Sea-Doo, C-Dory Boats, Sea Sport Boats and Yamaha. We offer ATVs, boats, generators, metal detectors, mining equipment, outboards, snowmobiles and watercraft, and we service what we sell! We’ve been dedicated to satisfying our customers since 1976, and are looking forward to helping you find the perfect equipment for you.'
-    
+        'content' : 'Alaska’s premier supplier of outdoor powersports products, and we’re proud to be a premier dealer for Can-Am, Evinrude, Honda, Jetcraft, Lowe, Ski-Doo, Sea-Doo, C-Dory Boats, Sea Sport Boats and Yamaha. We offer ATVs, boats, generators, metal detectors, mining equipment, outboards, snowmobiles and watercraft, and we service what we sell! We’ve been dedicated to satisfying our customers since 1976, and are looking forward to helping you find the perfect equipment for you.',
+        'class' : 'premium'
     },
     {
         'title' : 'Aqua Tech Marine Services',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360)-792-2628',
                     'address' : '4911-B State Highway 303 NE (Wheaton Way), Bremerton, WA 98311',
                     'url' : 'http://www.aquatechboats.com/',
                     'email' : '',
-        'content' : 'Call or visit Aqua Tech for high quality boat engine repair and service, trailer service, outboard, stern drive, and trailer parts, new boat motors, boat shrinkwrapping and boat storage. We are a Premier Level Mercury and MerCruiser Dealer. We are in Kitsap County, Washington, serving Bremerton, Silverdale, Port Orchard, Bainbridge Island, and more.'
-    
+        'content' : 'Call or visit Aqua Tech for high quality boat engine repair and service, trailer service, outboard, stern drive, and trailer parts, new boat motors, boat shrinkwrapping and boat storage. We are a Premier Level Mercury and MerCruiser Dealer. We are in Kitsap County, Washington, serving Bremerton, Silverdale, Port Orchard, Bainbridge Island, and more.',
+        'class' : 'premium'
     },
     {
         'title' : 'Auburn Sports & Marine',
@@ -26,8 +26,36 @@ const Boats = [
                     'address' : '810 Auburn Way N, Auburn, WA 98002',
                     'url' : 'https://www.auburnsportsmarineinc.com/',
                     'email' : '',
-        'content' : 'Auburn Sports and Marine has been serving the community and the marine industry as a quality boat dealer for over 35 years. The company is divided into three departments to better serve you: new boat sales, marine parts and service, and fishing tackle and boat accessories department. Our sales department carries a wide variety of aluminum boats from our flagship line of Smokercraft American Angler and family fun fishing Boats, just to name a few. Looking for a re-power or just power up a small boat? We have Yamaha, Evinrude, Suzuki, Honda and Mercury models for sale. The parts and service department stocks parts for Yamaha, Johnson, Evinrude, Suzuki, Honda, Mercury, and Force outboard motors. We also carry Mercruiser, Volvo, and OMC Stern Drive parts. Our technicians are factory trained with over fifty years of combined experience. We offer everything from rigging and basic tune-ups to complete engine rebuilds and re-powers. Our fishing tackle shop offers everything you need to make your fishing trip successful. From expert advice on what to use and where the fish are biting. We also carry a full supply of boat accessories to make your boating experience safe and pleasurable.'
-    
+        'content' : 'Auburn Sports and Marine has been serving the community and the marine industry as a quality boat dealer for over 35 years. The company is divided into three departments to better serve you: new boat sales, marine parts and service, and fishing tackle and boat accessories department. Our sales department carries a wide variety of aluminum boats from our flagship line of Smokercraft American Angler and family fun fishing Boats, just to name a few. Looking for a re-power or just power up a small boat? We have Yamaha, Evinrude, Suzuki, Honda and Mercury models for sale. The parts and service department stocks parts for Yamaha, Johnson, Evinrude, Suzuki, Honda, Mercury, and Force outboard motors. We also carry Mercruiser, Volvo, and OMC Stern Drive parts. Our technicians are factory trained with over fifty years of combined experience. We offer everything from rigging and basic tune-ups to complete engine rebuilds and re-powers. Our fishing tackle shop offers everything you need to make your fishing trip successful. From expert advice on what to use and where the fish are biting. We also carry a full supply of boat accessories to make your boating experience safe and pleasurable.',
+        'class' : 'premium'
+    },
+  
+        // ad vv
+        {
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+            'class' : 'ad',
+            'imgclass' : 'anad',
+        },
+        {
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+            'class' : 'ad',
+            'imgclass' : 'anad',
+            'adurl' : 'https://www.cubcadet.com/en_US/home'
+        },
+        {
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+            'class' : 'ad',
+            'imgclass' : 'anad',
+        },
+        // ad ^^
+    {
+        'title' : 'American Turbine Inc',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/american-turbine-logo.jpg',
+                    'phone' : '509-243-5387; 509-243-5391 fax',
+                    'address' : '3692 Riverside Dr., Clarkston, WA  99403',
+                    'url' : 'http://www.americanturbine.com/',
+                    'email' : '',
+        'content' : 'If you need help selecting the proper jet, or parts for many other jets, or if you need free advice you can’t go wrong with American Turbine. We have the most experienced group of team members in the industry, in June of 2020 Ron will have spend the last 44 years designing and building jet drives. Ron’s first experience goes back to 1968 when he changed an impeller on a Berkeley jet. Ron believes as do many that there is no substitute for experience, the team members at American Turbine average 24 plus years of experience each. Our largest jet to date the SUPER DUTY SD231 axial flow jet has been shipped all over the world. The SD231 has many features not available on other jets such as 17-4PH stainless steel impeller, billet intake block and grate, hydraulic reverse bucket, and hydraulic trim/ skid plate.',
     },
     {
         'title' : 'BAMF Boats',
@@ -50,7 +78,17 @@ const Boats = [
     
     },
     {
-        'title' : 'Bayside Marine, Bayside Marine Motor Sales',
+        'title' : 'The Bay Company',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/BayCompany_LOGO.jpg',
+                    'phone' : '',
+                    'address' : '431 Front Street; Wrangell, Alaska 99929 907-874-3340 - 1250 Hilltop Drive; Craig, Alaska 99921 907-826-3341 - 636 Stedman Street; Ketchikan, Alaska 99901 907-225-3342D',
+                    'url' : 'http://www.baycompany.com/',
+                    'email' : '',
+        'content' : 'Safely navigate even the most challenging terrains with the help of The Bay Company. We offer new and pre-owned marine and powersport units to customers in Wrangell, Craig, Ketchikan, AK, as well as all of our surrounding communities. Our team is staffed with top Yamaha and Mercury certified technicians and the most knowledgeable sales team in the business.  We not only sell the highest quality motors, vehicles, parts, and accessories, our trained technicians also service boats, motors, ATVs, and snowmobiles. Need a conversion or looking to repower? Our team can handle that as well!'
+    
+    },
+    {
+        'title' : 'Bayside Marine',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/bayside_marine.jpg',
                     'phone' : '(425)-252-3088',
                     'address' : '1111 Craftsman Way, Everett, WA 98201',
@@ -111,7 +149,7 @@ const Boats = [
     },
     {
         'title' : 'Commencement Bay Marine Services',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253)-572-2666',
                     'address' : '820 East D Street, Tacoma, WA 98421',
                     'url' : 'http://www.cbmsi.com/',
@@ -121,7 +159,7 @@ const Boats = [
     },
     {
         'title' : 'Culver Marine',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(541)-546-3354',
                     'address' : '9066 SW Feather Dr., Culver, Oregon 97734',
                     'url' : 'http://www.culvermarine.com/',
@@ -131,7 +169,7 @@ const Boats = [
     },
     {
         'title' : 'Gateway Trailers',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(208)-743-0720',
                     'address' : '9066 SW Feather Dr., Culver, Oregon 97734',
                     'url' : 'https://gateway-materials.com/',
@@ -151,7 +189,7 @@ const Boats = [
     },
     {
         'title' : 'Inland Boats & Motors',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(509)-925-1758',
                     'address' : '111 N Kittitas St, Ellensburg, WA 98926',
                     'url' : 'https://www.inlandboatsandmotors.com/',
@@ -161,7 +199,7 @@ const Boats = [
     },
     {
         'title' : 'Lee Lock Anchor Systems',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360)-380-1864',
                     'address' : '',
                     'url' : 'http://www.leelockas.com/',
@@ -171,7 +209,7 @@ const Boats = [
     },
     {
         'title' : 'Life Proof Boats',
-        'logo' : '', 
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png', 
                     'phone' : '(360)-674-7019',
                     'address' : '5626 SW Imperial Way, Bremerton, WA 98312',
                     'url' : 'http://www.lifeproofboats.com/',
@@ -181,7 +219,7 @@ const Boats = [
     },
     {
         'title' : 'Madras Marine',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(541)-475-2476',
                     'address' : '1810 SW Highway 97, Madras, OR 97741',
                     'url' : 'http://www.madrasmarine.com/',
@@ -221,7 +259,7 @@ const Boats = [
     },
     {
         'title' : 'Mosquito Jet Scott Craft',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(867)-336-3336',
                     'address' : '',
                     'url' : 'http://www.mosquitojetscottcraft.com/',
@@ -251,7 +289,7 @@ const Boats = [
     },
     {
         'title' : 'Pelican Marina LLC',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(541)-882-5834',
                     'address' : '',
                     'url' : 'http://pelicanmarinaoregon.com/',
@@ -301,7 +339,7 @@ const Boats = [
     },
     {
         'title' : 'Southern Jet of North America',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '236-999-9754',
                     'address' : '',
                     'url' : 'http://www.facebook.com/southernjetNA/',
@@ -341,7 +379,7 @@ const Boats = [
     },
     {
         'title' : 'Tom-n-Jerrys Boat Center',
-        'logo' : '', 
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png', 
                     'phone' : '(360) 466-9955',
                     'address' : '',
                     'url' : 'https://www.tomnjerrys.net/',
@@ -361,7 +399,7 @@ const Boats = [
     },
     {
         'title' : 'Verle’s LLC',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 426-0933',
                     'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
                     'url' : 'http://www.verles.com/',

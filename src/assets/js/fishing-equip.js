@@ -1,11 +1,22 @@
 const Fishingequip = [
     {
+        'title' : 'Bait Buttons',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/BaitButtons-Logo.jpg',
+                    'phone' : '530-945-1780',
+                    'address' : 'P.O. BOX 337, Fall River Mills, CA 96028',
+                    'url' : 'http://www.baitbuttons.com/',
+                    'email' : 'info@baitbuttons.com',
+                    'class' : 'premium',
+        'content' : 'Bait the hook with Bait Buttons the bait stopper every fisherman needs. Keeps bait in place on hook, exposes hook better for more hookups, bait won’t slip back causing missed hook-ups. Catch more fish with same bait saving money.'
+    },
+    {
         'title' : 'Bay De Noc Lure Co.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/baydenoc.jpg',
                     'phone' : '(906) 428-1133',
                     'address' : '',
                     'url' : 'https://baydenoclure.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'The Swedish Pimple is a superb jigging lure. This type of lure has been widely used in Sweden for over 100 years with exceptional results on both fresh and salt-water fish. Jig it, summer or winter! Their proven ability to take walleye, trout, Coho salmon, northern, bass, pan fish and many salt water species makes owning this lure a must for most all larger sizes are for game fish in deep water lakes.'
     },
     {
@@ -15,11 +26,30 @@ const Fishingequip = [
                     'address' : '',
                     'url' : 'http://www.buzzbombtackle.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'Fishing with buzz bomb is definitely one of the most famous and trusted ways to catch salmon, trout, walleye, pike, and even bass. One of the most iconic and patented shapes, the Buzz Bomb is your golden ticket for catching huge fish like salmon, lake trout, and all species in deep as well as shallow waters. Just match your size to bait fish size and depth. All Buzzbomb Tackle products are made in Canada by hand – hand cast, hand painted and hand packaged in Courtenay BC Canada. The iconic sonic lure mimics vibrations conveyed by wounded baitfish and attracts predatory fish. It is a simple set up that reduces the need for any additional tackle and is hugely popular with non-motorized fishing and kids, as well as the most seasoned angler. We bring you a huge array of bright colours including holographic finishes and UV finishes, as well as our world famous hot pink, fire orange and pearl finishes. Handcrafted by the most experienced team of fishing industry professionals, we have designed every single aspect of the product. You can explore all the available colors for your water conditions.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Crabby Lift',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(503) 910-1469',
                     'address' : '',
                     'url' : 'http://crabbylift.com/',
@@ -28,7 +58,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Eat Me Lures',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(503) 779-1059',
                     'address' : '',
                     'url' : 'http://www.eatmelures.com/',
@@ -37,7 +67,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Englund Marine & Industrial Supply',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(503) 325-4341',
                     'address' : '',
                     'url' : 'https://www.englundmarine.com/pages/Specials.html',
@@ -55,7 +85,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Fishing Butler',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(905) 807-3221',
                     'address' : '',
                     'url' : 'http://fishingbutler.com/',
@@ -64,7 +94,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Hot Spot Lures',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(250) 727-9956',
                     'address' : '',
                     'url' : 'https://www.hotspotlures.com/',
@@ -82,7 +112,7 @@ const Fishingequip = [
     },
     {
         'title' : 'LFS Marine & Outdoor',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '800-426-8860',
                     'address' : '851 Coho Way, Bellingham, WA 98225 908 NW Ballard Way, Seattle, WA 98107',
                     'url' : 'https://www.go2marine.com/',
@@ -90,8 +120,17 @@ const Fishingequip = [
         'content' : 'You can count on LFS Marine & Outdoor to get the boat, marine, fishing, and outdoor parts and equipment you need, and ship them directly to you, no matter where you are. With our main distribution center in Bellingham, WA, internet orders ship quickly, and our retail stores are fully-stocked with everything you need at fair prices. '
     },
     {
+        'title' : 'McKay Shrimp and Crab Gear',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/MCKAY_SHRIMP-LOGO.jpg',
+                    'phone' : '360-796-4555',
+                    'address' : '306362 Hwy 101 PO Box 370, Brinnon, WA 98320',
+                    'url' : 'http://www.mckayshrimpandcrabgear.com/',
+                    'email' : 'mckaygear@mckayshrimpandcrabgear.com',
+        'content' : 'McKay Shrimp and Crab Gear assembles shrimp and crab pots in its manufacturing plant in Brinnon, WA. The show room and sales office displays the essential gear that shrimpers and crabbers need to out fit their boats for shrimping and crabbing. The company ships pots, pullers, buoys, bait, line and other useful additions to the shrimping and crabbing experience. In addition to assembling and selling shrimping and crabbing equipment, McKay Shrimp and Crab Gear also packages and sells its own line of shrimp and crab bait – Super Bait pellets AND Shrimp Candy.'
+    },
+    {
         'title' : 'McOmie’s Custom Lures LLC',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '',
                     'address' : '',
                     'url' : 'https://mcomiescustomlures.com/',
@@ -100,7 +139,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Mud Hole Custom Tackle',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(866) 790-7637',
                     'address' : '',
                     'url' : 'https://www.mudhole.com/',
@@ -136,7 +175,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Reliable Fishing Products',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(949) 291-6266',
                     'address' : '',
                     'url' : 'https://reliablefishing.com/',
@@ -145,7 +184,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Revenge Baits',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '205-620-6191',
                     'address' : '',
                     'url' : 'http://www.revengebaits.com/',
@@ -163,7 +202,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Thomas Spinning Lures, Inc.',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(800) 724-6768',
                     'address' : '',
                     'url' : 'https://thomaslures.com/site/',

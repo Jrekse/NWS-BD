@@ -6,6 +6,7 @@ const Gear = [
                     'address' : '9114 State Ave , Marysville Wa 98270',
                     'url' : 'http://www.blackmaxbike.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'We provide virtually silent lithium powered bikes, specifically designed for the outdoors with the most powerful motors allowed by law. Family owned and operated your connection to sales, parts and expert technical service are just a click or phone call away.'
     },
     {
@@ -15,6 +16,7 @@ const Gear = [
                     'address' : '',
                     'url' : 'https://www.camofacepaint.com/',
                     'email' : 'info@bobbieweiner.com',
+                    'class' : 'premium',
         'content' : 'Bobbie Weiner has manufactured and provided Camo Face Paint to all branches of the U.S. military and hunting industry for 22-plus years.   This past winter, Bobbie was asked by the military to create a new face paint kit. It is now available to all end users and distributors. The new three-color compact face paint wheel includes black, loam and olive green. There is also an unbreakable mirror included in the inside of the compact. Private labeling is available. Bobbie manufactures three-color, four-color and five-color compacts that all come with unbreakable mirrors. She also makes tubes filled with her camo face paint in Acu, Woodland and Scorpion colors.   Her makeup is made of the highest quality. It is odorless, non-glare, non-toxic, hypoallergenic, washes off with soap and water, and has a four-year shelf life. Each compact will last for 20-plus applications. All makeup is manufactured and packaged in the USA.'
     },
     {
@@ -24,8 +26,27 @@ const Gear = [
                     'address' : '',
                     'url' : 'http://www.canvascabins.com/',
                     'email' : 'bob@canvascabins.com',
+                    'class' : 'premium',
         'content' : 'We build the finest wall tents in Garrison, Montana made anywhere using the best materials available. Our pricing is competitive. Our tents are made to order to provide the options you want. We have our classic outside frame or your choice of aluminum or steel inside frames available. Please check out our website or call anytime to talk tents.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Davis Tent & Awning',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Davis_Tents-logo.jpg',
@@ -46,7 +67,7 @@ const Gear = [
     },
     {
         'title' : 'Oomingmak Musk Ox Producers’ Co-operative',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(888) 360-9665',
                     'address' : '',
                     'url' : 'http://www.qiviut.com/',
@@ -64,7 +85,7 @@ const Gear = [
     },
     {
         'title' : 'Rangestore.net for Steel Target Paint',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '888-488-1114',
                     'address' : '',
                     'url' : 'http://www.rangestore.net/',
@@ -73,7 +94,7 @@ const Gear = [
     },
     {
         'title' : 'Robertson Enterprises',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '307-587-2925 307-272-5560',
                     'address' : 'P.O. 1711, Cody, WY 82414',
                     'url' : 'http://www.robertsonenterprises.net/',
@@ -91,12 +112,21 @@ const Gear = [
     },
     {
         'title' : 'TopperLift',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(877) 876-2576, (651) 207-5634',
                     'address' : '',
                     'url' : 'http://www.topperezlift.com/',
                     'email' : 'info@topperezlift.com',
         'content' : 'The Topperlift is a universal lifting kit that fits all full and mid-size pickup trucks, 5′-8′ Box. Add our universal Camper Package and transform your existing truck and topper into a cozy pop-up camper in seconds! Large zippered side windows allow for easy side load access, good ventilation and a big view of those amazing vistas! Hauling, camping, fishing, hunting and all your outdoor activities just became that much easier! The Weekender Camper Package Includes the 3 side panels and the Weekender Back. The Weekender Back Utilizes the tailgate for extra room and is perfect for short bed pick-ups needing to maximize sleeping space and the entrance functions similar to a traditional dome-style tent.'
+    },
+    {
+        'title' : 'Wonderduck Decoys',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/wonderduck-logo.jpg',
+                    'phone' : '1-800-876-1697',
+                    'address' : '',
+                    'url' : 'http://www.wonderduck.com/',
+                    'email' : 'sales@wonderduck.com',
+        'content' : 'Wonderduck produces the ideal motion decoy for duck hunters. With over 350 options and a wide variety of species including Mallards, Teal, Redhead, Bluebill, Pintail, Gadwall, Canvasback, Woodduck, Coot, Specklebelly and Canada Goose. Also customizes and repair all Wonderduck decoys no matter the condition.'
     },
     {
         'title' : 'Woodman’s Pal',

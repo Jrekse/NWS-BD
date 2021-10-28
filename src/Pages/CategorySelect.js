@@ -1,5 +1,4 @@
-// import React, {Component} from 'react';
-// import BlackH from "../assets/images/black_hills-300X600.jpg"
+// import Logo from '../assets/images/NWS.png'
 import '../assets/css/CatSelect.css';
 
 function Catselect(props){
@@ -9,8 +8,8 @@ function Catselect(props){
 
             <section className='CSMain'>
 
-                <section className='categoryselectTable'>
-                    <h2><strong>Select a Category</strong></h2>
+                <div className='categoryselectTable'>
+                    <h2><strong>Northwest Sportsman's Business Directory</strong></h2>
                     <a href="https://wsbnw.com/" target='_blank' rel='noreferrer'><img className='banner' src="https://nwsportsmanmag.com/wp-content/uploads/2021/01/web-steel-banner.jpg" alt='sponsor banner'/></a>
                     <br/>
                     <br/>
@@ -34,9 +33,9 @@ function Catselect(props){
                                 <td><a href='#Government Agencies' onClick={() => props.handlePageChange("Government Agencies")}>Government Agencies</a></td>
                                 <td><a href='#Holsters' onClick={() => props.handlePageChange("Holsters")}>Holsters</a></td>
                                 <td><a href='#Hunting' onClick={() => props.handlePageChange("Hunting")}>Hunting</a></td>
+                                <td><a href='#Hunting Guides' onClick={() => props.handlePageChange("Hunting Guides")}>Hunting Guides</a></td>
                             </tr>
                             <tr>
-                                <td><a href='#Hunting Guides' onClick={() => props.handlePageChange("Hunting Guides")}>Hunting Guides</a></td>
                                 <td><a href='#HuntingEducation' onClick={() => props.handlePageChange("Hunting Education")}>Hunting Education</a></td>
                                 <td><a href='#Insurance' onClick={() => props.handlePageChange("Insurance")}>Insurance</a></td>
                                 <td><a href='#Knives' onClick={() => props.handlePageChange("Knives")}>Knives</a></td>
@@ -51,17 +50,14 @@ function Catselect(props){
                                 <td><a href='#RVs' onClick={() => props.handlePageChange("RV's")}>RV's</a></td>
                                 <td><a href='#Safes' onClick={() => props.handlePageChange("Safes")}>Safes</a></td>
                                 <td><a href='#SportFishing' onClick={() => props.handlePageChange("Sport Fishing")}>Sport Fishing</a></td>
+                                <td><a href='#SportingGoods' onClick={() => props.handlePageChange("Sporting Goods")}>Sporting Goods</a></td>
                                 <td><a href='#Tourism' onClick={() => props.handlePageChange("Tourism")}>Tourism</a></td>
                                 <td><a href='#Trucks' onClick={() => props.handlePageChange("Trucks")}>Trucks</a></td>
                             </tr>
                             <tr></tr>
                         </tbody>
                     </table>
-                    <br/>
-                    <a href="http://www.deadfootarms.com/" target='_blank' rel='noreferrer'><img className='ad1' src="https://nwsportsmanmag.com/wp-content/uploads/2021/09/Dead-Foot-Arms.jpg" alt='sponsor banner'/></a>
-                    <a href="https://www.cdnnsports.com/" target='_blank' rel='noreferrer'><img className='ad1' src="https://nwsportsmanmag.com/wp-content/uploads/2021/09/BannerAd400x300-July.jpg" alt='sponsor banner'/></a>
-                    <a href="http://www.powershopcentralia.com/" target='_blank' rel='noreferrer'><img className='ad1' src="https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg" alt='sponsor banner'/></a>
-                </section>
+                </div>
             </section>
         </div>
       )

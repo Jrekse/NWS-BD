@@ -6,15 +6,17 @@ const lodging = [
                     'address' : '',
                     'url' : 'https://www.alaskaadventurecabins.com/',
                     'email' : 'info@alaskaadventurecabins.com; helpsellhomes@mtaonline.net',
+                    'class' : 'premium',
         'content' : 'Enjoy the privacy of your own cabin on 15 pristine acres with all the amenities of home and spectacular views overlooking volcanoes, glaciers, and the Kenai Mountains near Homer and Kachemak Bay in Alaska. Our cabins are conveniently located near Homer Spit restaurants and activities. Plan your adventure to Homer and create memories to last a lifetime.'
     },
     {
         'title' : 'Alaska’s Anvik River Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '1-866-885-0020; 907-519-6040; 907-663-6324',
                     'address' : '',
                     'url' : 'http://www.anviklodge.com/',
                     'email' : 'info@anviklodge.com',
+                    'class' : 'premium',
         'content' : 'The hand-hewn spruce log lodge is 6,000 square feet & houses up to 15 guests in five interior rooms & one two-bedroom cabin. The interior rooms open out onto the hub of the lodge’s activity – a large great room with vaulted ceilings & big picture windows that look directly onto the river. The great room is complete with wood stove, comfy couches & chairs, bar area and a huge rustic dining table where our guests enjoy dining & socializing with one another. A portion of the main lodge is an original homesteader’s cabin that has been converted into kitchen, pantry and your host’s family quarters.'
     },
     {
@@ -24,8 +26,27 @@ const lodging = [
                     'address' : '',
                     'url' : 'http://www.anniemae.com/',
                     'email' : 'reservations@anniemae.com',
+                    'class' : 'premium',
         'content' : 'Beautiful full service lodge on the Good River. Boasting gourmet food, beer, wine, courtesy van, bikes, and tours. We offer an experience of a lifetime while carrying on the tradition of country hospitality in frontier Alaska. Your true Alaskan experience is waiting for you here.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Benny’s Colville Inn',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/Bennys-Colville-Inn-logo.jpg',
@@ -55,7 +76,7 @@ const lodging = [
     },
     {
         'title' : 'Bristol Adventures',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '800-544-0551',
                     'address' : '',
                     'url' : 'http://www.bristoladventures.com/',
@@ -64,7 +85,7 @@ const lodging = [
     },
     {
         'title' : 'Caples Lake Resort',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(209) 258-8888',
                     'address' : '',
                     'url' : 'http://capleslakeresort.com/',
@@ -72,8 +93,17 @@ const lodging = [
         'content' : 'Located in the Historic Carson Pass Area of the Northern California Sierras, on the north shoreline of the 600 acre Caples Lake at 7806? elevation, 1 mile east of the Kirkwood Mountain Resort, at 1111 California State Highway 88.  We are 30 miles from South Lake Tahoe, California, within the El Dorado National Forest, under a USFS Special Use Permit. Our resort features: • 9 cozy housekeeping cabins overlooking Caples Lake and the High Sierra Mountains. • A 2 story Lodge with 6 B&B Lodge Rooms, on the shore of Caples Lake. • A Marina with boat rentals, boat launch, a bait & snacks store, and trophy trout fishing. • Renewable energy – off the grid and green.'
     },
     {
+        'title' : 'Coffman Cove Bear’s Den',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/CoffmanCoveBearsDen_logo.jpg',
+                    'phone' : '907-329-2327 (Bear) or 518-705-2862',
+                    'address' : '114 NW Zarembo Dr, Coffman Cove, AK  99918',
+                    'url' : 'http://www.coffmancovesbearsden.com/',
+                    'email' : 'reservations@capleslakeresort.com',
+        'content' : 'Coffman Cove’s Bear’s Den is a modern triplex facing south with a magnificent view of Clarence Straits and the snowcapped mountains of distant British Columbia. View our gallery to see for yourself! Coffman Cove Bear’s Den specializes in very affordable self-guide fishing packages. Enjoy our comfortable lodging, delicious meals and great views.'
+    },
+    {
         'title' : 'Crystal Lake Resort',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(604) 629-9836',
                     'address' : '',
                     'url' : 'https://www.crystallakebc.com/',
@@ -82,7 +112,7 @@ const lodging = [
     },
     {
         'title' : 'Denise Lake Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '907-262-1789',
                     'address' : '',
                     'url' : 'https://deniselakelodge.com/',
@@ -127,7 +157,7 @@ const lodging = [
     },
     {
         'title' : 'Hoh Rainforest Resort',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 477-1675, (360) 477-7232',
                     'address' : '1171 Big Pine Way; Forks, WA 98331',
                     'url' : 'http://www.hohrainforestresort.com/',
@@ -163,7 +193,7 @@ const lodging = [
     },
     {
         'title' : 'Legacy Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(877) 347-4534',
                     'address' : 'Rivers Inlet, British Columbia',
                     'url' : 'https://www.legacylodge.com/',
@@ -172,7 +202,7 @@ const lodging = [
     },
     {
         'title' : 'MarDon Resort',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(509) 346-2651',
                     'address' : '',
                     'url' : 'http://www.mardonresort.com/',
@@ -181,7 +211,7 @@ const lodging = [
     },
     {
         'title' : 'Sunny Valley RV Park and Campground',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(541) 479-0209',
                     'address' : '140 Old Stage Rd, Sunny Valley, OR 97497',
                     'url' : 'http://www.sunnyvalleyrvparkandcampground.com/',
@@ -190,7 +220,7 @@ const lodging = [
     },
     {
         'title' : 'Thorne Bay Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(503) 680-1755',
                     'address' : '',
                     'url' : 'http://www.thornebaylodge.com/',
@@ -198,8 +228,17 @@ const lodging = [
         'content' : 'Thorne Bay Lodge is located on Prince of Wales Island in Southeast Alaska. We offer guided fishing trips for halibut and salmon on the calm waters of the inside passage. Along with self-guided fishing on the world famous rivers of the island. Being centrally located on Prince of Wales Island we offer you great access to 2,600 square miles of public land in Tongass National Forest. We offer self-guided hunts for Sitka Blacktail Deer. Sitka Blacktails offer a unique hunting experience and Prince of Wales Island is the best place to get your trophy. Our suites are fully furnished and include: Two bedrooms (2 twin beds each) that sleep up to 4 people, private bathroom with shower, all linens and towels included, full kitchen with all utensils, coffee maker, crock pot, etc., crew cab truck with a canopy (unlimited mileage), and a gas barbecue grill.'
     },
     {
+        'title' : 'Tikchik Narrows Lodge',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Tikchik_Narrows_Lodge_logo.jpg',
+                    'phone' : '907-243-8450',
+                    'address' : 'P.O. Box 220507, Anchorage, AK 99522',
+                    'url' : 'http://www.tikchiklodge.com/',
+                    'email' : '',
+        'content' : 'Over the years Tikchik Narrows Lodge has grown and developed an incredible Bristol Bay, Alaska sportfishing program with a network of over 40 boats located throughout the region. No other lodge in Alaska has more experience than Tikchik Narrows Lodge. The sportfishing opportunities in the Bristol Bay area are truly mind boggling. You will find not only a great diversity of species, but also huge numbers. Our fishing is conducted in the western half of Bristol Bay. The areas we fish include the Nushagak River drainage, Wood River Lakes system, Togiak River drainage, Kulukak River, Tikchik Lakes and some Iliamna water. We only fish in fresh water river and lakes.  The Main Lodge has large comfortable lounging areas with a natural stone fireplace and a unique circular dining room which is suspended above the lake. Both the Main Lodge and dining room are enclosed by large picture windows, which offer a spectacular panoramic view to take in while enjoying our gourmet meals. There is a full service bar and a large deck overlooking the Narrows where you can fish right in front of the lodge. There are 7 duplex guest cabins all located on the lake shore overlooking Nuyukuk Lake and the Kilbuck mountains of Bristol Bay to the west. Each room has a full private bath, independent heat and hot water, lots of closet space and shelving, and large picture windows looking out to the lake and mountains.'
+    },
+    {
         'title' : 'Togiak River Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : 'June – September (907) 493-2262 October – May (503) 784-7919',
                     'address' : 'Togiak, Alaska',
                     'url' : 'http://www.togiaklodge.com/',
@@ -208,7 +247,7 @@ const lodging = [
     },
     {
         'title' : 'Vonnie’s Guide Service',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 747-6401',
                     'address' : '',
                     'url' : 'http://vonniescharters.com/',
@@ -217,7 +256,7 @@ const lodging = [
     },
     {
         'title' : 'Yakutat Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(800) 925-8828',
                     'address' : '',
                     'url' : 'http://yakutatlodge.com/',

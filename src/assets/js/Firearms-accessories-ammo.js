@@ -1,11 +1,12 @@
 const Firearms = [
     {
         'title' : 'Advantage Tactical Sight',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(310) 316-6413',
                     'address' : '',
                     'url' : 'https://advantagetactical.com/',
                     'email' : 'info@advantagetactical.com',
+                    'class' : 'premium',
         'content' : 'The Advantage Tactical Pyramid Sight is our original sight concept. It features a steel rear sight base, a steel front sight base, 5 differently colored rear sight inserts and five differently colored front sights. In addition to each sight package having all ten colors, one may upgrade the front sights to our two glowing Firefly front sights — coral and lemon-lime. Both will glow for several hours when charged and will never lose the ability to hold a charge. With the ATPS, do not cover up any portion of the target; simply create a pyramid and place the tip-top of the pyramid where bullet impact is to occur. The ATPS is a completely customizable to the vision preferences of each shooter and is also windage and elevation adjustable. The Advantage Tactical Dark Diamond Sight is the only iron sight where an illuminated front sight alone, in subdued light, and without the ability to see the rear sight, is capable of making an accurate shot at combat distances. Of a different design than our ATPS Fireflies, the ATDDS is the most capable frontsight oriented handgun sight in the industry, whether in daylight or darkened situations. See adiamond in daylight or darkness and make your shot. The ATDDS rear sight obscures portions of the front sight to create a diamond sight picture, whether in daylight or subdued light. The ATDDS features an all steel rear sight base, steel front sight base, and our unique glowing Dark Diamond Firefly front sights. The ATDDS coral and yellow Firefly colors are standard with each sight set. We also have an aqua and lime-green upgrade, for those who desire more front sight color options. In addition, for those with yet to be designated Dark Diamond front sight colors, we have extra front and rear sight Dark Diamond bases, at a reduced price.'
     },
     {
@@ -15,20 +16,40 @@ const Firearms = [
                     'address' : '',
                     'url' : 'https://www.alphaoneoutdoors.com/',
                     'email' : 'alphaoneoutdoors@gmail.com',
+                    'class' : 'premium',
         'content' : 'Unique and high quality custom slides and triggers. Alpha One offers standard and cnc milled slides and upgraded performance triggers.'
     },
     {
         'title' : 'American Built Arms Company',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '443-310-8777',
                     'address' : '',
                     'url' : 'http://www.abarms.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'American Built Arms Company is a veteran owned, Type 07/NFA, U.S. Manufacturer of firearms and firearms parts and accessories to the law enforcement, military and civilian markets. Based in Glen Rock, PA, American Built Arms Company markets and sells its A*B Arms brand of high-end products through a network ofQQ dealers, distributors and OEM manufacturers.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Athlon Optics',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(855) 913-5678',
                     'address' : '801 N Meadowbrook Olathe, Kansas 66062',
                     'url' : 'http://www.athlonoptics.com/',
@@ -100,7 +121,7 @@ const Firearms = [
     },
     {
         'title' : 'Elftmann Tactical',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '602-773-9159',
                     'address' : '',
                     'url' : 'http://www.elftmanntactical.com/',
@@ -136,7 +157,7 @@ const Firearms = [
     },
     {
         'title' : 'Manners Composite Stocks',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : 'Manners Composite Stocks',
                     'address' : '',
                     'url' : 'http://www.mannersstocks.com/',
@@ -154,7 +175,7 @@ const Firearms = [
     },
     {
         'title' : 'October Country Muzzleloading',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(208) 762-4903',
                     'address' : '',
                     'url' : 'http://www.octobercountry.com/',
@@ -163,7 +184,7 @@ const Firearms = [
     },
     {
         'title' : 'Palmetto State Armory',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(803) 724-6950',
                     'address' : '',
                     'url' : 'http://www.palmettostatearmory.com/',
@@ -172,7 +193,7 @@ const Firearms = [
     },
     {
         'title' : 'Pierce Engineering',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(517) 321-5051',
                     'address' : '',
                     'url' : 'http://www.pierceengineeringltd.com/',
@@ -208,7 +229,7 @@ const Firearms = [
     },
     {
         'title' : 'Rangestore.net for Steel Target Paint',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(888) 488-1114',
                     'address' : '',
                     'url' : 'http://www.rangestore.net/',
@@ -217,7 +238,7 @@ const Firearms = [
     },
     {
         'title' : 'Rifle Basix',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(704) 499-3087',
                     'address' : '',
                     'url' : 'https://riflebasix.com/%22',
@@ -235,7 +256,7 @@ const Firearms = [
     },
     {
         'title' : 'Shell Shock Technologies',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.shellshocktech.com/',
@@ -244,7 +265,7 @@ const Firearms = [
     },
     {
         'title' : 'Stocky’s Rifle Stocks',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(561) 584-8500',
                     'address' : '',
                     'url' : 'https://www.stockysstocks.com/',
@@ -262,7 +283,7 @@ const Firearms = [
     },
     {
         'title' : 'UltiMAK, Inc.',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(208) 883-4734',
                     'address' : '',
                     'url' : 'http://ultimak.com/',
@@ -277,6 +298,15 @@ const Firearms = [
                     'url' : 'https://www.underwoodammo.com/',
                     'email' : 'sales@underwoodammo.com',
         'content' : 'We manufacture our precision ammunition with absolute care during the loading process to assure consistent quality. Each round is individually sight inspected before being packaged. We strive to provide you with the finest ammunition available. Produced with the utmost care and pride to deliver a product you can be confident in.'
+    },
+    {
+        'title' : 'Velocity Percision Engineering',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Velocity-logo.jpg',  
+                    'phone' : '(602) 595-5931',
+                    'address' : '2601 W. Lone Cactus Dr., Suite A, Phoenix, AZ 85027',
+                    'url' : 'https://www.underwoodammo.com/',
+                    'email' : 'http://www.velocitytriggers.com/',
+        'content' : 'Velocity Precision was founding by Tom Vehr and is based in Phoenix, Arizona. Tom has over 30 years of experience designing and manufacturing high quality drop-in triggers and high performance accessories for the AR rifle platform. All Velocity products are engineered and design with precision, quality and affordability in mind. With an ever expanding product line, Velocity Precision now offers red dot mounts for Glock and Smith & Wesson handguns as well as lightweight bolt carrier groups, adjustable gas blocks and more.'
     },
 ]
 export default Firearms;

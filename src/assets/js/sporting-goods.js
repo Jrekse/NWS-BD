@@ -1,11 +1,12 @@
 const sportgoods = [
     {
         'title' : 'Canvas Cabins LLC',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(971) 219-9000, 503-487-7404',
                     'address' : '',
                     'url' : 'https://canvascabins.com/',
                     'email' : 'bob@canvascabins.com',
+                    'class' : 'premium',
         'content' : 'We build the finest wall tents in Garrison, Montana made anywhere using the best materials available. Our pricing is competitive. Our tents are made to order to provide the options you want. We have our classic outside frame or your choice of aluminum or steel inside frames available. Please check out our website or call anytime to talk tents.'
     },
     {
@@ -15,17 +16,37 @@ const sportgoods = [
                     'address' : '',
                     'url' : 'https://forksoutfitters.com/',
                     'email' : 'store@forksoutfitters.com',
+                    'class' : 'premium',
         'content' : 'Forks Outfitters is proud to offer you a one-stop shopping experience that includes a full-service Thriftway Supermarket, Ace Hardware, Sporting Goods, Clothing and Shoes for the entire family. Our Sporting Goods department offers a wide variety of high-quality gear and supplies for the hunting, fishing and camping enthusiast.'
     },
     {
         'title' : 'LFS Marine & Outdoor',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '800-426-8860',
                     'address' : '851 Coho Way, Bellingham, WA 98225 - 908 NW Ballard Way, Seattle, WA 98107',
                     'url' : 'https://www.go2marine.com/',
                     'email' : 'sales@go2marine.com',
+                    'class' : 'premium',
         'content' : 'You can count on LFS Marine & Outdoor to get the boat, marine, fishing, and outdoor parts and equipment you need, and ship them directly to you, no matter where you are. With our main distribution center in Bellingham, WA, internet orders ship quickly, and our retail stores are fully-stocked with everything you need at fair prices. '
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Line-X of Gresham',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Line-X-Logo.jpg',

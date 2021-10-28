@@ -1,5 +1,5 @@
 .cards{
-    /* height: 100%; */
+    height: 435px;
     margin: 10px;
     display:inline-flex;
 }
@@ -14,28 +14,27 @@ a{
     margin: 10px;
     width: 400px;
 }
-.description{
-    background-color: #1D2D44;
+#myDropdown{
     text-align: left;
     color: #F0EBD8;
     margin: 10px;
     padding-right: 10px;
     padding: 5px;
     border-radius: 12px;
-    max-height: 150px;
+    max-height: 180px;
     overflow: hidden;
 }
-.description:hover{
+#myDropdown:hover{
     overflow: auto;
 }
-#myDropdown{
-    max-height: 330px;
-}
+
 ul{
     list-style: none;
 }
 img{
     text-indent:-9999px;
+    min-height: 120px;
+    height: 120px;
     width: 380px;
     margin-top: 10px;
     border-radius: 5px;
@@ -44,5 +43,20 @@ img{
     font-size:smaller;
 }
 .categoryTable{
-    columns: 3 auto;
+    padding-top: 360px;
+    /* columns: 3 auto; */
+}
+p{
+    margin: 0px;
+}
+.anad{
+    height: 300px;
+    width: 380px;
+}
+#ad{
+    background-color: white;
+    color: white;
+}
+#premium{
+    background-color:darkblue;
 }

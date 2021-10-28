@@ -1,20 +1,22 @@
 const power = [
     {
         'title' : 'Alaska Mining & Diving Supply',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '907-277-1741',
                     'address' : '3222 Commercial Dr, Anchorage, AK 99501',
                     'url' : 'https://www.akmining.com/',
                     'email' : 'sales@akmining.com',
+                    'class' : 'premium',
         'content' : 'Alaska’s premier supplier of outdoor powersports products, and we’re proud to be a premier dealer for Can-Am, Evinrude, Honda, Jetcraft, Lowe, Ski-Doo, Sea-Doo, C-Dory Boats, Sea Sport Boats and Yamaha. We offer ATVs, boats, generators, metal detectors, mining equipment, outboards, snowmobiles and watercraft, and we service what we sell! We’ve been dedicated to satisfying our customers since 1976, and are looking forward to helping you find the perfect equipment for you.'
     },
     {
         'title' : 'Crater Chain Saw',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(888) 672-7538',
                     'address' : '1321 N Riverside Ave., Medford, OR 97501',
                     'url' : 'https://craterchainsaw.stihldealer.net/',
                     'email' : 'Hours: Monday – Friday 8:00 am – 5:30 pm  Saturday 8:00 am – 12:00 pm',
+                    'class' : 'premium',
         'content' : 'Crater Chain Saw has been offering high quality garden and lawn equipment to Medford, OR since 1965. We also offer men, women, and kids’ clothing. We carry several top-notch brands. Visit us today! Lawn Equipment – Medford, OR – Crater Chain Saw. We offer: Sales, Service, Parts, Accessories, Oil. Equipment: Chainsaws, Brushcutters, Blowers, Hedge trimmers, Pole saws, Trimmers, Cut-off machines. Clothes: Men, women, and kids’ clothing, Big and tall sizes in stock, Carhartt and Danner brands.'
     },
     {
@@ -24,8 +26,27 @@ const power = [
                     'address' : '3102 Simpson Ave. Hoquiam, WA 98550',
                     'url' : 'http://www.harborsaw.com/',
                     'email' : 'sales@harborsaw.com',
+                    'class' : 'premium',
         'content' : 'Come in, Call or Email us and see what we have to offer: Outdoor Power Equipment, Logging Supplies, Wire Rope & Rigging, Tractors, Implements, Truck Supplies, Outdoor work wear and much more! We are Authorized Sales and Servicing Dealers for Stihl, Husqvarna and KIOTI. Loggers, Contractors, Arborists, Fishermen, Land Owners, Outdoor Workers, and YOU: Check us out to see what we have to offer! Our goal is to provide first rate products and support for our customers. Stop in or give us a call. Our Headquarters store, with full lines of merchandise and service is located at 3102 Simpson Avenue in Hoquiam, WA. Our Raymond branch is dedicated to saw and OPE repair with basic needs items available for purchase. This store also serves as drop off points for orders from the main store as well, with deliveries daily.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Hardware Sales Inc.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Hardware_Sales-logo.jpg',
@@ -37,7 +58,7 @@ const power = [
     },
     {
         'title' : 'Issaquah Honda Kubota',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(425) 392-5182',
                     'address' : '1745 NW Mall St, Issaquah, WA 98027',
                     'url' : 'http://www.issaquahhondakubota.com/',
@@ -46,7 +67,7 @@ const power = [
     },
     {
         'title' : 'L & L Equipment',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(503) 623-5116',
                     'address' : '1145 SW Oakdale Ave., Dallas, OR 97338',
                     'url' : 'http://www.landldallas.com/',
@@ -100,12 +121,21 @@ const power = [
     },
     {
         'title' : 'United Rentals',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253) 858-1234',
                     'address' : '3302 Hunt St, Gig Harbor, WA 98335',
                     'url' : 'http://www.unitedrentals.com/locations/wa/gig-harbor/equipment-tool-rentals/057',
                     'email' : '',
         'content' : ''
+    },
+    {
+        'title' : 'Vashon Ace Hardware',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Vashon_Ace-Hardware-logo.jpg',
+                    'phone' : '206-463-3852',
+                    'address' : '9750 SW Bank Rd, Vashon, WA 98070',
+                    'url' : 'http://www.vashonacehardware.com/',
+                    'email' : '',
+        'content' : 'At the Vashon Ace Hardware Service Center we sell and work on the following equipment: Simplicity, Honda, Stihl, Echo,Toro, Yardman, MTD … and many others. We also work on the following engines: Briggs and Stratton, Kohler, Honda,Tecumseh and Kawasaki We also repair window screens and cut window glass.  Our Service Center is also a Just Ask Rental Center and we rent a variety of tools, power equipment, cleaning equipment, as well as items for parties. Please see below for just a few of our items in the Rental Center or stop by and see everything we have to for your next project or party. You can reach us at 206.463.4019.'
     },
 ]
 export default power;

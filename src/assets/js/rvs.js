@@ -1,11 +1,12 @@
 const RV = [
     {
         'title' : 'Alaska Family Motorhomes',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 223-9351',
                     'address' : '5737 Old Seward Hwy',
                     'url' : 'https://www.alaskafamilymotorhomes.net/',
                     'email' : 'alaskachoices@alaska.net',
+                    'class' : 'premium',
         'content' : 'Travel in reliable, clean, fully self contained RV Motorhomes in stunningly beautiful Alaska. Unlimited miles, free kitchenware, free generator, optional bedding and insurance. View the Alaska Wildlife Conservation Center, Denali national park, Alaska SeaLife center, fish the world class Kenai river, camp the Homer spit, or fly in bear viewing.'
     },
     {
@@ -15,6 +16,7 @@ const RV = [
                     'address' : '',
                     'url' : 'http://www.clearviewrv.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'We have a “Clear View” of your RV needs, at Clearview RV. Clearview RV is a full service dealership located in Snohomish, WA on Highway 9 between Snohomish and Woodinville. We carry a large selection of toy hauler, travel trailer, and truck camper by some of the industries top manufacturers including Coachmen, Adrenaline, and Lance. Our non pressure sales staff are friendly and knowledgeable and pride themselves on honesty and integrity.'
     },
     {
@@ -24,8 +26,27 @@ const RV = [
                     'address' : '5401 Old Seward Hwy, Anchorage, AK 99518',
                     'url' : 'http://clippershiprv.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : ''
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'South Hill RV Sales',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/south_hill_rv-logo.jpg',
@@ -37,7 +58,7 @@ const RV = [
     },
     {
         'title' : 'U-Neek RV Center',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 425-3300',
                     'address' : '',
                     'url' : 'https://www.uneekrv.com/',

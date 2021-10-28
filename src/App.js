@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+
+
 import CatSelect from './Pages/CategorySelect';
 import Category from './Pages/Category';
 import auction from './assets/js/Auctioneers.js';
@@ -124,8 +126,9 @@ class App extends Component {
   render(){
       return (
         <div className="App">
-          <a className='goBack' href='https://nwsportsmanmag.com/'>Go back</a>
           <CatSelect currentPage={this.state.currentPage} handlePageChange={this.handlePageChange}/>
+          <br/>
+          {/* <a href="http://www.powershopcentralia.com/" target='_blank' rel='noreferrer'><img className='ad1' src="https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg" alt='sponsor banner'/></a> */}
           {this.renderPage()}
         </div>
       )

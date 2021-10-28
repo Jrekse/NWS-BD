@@ -1,7 +1,7 @@
 const Fishresort = [
     {
         'title' : 'Diamond Lake Resort & RV Park',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(541) 793-3333',
                     'address' : '',
                     'url' : 'http://www.diamondlake.net/',
@@ -10,7 +10,7 @@ const Fishresort = [
     },
     {
         'title' : 'King Salmondeaux Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 260-3474',
                     'address' : '',
                     'url' : 'https://www.kingsalmondeauxlodge.com/',
@@ -26,9 +26,27 @@ const Fishresort = [
                     'email' : '',
         'content' : 'MarDon Resort is a full service RV resort on Potholes Reservoir. Amenities include a marina, cottages, tackle/general store and restaurant, and a new big rig RV site. Sportsmen can fish the 28,000 acres of fresh water for walleye and large and small mouth bass, or hunt duck and goose when in season. MarDon Resort is family-owned and open all year.'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Spectacle Lake Resort',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(509) 223-3433',
                     'address' : '',
                     'url' : 'http://www.spectaclelakeresort.com/',

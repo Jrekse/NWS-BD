@@ -6,6 +6,7 @@ const Cleaning =[
                     'address' : '1485 Lively Blvd., Elk Grove, IL 60007',
                     'url' : 'http://www.iosso.com/',
                     'email' : 'iossoproducts@iosso.com',
+                    'class' : 'premium',
         'content' : 'Remove all Gun Fouling in 15 Minutes or less… So quick and effective, you will never go back to smelly, messy solvents. The system consists of the Iosso Bore Cleaner, the Iosso Premium Bore Brush, and the Iosso Triple Action Oil. The combination of these products will remove the nasty carbon burn, copper, lead, plastic wad and all other fouling associated with shooting. It’s great for people with allergies or intolerance to chemicals. The Bio-Based formulas are made from plant extracts. While keeping our environment healthy, it is also safer for the user, in that it is odorless. The blue brush is a trademark of Iosso, which stands for a quality product made in the USA.'
     },
     {
@@ -15,6 +16,7 @@ const Cleaning =[
                     'address' : '',
                     'url' : 'https://www.prolixlubricant.com/',
                     'email' : 'prolix@prolixlubricant.com',
+                    'class' : 'premium',
         'content' : 'PrOlix® is a greatly improved CLP, with a Citrus based cleaner w/Lube suspended in its formula. “Goes on wet, cleans, bonds, turns Dry to the touch!” It is also Biodegradable and Earth Friendly. Lab developed and tested by Law Enforcement, Military,& Shooter over many years. PrOlix® is also used in Commercial/Industrial applications, won’t wipe off, burn off, Build up, or stain clothing for our CCW team members! Rated the safest product and first to be listed on the USDA’s Bio-Preferred Products Website in 2012. PrOlix® will start 33rd Anniversary year soon, so look for an Announcement!'
     },
     {
@@ -24,8 +26,27 @@ const Cleaning =[
                     'address' : '',
                     'url' : 'http://seal1.com/',
                     'email' : 'slee@seal1.net',
+                    'class' : 'premium',
         'content' : 'SEAL1 manufactures high end, bio-based, green engineered gun care products made in the USA. SEAL1 products clean, lubricate and protect in one easy step for both your archery and firearm needs!'
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'Shell Shock Technologies',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Shell-Shock-LOGO.jpg',  
@@ -55,7 +76,7 @@ const Cleaning =[
     },
     {
         'title' : 'Zerust',
-        'logo' : '',  
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
                     'phone' : '(330) 405-1965',
                     'address' : '',
                     'url' : 'https://www.zerustproducts.com/',

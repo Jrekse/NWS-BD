@@ -6,16 +6,18 @@ const Construction = [
                     'address' : '',
                     'url' : 'http://www.wildstrawberrylodge.com/',
                     'email' : '',
+                    'class' : 'premium',
         'content' : 'Wild Strawberry Lodge, located in scenic Sitka, Alaska, offers incredible multi-day inclusive fishing vacations for halibut and salmon fishing. Our professional guide staff and experienced deckhands make fishing easy and exciting, using only the finest custom-built charter fishing vessels and top-quality sport fishing gear. You’ll experience true Alaskan hospitality coupled with great fishing and fine dining. After each awesome day of fishing, you’ll snack on appetizers while sharing the stories of your day’s adventures as our professional chef prepares a delicious, all-you-can-eat, dinner. With over 28 years of experience and excellence in Alaska fishing vacations, we’re the perfect place to come with your family and friends.'
     
     },
     {
         'title' : 'Alaskan Summertime Charters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 224-3277',
                     'address' : '',
                     'url' : 'https://www.alaskansummer.com/',
                     'email' : 'alaskansummer@gmail.com',
+                    'class' : 'premium',
         'content' : 'Alaskan Summertime Charters invites you to enjoy an exciting day of deep sea halibut or Salmon fishing aboard one of our comfortable boats. In addition you will enjoy spectacular sightseeing as you enjoy your day of fishing. You will see rugged uninhabited islands, snow-capped mountains, whales, sea lions, porpoises, seals, sea otters, and a diverse population of beautiful sea birds.'
     
     },
@@ -26,12 +28,31 @@ const Construction = [
                     'address' : '',
                     'url' : 'http://www.allwashingtonfishing.com/',
                     'email' : 'mark@allwashingtonfishing.com',
+                    'class' : 'premium',
         'content' : 'With the permits, guides, and captains, our team offers you the very best fishing opportunities at any given time of the year. Whether you’re fishing in Seattle, Westport or anywhere in between, you can expect the highest quality service, boats, and equipment.'
     
     },
+            // ad vv
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            {
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+                'adurl' : 'https://www.cubcadet.com/en_US/home'
+            },
+            {
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'class' : 'ad',
+                'imgclass' : 'anad',
+            },
+            // ad ^^
     {
         'title' : 'All Ways Fishing',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 374-2052',
                     'address' : '',
                     'url' : 'http://www.allwaysfishing.com/',
@@ -61,7 +82,7 @@ const Construction = [
     },
     {
         'title' : 'Big Blue Charters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 747-5161',
                     'address' : '',
                     'url' : 'https://www.bigbluecharters.com/',
@@ -71,7 +92,7 @@ const Construction = [
     },
     {
         'title' : 'Blue Moon Fishing Adventures',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 521-0273',
                     'address' : '',
                     'url' : 'http://www.bluemoonfishingadventures.com/',
@@ -81,7 +102,7 @@ const Construction = [
     },
     {
         'title' : 'Bottom Line Charters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 567-7366',
                     'address' : '66691 Oil Well Road, Ninilchik, Alaska 99639',
                     'url' : 'http://www.bottomlinecharters.us/',
@@ -91,7 +112,7 @@ const Construction = [
     },
     {
         'title' : 'Captain’s Reel Deep Sea Fishing',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(800) 865-7441',
                     'address' : '',
                     'url' : 'http://www.captainsreel.com/',
@@ -141,7 +162,7 @@ const Construction = [
     },
     {
         'title' : 'Hakai Lodge',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(206) 669-2158',
                     'address' : '',
                     'url' : 'https://www.hakai-lodge.com/',
@@ -151,7 +172,7 @@ const Construction = [
     },
     {
         'title' : 'Offshore Northwest',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253) 380-9973',
                     'address' : '',
                     'url' : 'http://www.offshorenorthwest.com/',
@@ -161,7 +182,7 @@ const Construction = [
     },
     {
         'title' : 'Pacific Salmon Charters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 642-3466',
                     'address' : '191 Howerton Ave, Ilwaco, WA 98624',
                     'url' : 'http://pacificsalmoncharters.com/',
@@ -171,7 +192,7 @@ const Construction = [
     },
     {
         'title' : 'Shark Tooth Charters',
-        'logo' : '',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 351-8853',
                     'address' : '',
                     'url' : 'http://sharktoothcharters.com/',
