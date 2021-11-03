@@ -10,7 +10,7 @@ function Category(props){
                     return(  
                         <div className='cards' key={index}>   
                             <div className='PostCard' id={obj.class}>
-                                <a href={obj.adurl} target='_blank' rel='noreferrer'><img src={obj.logo} className={obj.imgclass} alt='logo'/></a>
+                                <a href={obj.adurl} target='_blank' rel='noreferrer'><img src={obj.logo} id='logo' className={obj.imgclass} alt='logo'/></a>
                                 <h2 className='title' >{obj.title}</h2>
                                 <section id="myDropdown" className="dropdown-content">
                                     <p>{obj.address}</p>                                    

@@ -1,6 +1,51 @@
+@media only screen and (max-width: 600px){
+    body{
+        width: 90%;
+        max-width: 600px;
+        justify-content: center;
+    }
+    .cards{
+        margin: 0px 0px 10px 0px;
+        max-width: 90%;
+    }
+    .untable{
+        overflow: auto;
+    }
+}
+@media only screen and (min-width: 600px){
+    body{
+        justify-content: center;
+    }
+    .cards{
+        margin: 0px 0px 10px 0px;
+        max-width: 90%;
+    }
+    img{
+        width: 360;
+    }
+    .untable{
+        overflow: auto;
+    }
+}
+@media only screen and (min-width: 768px){
+    body{
+        justify-content: center;
+    }
+    .cards{
+        margin: 0px 0px 10px 0px;
+        max-width: 90%;
+    }
+    img{
+        width: 360;
+    }
+    .untable{
+        overflow: auto;
+    }
+}
 .cards{
+    min-width: 30%;
     height: 435px;
-    margin: 10px;
+    max-width: 100%;
     display:inline-flex;
 }
 a{
@@ -11,7 +56,7 @@ a{
     background-color: #0D1321;
     color: #F0EBD8;
     border-radius: 12px;
-    margin: 10px;
+    /* margin: 10px; */
     width: 400px;
 }
 #myDropdown{
@@ -33,7 +78,6 @@ ul{
 }
 img{
     text-indent:-9999px;
-    min-height: 120px;
     height: 120px;
     width: 380px;
     margin-top: 10px;
@@ -43,6 +87,7 @@ img{
     font-size:smaller;
 }
 .categoryTable{
+    max-width: 100%;
     padding-top: 360px;
     /* columns: 3 auto; */
 }

@@ -1,6 +1,27 @@
+@media only screen and (max-width: 600px){
+    .banner{
+        height: auto;
+        width: 400px;
+    }
+}
+@media only screen and (min-width: 600px){
+    .banner{
+        height: auto;
+        width: 600px;
+    }
+}
+@media only screen and (min-width: 768px){
+    .banner{
+        height: auto;
+        width: 750px;
+    }
+    .selection{
+        width: 100%;
+    }
+}
 .CSBody{
-    margin-left: 10px;
-    margin-right: 10px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
     background-color: white;
     position:fixed;
     top: 0;
@@ -20,10 +41,10 @@ td{
 td:hover{
     background-color: #0D1321;
 }
-.banner{
+/* .banner{
     width: 1000px;
-    height: 100px;
-}
+    max-width: 100%;
+} */
 .ad1{
     width: 400px;
     height: 300px;
