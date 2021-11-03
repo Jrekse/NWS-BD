@@ -3,11 +3,17 @@
         height: auto;
         width: 400px;
     }
+    .selection{
+        width: 100%;
+    }
 }
 @media only screen and (min-width: 600px){
     .banner{
         height: auto;
         width: 600px;
+    }
+    .selection{
+        width: 100%;
     }
 }
 @media only screen and (min-width: 768px){
@@ -16,7 +22,7 @@
         width: 750px;
     }
     .selection{
-        width: 100%;
+       width: 100%;
     }
 }
 .CSBody{
@@ -40,6 +46,9 @@ td{
 }
 td:hover{
     background-color: #0D1321;
+}
+.home{
+    background-color: blue;
 }
 /* .banner{
     width: 1000px;

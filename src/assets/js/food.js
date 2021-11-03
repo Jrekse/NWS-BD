@@ -6,6 +6,27 @@ const Food = [
                     'address' : '130 N Stone St, Spokane, WA 99202',
                     'url' : 'https://www.spokanespice.com/',
                     'email' : '',
+                    'class' : 'premium',
+        'content' : ''
+    },   
+    {
+        'title' : 'Buy This Space',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '',
+                    'address' : '',
+                    'url' : '',
+                    'email' : '',
+                    'class' : 'premium',
+        'content' : ''
+    },
+    {
+        'title' : 'Buy This Space',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '',
+                    'address' : '',
+                    'url' : '',
+                    'email' : '',
+                    'class' : 'premium',
         'content' : ''
     },
             // ad vv

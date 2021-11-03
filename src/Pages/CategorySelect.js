@@ -17,7 +17,7 @@ function Catselect(props){
                         <table className="selection">
                             <tbody>
                                 <tr>
-                                    <td><a href='https://nwsportsmanmag.com/'>Home</a></td> 
+                                    <td className="home"><a href='https://nwsportsmanmag.com/'>Home</a></td> 
                                     <td><a href='#Air' onClick={() => props.handlePageChange("Air")}>Air Freight</a></td> 
                                     <td><a href='#Apparel' onClick={() => props.handlePageChange("Apparel")}>Apparel</a></td>
                                     <td><a href='#Auction' onClick={() => props.handlePageChange("Auction")}>Auctioneers</a></td>
