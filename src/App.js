@@ -37,7 +37,7 @@ import nonProfit from './assets/js/non-profit.js';
 import FishEquip from './assets/js/fishing-equip.js';
 import FirearmCleaning from './assets/js/firearm-cleaning.js';
 import firearmAmmo from './assets/js/Firearms-accessories-ammo.js';
-import boat from './assets/js/Boats:repair:outboards.js';
+import boat from './assets/js/Boats.js';
 
 import './App.css';
 
