@@ -11,7 +11,7 @@ const sportgoods = [
     },
     {
         'title' : 'Forks Outfitters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Forks-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Forks-logo.jpg',
                     'phone' : '(360) 374-6161',
                     'address' : '',
                     'url' : 'https://forksoutfitters.com/',

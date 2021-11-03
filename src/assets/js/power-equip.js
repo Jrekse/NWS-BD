@@ -21,7 +21,7 @@ const power = [
     },
     {
         'title' : 'Harbor Saw & Supply',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Harbor_Saw-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Harbor_Saw-logo.jpg',
                     'phone' : '(360) 532-4600, Toll Free: (800) 786-6463',
                     'address' : '3102 Simpson Ave. Hoquiam, WA 98550',
                     'url' : 'http://www.harborsaw.com/',
@@ -49,7 +49,7 @@ const power = [
             // ad ^^
     {
         'title' : 'Hardware Sales Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Hardware_Sales-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Hardware_Sales-logo.jpg',
                     'phone' : '(360) 734-6140',
                     'address' : '2034 James Street Bellingham, WA 98225',
                     'url' : 'http://www.hardwaresales.net/',
@@ -76,7 +76,7 @@ const power = [
     },
     {
         'title' : 'Moen Machinery Company',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Moen-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Moen-logo.jpg',
                     'phone' : '(503) 666-9159',
                     'address' : '268 NE Hogan Dr, Gresham, OR 97030',
                     'url' : 'http://www.moenmachinery.com/',
@@ -85,7 +85,7 @@ const power = [
     },
     {
         'title' : 'Northern Power Sports',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Northern_Powersports-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Northern_Powersports-logo.jpg',
                     'phone' : '907-452-2762',
                     'address' : '1980 Van Horn Rd, Fairbanks, AK 99701',
                     'url' : 'https://www.northernpowersports.com/',
@@ -94,7 +94,7 @@ const power = [
     },
     {
         'title' : 'Port Angeles Power Equipment',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/port_angeles_power-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/port_angeles_power-logo.jpg',
                     'phone' : '(360) 452-4652',
                     'address' : '2624 E Hwy 101, Port Angeles, WA 98362-9047',
                     'url' : 'http://www.papowerequipment.com/',
@@ -103,7 +103,7 @@ const power = [
     },
     {
         'title' : 'The Power Shop',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/Power_Shop-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Power_Shop-logo.jpg',
                     'phone' : '360-736-6340',
                     'address' : '3820 Harrison Ave; Centralia, WA 98531',
                     'url' : 'http://www.powershopcentralia.com/',
@@ -112,7 +112,7 @@ const power = [
     },
     {
         'title' : 'Pro Caliber Motorsports',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/PROCALIBER-LOGO.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/PROCALIBER_LOGO.jpg',
                     'phone' : '(360) 892-3030',
                     'address' : '',
                     'url' : 'https://www.procalibervancouver.com/',
@@ -130,7 +130,7 @@ const power = [
     },
     {
         'title' : 'Vashon Ace Hardware',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Vashon_Ace-Hardware-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Vashon_Ace-Hardware-logo.jpg',
                     'phone' : '206-463-3852',
                     'address' : '9750 SW Bank Rd, Vashon, WA 98070',
                     'url' : 'http://www.vashonacehardware.com/',

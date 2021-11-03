@@ -11,7 +11,7 @@ const RV = [
     },
     {
         'title' : 'Clearview RV',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/clearview-rv-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/clearview-rv-logo.jpg',
                     'phone' : '(360) 668-9595',
                     'address' : '',
                     'url' : 'http://www.clearviewrv.com/',
@@ -21,7 +21,7 @@ const RV = [
     },
     {
         'title' : 'Clippership Motorhome Rentals',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/Clippership-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Clippership-logo.jpg',
                     'phone' : '800-421-3456, 907-562-7051',
                     'address' : '5401 Old Seward Hwy, Anchorage, AK 99518',
                     'url' : 'http://clippershiprv.com/',
@@ -49,7 +49,7 @@ const RV = [
             // ad ^^
     {
         'title' : 'South Hill RV Sales',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/south_hill_rv-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/south_hill_rv-logo.jpg',
                     'phone' : '(877) 744-6341, (253) 220-4994',
                     'address' : '12414 Meridian East, Puyallup, Washington 98373',
                     'url' : 'http://www.southhillrv.com/',
@@ -67,7 +67,7 @@ const RV = [
     },
     {
         'title' : 'Western Range Camps',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/WesternRangeCamps-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/WesternRangeCamps-logo.jpg',
                     'phone' : '435-462-5300 office; 435-462-5786 fax; 435-262-7005 cell',
                     'address' : '1145 S Blackhawk Blvd, Mt. Pleasant, UT 84647',
                     'url' : 'http://www.wrcamps.com/',

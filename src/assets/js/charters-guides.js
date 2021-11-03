@@ -1,7 +1,7 @@
 const Construction = [
     {
         'title' : 'Alaska Premier Charters, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Wild-Strawberry-Lodge-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Wild-Strawberry-Lodge-Logo.jpg',
                     'phone' : '(907) 747-3232',
                     'address' : '',
                     'url' : 'http://www.wildstrawberrylodge.com/',
@@ -23,7 +23,7 @@ const Construction = [
     },
     {
         'title' : 'All Rivers & Saltwater Charters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/All-River-Guide-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/All-River-Guide-logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.allwashingtonfishing.com/',
@@ -62,7 +62,7 @@ const Construction = [
     },
     {
         'title' : 'Angler’s Alibi',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Angers_allibi-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/anglers-alibi-logo.jpg',
                     'phone' : '(561) 222-9416',
                     'address' : '',
                     'url' : 'https://www.anglersalibi.com/',
@@ -72,7 +72,7 @@ const Construction = [
     },
     {
         'title' : 'Bass Obsessions Fishing Guide Services',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/08/bass-obsessions-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bass-obsessions-logo.jpg',
                     'phone' : '509-904-7622',
                     'address' : '',
                     'url' : 'http://www.bassobsessionsfishing.com/',
@@ -122,7 +122,7 @@ const Construction = [
     },
     {
         'title' : 'Deep Sea Charters Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Deep_Sea_Charters-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Deep_Sea_Charters-logo.jpg',
                     'phone' : '(800) 562-0151, (360) 268-9300',
                     'address' : '2319 Westhaven Dr, Westport, WA 98595',
                     'url' : 'http://www.deepseacharters.biz/',
@@ -132,7 +132,7 @@ const Construction = [
     },
     {
         'title' : 'Flash Sport Fishing',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/flash-sportfishing-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/flash-sportfishing-logo.jpg',
                     'phone' : '(510) 851-2500',
                     'address' : '',
                     'url' : 'https://www.flashfishing.net/',
@@ -142,7 +142,7 @@ const Construction = [
     },
     {
         'title' : 'The Fish House',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Fish-House_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Fish-house_logo.jpg',
                     'phone' : '(907) 224-3674, (800) 257-7760',
                     'address' : '',
                     'url' : 'https://www.thefishhouse.net/',
@@ -152,7 +152,7 @@ const Construction = [
     },
     {
         'title' : 'Gem State Sport Fishing',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/GEM-STATE-SPORT-FISHING-2.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/GEM-STATE-SPORT-FISHING-2.jpg',
                     'phone' : '(208) 798-1513 or 530-448-9759 (cell)',
                     'address' : '',
                     'url' : 'http://gemstatesportfishing.com/',
@@ -202,7 +202,7 @@ const Construction = [
     },
     {
         'title' : 'Underdog Sportfishing',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Underdog_Sportfishing-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Underdog_Sportfishing-logo.jpg',
                     'phone' : '(907) 401-3675',
                     'address' : '504 Front St, Craig, AK 99921',
                     'url' : 'http://www.fishportprotection.com/',
@@ -212,7 +212,7 @@ const Construction = [
     },
     {
         'title' : 'Vonnie’s Guide Service',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/vonnies-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/vonnies-logo.jpg',
                     'phone' : '(907) 747-6401',
                     'address' : '',
                     'url' : 'http://vonniescharters.com/',
@@ -222,7 +222,7 @@ const Construction = [
     },
     {
         'title' : 'Yaquina Bay Charters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/YaquinabayCharters_Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/YaquinabayCharters_Logo.jpg',
                     'phone' : '(541) 265-6800',
                     'address' : '',
                     'url' : 'http://www.yaquinabaycharters.com/',

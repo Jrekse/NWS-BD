@@ -1,7 +1,7 @@
 const realty = [
     {
         'title' : 'Prince of Wales Island Realty LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/IslandRealty_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/IslandRealty_logo.jpg',
                     'phone' : 'cell: (219) 781-1825, office (907) 826-6600',
                     'address' : '',
                     'url' : 'http://www.alaskaislandrealty.com/',

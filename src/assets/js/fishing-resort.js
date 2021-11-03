@@ -21,7 +21,7 @@ const Fishresort = [
     },
     {
         'title' : 'MarDon Resort',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/mardon_resort-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mardon_resort-logo.jpg',
                     'phone' : '(509) 346-2651',
                     'address' : '',
                     'url' : 'http://www.mardonresort.com/',

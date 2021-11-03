@@ -1,7 +1,7 @@
 const air = [
     {
         'title' : 'Ace Air Cargo',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/09/Ace-Air-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Ace-Air-logo.jpg',
                     'phone' : '888-722-0232',
                     'address' : '',
                     'url' : 'http://www.aceaircargo.com/',

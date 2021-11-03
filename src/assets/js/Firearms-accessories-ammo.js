@@ -11,7 +11,7 @@ const Firearms = [
     },
     {
         'title' : 'Alpha One Outdoors',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/ALPHA-ONE-LOGO.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ALPHA-ONE-LOGO.jpg',  
                     'phone' : '(970) 640-2799; (970) 270-4998',
                     'address' : '',
                     'url' : 'https://www.alphaoneoutdoors.com/',
@@ -58,7 +58,7 @@ const Firearms = [
     },
     {
         'title' : 'The Best of the West Productions, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/BOTW-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/best-of-the-west-logo.jpg',  
                     'phone' : '(307) 587-2787',
                     'address' : '',
                     'url' : 'http://www.thebestofthewest.net/',
@@ -67,7 +67,7 @@ const Firearms = [
     },
     {
         'title' : 'Black Hills Ammunition',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/black-hills-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/black-hills-logo.jpg',  
                     'phone' : '(605) 348-5150',
                     'address' : '',
                     'url' : 'http://www.black-hills.com/',
@@ -76,7 +76,7 @@ const Firearms = [
     },
     {
         'title' : 'CDNN Sports',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/CDNN-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/CDNN-logo.jpg',  
                     'phone' : '(800) 588-9500',
                     'address' : '',
                     'url' : 'https://www.cdnnsports.com/',
@@ -85,7 +85,7 @@ const Firearms = [
     },
     {
         'title' : 'Dara Holsters & Gear, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/dara_holsters_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dara_holsters_logo.jpg',  
                     'phone' : '(919) 295-5559',
                     'address' : '',
                     'url' : 'https://www.daraholsters.com/',
@@ -94,7 +94,7 @@ const Firearms = [
     },
     {
         'title' : 'DEAD FOOT ARMS, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/dead_foot_arms-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dead_foot_arms-logo.jpg',  
                     'phone' : '(877) 313-3233',
                     'address' : 'W1777 Alpine Road, Brooklyn, WI 53521',
                     'url' : 'http://www.deadfootarms.com/',
@@ -103,7 +103,7 @@ const Firearms = [
     },
     {
         'title' : 'Dickinson Arms',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/DickinsonArms-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/DickinsonArms-logo.jpg',  
                     'phone' : '(805) 978-8565',
                     'address' : '',
                     'url' : 'http://www.dickinsonarms.com/',
@@ -112,7 +112,7 @@ const Firearms = [
     },
     {
         'title' : 'DIP, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/DIP-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/DIP-logo.jpg',  
                     'phone' : '(208) 660-9974',
                     'address' : '',
                     'url' : 'http://www.diproductsinc.com/',
@@ -130,7 +130,7 @@ const Firearms = [
     },
     {
         'title' : 'GalleryofGuns.com',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/gallery_of_guns-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/gallery_of_guns-logo.jpg',  
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.galleryofguns.com/',
@@ -139,7 +139,7 @@ const Firearms = [
     },
     {
         'title' : 'Hi-Point Firearms',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Hi-Point-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Hi-Point-logo.jpg',  
                     'phone' : '937-454-0363',
                     'address' : '',
                     'url' : 'http://www.hi-pointfirearms.com/',
@@ -148,7 +148,7 @@ const Firearms = [
     },
     {
         'title' : 'KICK-EEZ',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/09/KICK_EEZ-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/KICK_EEZ-logo.jpg',  
                     'phone' : '877-KICK-EEZ',
                     'address' : '',
                     'url' : 'http://www.kickeezproducts.com/',
@@ -166,7 +166,7 @@ const Firearms = [
     },
     {
         'title' : 'Muzzleloaders Supply',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/muzzleloader_supply-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/muzzleloader_supply-logo.jpg',  
                     'phone' : '253-922-1717',
                     'address' : '6514 River Rd E; Puyallup, WA 98371',
                     'url' : 'http://www.muzzleloaderssupply.com/',
@@ -202,7 +202,7 @@ const Firearms = [
     },
     {
         'title' : 'PMA Tool',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/PMA-Tool-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/PMA-Tool-logo.jpg',  
                     'phone' : '(260) 246-5860',
                     'address' : '',
                     'url' : 'http://www.pmatool.com/',
@@ -211,7 +211,7 @@ const Firearms = [
     },
     {
         'title' : 'PrOlix® Lubricants',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Prolix_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Prolix_logo.jpg',  
                     'phone' : '(801) 569-2763',
                     'address' : '',
                     'url' : 'https://www.prolixlubricant.com/',
@@ -220,7 +220,7 @@ const Firearms = [
     },
     {
         'title' : 'R&S Precision Sports, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/RSPrecisionSports_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/RSPercisionSports_logo.jpg',  
                     'phone' : '(775) 253-1264',
                     'address' : '',
                     'url' : 'http://www.1022racerile.com/',
@@ -247,7 +247,7 @@ const Firearms = [
     },
     {
         'title' : 'SEAL 1',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Seal_1_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Seal_1_logo.jpg',  
                     'phone' : '207-965-8860',
                     'address' : '',
                     'url' : 'http://seal1.com/',
@@ -274,7 +274,7 @@ const Firearms = [
     },
     {
         'title' : 'Tannerite Sports, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/tannerite-logo-20th.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/tannerite-logo-20th.jpg',  
                     'phone' : '(541) 744-1406',
                     'address' : '36366 Valley Road, Pleasant Hill, OR 97455',
                     'url' : 'http://www.tannerite.com/',
@@ -292,7 +292,7 @@ const Firearms = [
     },
     {
         'title' : 'Underwood Ammo',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/underwood_ammo-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/underwood_ammo-logo.jpg',  
                     'phone' : '(618) 965-2109',
                     'address' : '',
                     'url' : 'https://www.underwoodammo.com/',
@@ -301,7 +301,7 @@ const Firearms = [
     },
     {
         'title' : 'Velocity Percision Engineering',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Velocity-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Velocity-logo.jpg',  
                     'phone' : '(602) 595-5931',
                     'address' : '2601 W. Lone Cactus Dr., Suite A, Phoenix, AZ 85027',
                     'url' : 'https://www.underwoodammo.com/',

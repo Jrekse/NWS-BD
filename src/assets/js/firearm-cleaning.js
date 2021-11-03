@@ -1,7 +1,7 @@
 const Cleaning =[
     {
         'title' : 'IOSSO Products',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/iosso-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/iosso-logo.jpg',  
                     'phone' : '(847) 437-8400',
                     'address' : '1485 Lively Blvd., Elk Grove, IL 60007',
                     'url' : 'http://www.iosso.com/',
@@ -11,7 +11,7 @@ const Cleaning =[
     },
     {
         'title' : 'PrOlix® Lubricants',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Prolix_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Prolix_logo.jpg',  
                     'phone' : '(801) 569-2763',
                     'address' : '',
                     'url' : 'https://www.prolixlubricant.com/',
@@ -21,7 +21,7 @@ const Cleaning =[
     },
     {
         'title' : 'SEAL 1',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Seal_1_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Seal_1_logo.jpg',  
                     'phone' : '207-965-8860',
                     'address' : '',
                     'url' : 'http://seal1.com/',
@@ -49,7 +49,7 @@ const Cleaning =[
             // ad ^^
     {
         'title' : 'Shell Shock Technologies',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Shell-Shock-LOGO.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Shell-Shock-LOGO.jpg',  
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.shellshocktech.com/',
@@ -58,7 +58,7 @@ const Cleaning =[
     },
     {
         'title' : 'Yankee Hill Machine Co., Inc (YHM)',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/YHM-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/YHM-logo.jpg',  
                     'phone' : '877-892-6533',
                     'address' : '',
                     'url' : 'http://www.yhm.net/',
@@ -67,7 +67,7 @@ const Cleaning =[
     },
     {
         'title' : 'Zermatt Arms, Inc (Bighorn Arms)',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/bighorn_zermatt_logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bighorn_zermatt_logo.jpg',  
                     'phone' : '402-782-2884',
                     'address' : '',
                     'url' : 'http://www.bighornarms.com/',

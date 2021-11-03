@@ -1,7 +1,7 @@
 const knives = [
     {
         'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Exquisite_Knives-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
                     'phone' : '(760) 945-7177, 760-310-4078',
                     'address' : '',
                     'url' : 'https://exquisiteknives.com/',

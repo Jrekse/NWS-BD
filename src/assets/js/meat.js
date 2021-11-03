@@ -11,7 +11,7 @@ const meat = [
     },
     {
         'title' : 'Butcher Boys',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Butcher-Boys_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Butcher-Boys_logo.jpg',
                     'phone' : '(253) 840-1099',
                     'address' : '15014 Meridian E # 5, Puyallup, WA 98375',
                     'url' : 'http://www.thebutcherboys.com/',
@@ -21,7 +21,7 @@ const meat = [
     },
     {
         'title' : 'Sunrise Meats',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Sunrise_meats-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Sunrise_meats-logo.jpg',
                     'phone' : '(360) 457-3211',
                     'address' : '',
                     'url' : 'http://www.sunrisemeats.com/',

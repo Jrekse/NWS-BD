@@ -1,7 +1,7 @@
 const Auctioneers = [
     {
         'title' : 'James G. Murphy Co.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/JamesGMurphy-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/JamesGMurphy-logo.jpg',
                     'phone' : '(425)-486-1246',
                     'address' : '',
                     'url' : 'https://murphyauction.com/',

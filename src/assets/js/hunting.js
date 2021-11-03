@@ -11,7 +11,7 @@ const Hunting = [
     },
     {
         'title' : 'Thorne Bay Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/Thorne_Bay_Lodge-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Thorne_Bay_Lodge-logo.jpg',
                     'phone' : '(503) 680-1755',
                     'address' : '',
                     'url' : 'http://www.thornebaylodge.com/',
@@ -49,7 +49,7 @@ const Hunting = [
             // ad ^^
     {
         'title' : 'Upfront Outfitters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Upfront_Outfitters-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Upfront_Outfitters-logo.jpg',
                     'phone' : '(360) 560-7620',
                     'address' : 'P.O. Box 617, Monroe, OR 97456',
                     'url' : 'http://www.upfrontoutfitters.com/',

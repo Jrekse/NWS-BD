@@ -1,7 +1,7 @@
 const Furniture = [
     {
         'title' : 'Pudding River Woodcarving Studios',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/09/Pudding_River-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Pudding_River-logo.jpg',
                     'phone' : '(503) 347-5404, (503) 899-2320',
                     'address' : '15055-3rd St NE, Aurora, OR 97002',
                     'url' : 'http://www.puddingriverstudio.com/',

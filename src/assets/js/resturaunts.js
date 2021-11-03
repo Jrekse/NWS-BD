@@ -1,7 +1,7 @@
 const resturaunts = [
     {
         'title' : 'Fisherman’s Grotto',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Fishermans-Grotto-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Fishermans-Grotto-logo.jpg',
                     'phone' : '(541) 888-3251',
                     'address' : '',
                     'url' : 'http://www.fishermansgrottoinc.com/',

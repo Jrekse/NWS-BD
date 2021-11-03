@@ -21,7 +21,7 @@ const Boats = [
     },
     {
         'title' : 'Auburn Sports & Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/auburn-sports-and-marine_banner.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/auburn-sports-and-marine_banner.jpg',
                     'phone' : '(253)-833-1440',
                     'address' : '810 Auburn Way N, Auburn, WA 98002',
                     'url' : 'https://www.auburnsportsmarineinc.com/',
@@ -50,7 +50,7 @@ const Boats = [
         // ad ^^
     {
         'title' : 'American Turbine Inc',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/american-turbine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/american-turbine-logo.jpg',
                     'phone' : '509-243-5387; 509-243-5391 fax',
                     'address' : '3692 Riverside Dr., Clarkston, WA  99403',
                     'url' : 'http://www.americanturbine.com/',
@@ -59,7 +59,7 @@ const Boats = [
     },
     {
         'title' : 'BAMF Boats',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/bamf-boats-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bamf-boats-logo.jpg',
                     'phone' : '(206)-940-7230',
                     'address' : '',
                     'url' : 'https://bamfboats.com/',
@@ -69,7 +69,7 @@ const Boats = [
     },
     {
         'title' : 'Barewest Boats',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/barewest-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/barewest-logo.jpg',
                     'phone' : '(503)-620-2195',
                     'address' : '',
                     'url' : 'https://www.barewest.com/',
@@ -79,7 +79,7 @@ const Boats = [
     },
     {
         'title' : 'The Bay Company',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/BayCompany_LOGO.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BayCompany_LOGO.jpg',
                     'phone' : '',
                     'address' : '431 Front Street; Wrangell, Alaska 99929 907-874-3340 - 1250 Hilltop Drive; Craig, Alaska 99921 907-826-3341 - 636 Stedman Street; Ketchikan, Alaska 99901 907-225-3342D',
                     'url' : 'http://www.baycompany.com/',
@@ -89,7 +89,7 @@ const Boats = [
     },
     {
         'title' : 'Bayside Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/bayside_marine.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bayside_marine.jpg',
                     'phone' : '(425)-252-3088',
                     'address' : '1111 Craftsman Way, Everett, WA 98201',
                     'url' : 'https://www.baysidemarine.com/',
@@ -99,7 +99,7 @@ const Boats = [
     },
     {
         'title' : 'Boat Country',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Boat_country-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Boat_country-logo.jpg',
                     'phone' : '(800)-697-4252',
                     'address' : '1871 Ross Avenue, Everett, WA 98201',
                     'url' : 'https://www.boatcountry.com/',
@@ -109,7 +109,7 @@ const Boats = [
     },
     {
         'title' : 'The Boat Doc, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Boat-Doc-Bus-Card-Logo-only.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Boat-Doc-Bus-Card-Logo-only.jpg',
                     'phone' : '(541)-913-6431, (541)-603-9452',
                     'address' : '',
                     'url' : 'https://www.eugeneboatrepair.com/',
@@ -119,7 +119,7 @@ const Boats = [
     },
     {
         'title' : 'Cascade Marine Service, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/cascade_marine-service-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/cascade_marine-service-logo.jpg',
                     'phone' : '(253)-303-0200',
                     'address' : '2925 West Marine Drive, Everett, WA 98201',
                     'url' : 'https://www.boatrepaireverett.com/',
@@ -129,7 +129,7 @@ const Boats = [
     },
     {
         'title' : 'Chinook Marine Repair',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/ChinookMarineRepair_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ChinookMarineRepair_logo.jpg',
                     'phone' : '(800)-457-9459',
                     'address' : '785 SR 101, Chinook, WA 98614',
                     'url' : 'http://www.chinookmarine.com/',
@@ -139,7 +139,7 @@ const Boats = [
     },
     {
         'title' : 'Coastal Marine Engine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Coastal-Marine_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/CoastalMarineEngine-logo.jpg',
                     'phone' : '(800)-223-5284',
                     'address' : '4300 11th Ave. NW, Seattle, WA 98107',
                     'url' : 'https://www.coastalmarineengine.com/',
@@ -179,7 +179,7 @@ const Boats = [
     },
     {
         'title' : 'Holcomb Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/holcomb-marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/holcomb-marine-logo.jpg',
                     'phone' : '(360)-864-6406',
                     'address' : '',
                     'url' : 'http://holcombmarine.com/',
@@ -229,7 +229,7 @@ const Boats = [
     },
     {
         'title' : 'Mark’s Marine Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/marksmarineinc-logo.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/marksmarineinc-logo.jpg',  
                     'phone' : '(208)-772-9038',
                     'address' : '14355 N Government Way, Hayden ID 83835',
                     'url' : 'http://www.marksmarineinc.com/',
@@ -239,7 +239,7 @@ const Boats = [
     },
     {
         'title' : 'Maxxum Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/maxxummarine_logo_large.jpg',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/maxxummarine_logo_large.jpg',  
                     'phone' : '(541)-686-3572',
                     'address' : '',
                     'url' : 'http://www.maxxummarine.com/',
@@ -249,7 +249,7 @@ const Boats = [
     },
     {
         'title' : 'May Mobile Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/MayMobileMarine_logo-1.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/MayMobileMarine_logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://maymobilemarine.com/',
@@ -269,7 +269,7 @@ const Boats = [
     },
     {
         'title' : 'Northwest Marine & Sport',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/NW-Marine-Sport_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/NW-Marine-Sport_logo.jpg',
                     'phone' : '(509) 545-5586, (888) 545-2250',
                     'address' : '2250 N Commercial Ave, Pasco, WA 99301',
                     'url' : 'http://nwmarineandsport.com/',
@@ -279,7 +279,7 @@ const Boats = [
     },
     {
         'title' : 'Pacific Marine Repair',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Pacific-Marine-Repair-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Pacific-Marine-Repair-logo.jpg',
                     'phone' : '(805)-658-1709',
                     'address' : '',
                     'url' : 'https://pacificmarinerepair.com/',
@@ -299,7 +299,7 @@ const Boats = [
     },
     {
         'title' : 'Performance Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/performance_marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/performance_marine-logo.jpg',
                     'phone' : '(425) 258-9292',
                     'address' : '930 W Marine View Drive, Everett, WA 98201',
                     'url' : 'http://www.perform-marine.com/',
@@ -309,7 +309,7 @@ const Boats = [
     },
     {
         'title' : 'Puget Marina',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/pugetmarina-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/pugetmarina-logo.jpg',
                     'phone' : '(360) 491-7388',
                     'address' : '',
                     'url' : 'http://www.pugetmarina.com/',
@@ -319,7 +319,7 @@ const Boats = [
     },
     {
         'title' : 'Ricks Master Marine Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/ricks-master-marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ricks-master-marine-logo.jpg',
                     'phone' : '(206) 762-0741',
                     'address' : '',
                     'url' : 'http://www.ricksmastermarine.com/',
@@ -329,7 +329,7 @@ const Boats = [
     },
     {
         'title' : 'Rogue Jet Boatworks',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/rogue_jet_boatworks-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/rouge_jet_boatworks-logo.jpg',
                     'phone' : '(541) 826-5400',
                     'address' : '',
                     'url' : 'http://www.roguejetboats.com/',
@@ -349,7 +349,7 @@ const Boats = [
     },
     {
         'title' : 'Spokane Valley Marine`',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/spokanevalleymarine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/spokanevalleymarine-logo.jpg',
                     'phone' : '(800) 967-5073',
                     'address' : '7915 E Sprague Ave, Spokane Valley, WA 99212',
                     'url' : 'http://www.spokanevalleymarine.com/',
@@ -359,7 +359,7 @@ const Boats = [
     },
     {
         'title' : 'Tacoma Boat Sales & Service',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Tacoma_Boat-logo.jpg', 
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Tacoma_Boat-logo.jpg', 
                     'phone' : '(253) 301-4013',
                     'address' : '9316 Portland Ave E, Tacoma, WA 98445',
                     'url' : 'http://www.tacomaboatsales.com/',
@@ -369,7 +369,7 @@ const Boats = [
     },
     {
         'title' : 'Taylor Marine Installations',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/11/taylor-marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/taylor-marine-logo.jpg',
                     'phone' : '253-677-9400',
                     'address' : '',
                     'url' : 'http://www.taylormarineinstallations.com/',
@@ -389,7 +389,7 @@ const Boats = [
     },
     {
         'title' : 'US Marine Sales & Service',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/us-marine-sales-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/us-marine-sales-logo.jpg',
                     'phone' : '(360) 455-0788',
                     'address' : '',
                     'url' : 'http://www.usmarinesales.com/',
@@ -409,7 +409,7 @@ const Boats = [
     },
     {
         'title' : 'Vulcan Marine Services',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/Vulcan-Logo.jpg', 
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Vulcan-Logo.jpg', 
                     'phone' : '503-635-3626',
                     'address' : '18707 OR-99E, Suite B, Hubbard, OR 97032',
                     'url' : 'http://www.vuclanmarineservice.com/',
@@ -419,7 +419,7 @@ const Boats = [
     },
     {
         'title' : 'West Coast Marine Services Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/West-Coast-Marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/West-Coast-Marine-logo.jpg',
                     'phone' : '(360) 676-8020, 888-676-8020',
                     'address' : '',
                     'url' : 'https://www.wcmarine.us/',

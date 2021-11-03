@@ -1,7 +1,7 @@
 const lodging = [
     {
         'title' : 'Alaska Adventure Cabins',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/alaska_adventure_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/alaska_adventure_logo.jpg',
                     'phone' : '(907) 715-2745',
                     'address' : '',
                     'url' : 'https://www.alaskaadventurecabins.com/',
@@ -21,7 +21,7 @@ const lodging = [
     },
     {
         'title' : 'Annie Mae Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Annie_Mae-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Annie_Mae-logo.jpg',
                     'phone' : '(800) 478-2346, (907) 697-2346',
                     'address' : '',
                     'url' : 'http://www.anniemae.com/',
@@ -49,7 +49,7 @@ const lodging = [
             // ad ^^
     {
         'title' : 'Benny’s Colville Inn',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/Bennys-Colville-Inn-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Bennys-Colville-Inn-logo.jpg',
                     'phone' : '(509) 684-2517',
                     'address' : '915 S Main St, Colville, WA 99114',
                     'url' : 'http://colvilleinn.com/',
@@ -58,7 +58,7 @@ const lodging = [
     },
     {
         'title' : 'Best Western Valdez Harbor Inn',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/11/Best-Western-Valdez-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Best-Western-Valdez-logo.jpg',
                     'phone' : '907-835-3434; 1(800) 780-7234 (Worldwide)',
                     'address' : '',
                     'url' : 'http://www.valdezharborinn.com/',
@@ -67,7 +67,7 @@ const lodging = [
     },
     {
         'title' : 'Big Spruce RV & Cabins',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/big-spruce-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/big-spruce-logo.jpg',
                     'phone' : '(360) 288-0138',
                     'address' : '',
                     'url' : 'http://www.bigsprucerv.com/',
@@ -94,7 +94,7 @@ const lodging = [
     },
     {
         'title' : 'Coffman Cove Bear’s Den',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/CoffmanCoveBearsDen_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/CoffmancovebearsDen_logo.jpg',
                     'phone' : '907-329-2327 (Bear) or 518-705-2862',
                     'address' : '114 NW Zarembo Dr, Coffman Cove, AK  99918',
                     'url' : 'http://www.coffmancovesbearsden.com/',
@@ -121,7 +121,7 @@ const lodging = [
     },
     {
         'title' : 'Dierick’s Tsiu River Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/diericks-tsiu-river-lodge-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/diericks-tsiu-river-lodge-logo.jpg',
                     'phone' : '(907) 784-3625',
                     'address' : '',
                     'url' : 'http://www.tsiuriverlodge.com/',
@@ -130,7 +130,7 @@ const lodging = [
     },
     {
         'title' : 'Fortress Lake Fishing Retreat',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Fortress-Lake_Stacked.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Fortress-Lake_Stacked.jpg',
                     'phone' : '(403) 899-8815',
                     'address' : '',
                     'url' : 'http://www.fortresslake.com/',
@@ -139,7 +139,7 @@ const lodging = [
     },
     {
         'title' : 'Glacier Bear Lodge Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/glacier-bear-lodge-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/glacier-bear-lodge-logo.jpg',
                     'phone' : '(866) 425.6343',
                     'address' : '',
                     'url' : 'http://www.glacierbearlodge.com/',
@@ -148,7 +148,7 @@ const lodging = [
     },
     {
         'title' : 'Hakai Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/hakai-Lodge-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/hakai-Lodge-logo.jpg',
                     'phone' : '(206) 669-2158',
                     'address' : '',
                     'url' : 'http://www.hakaifishinglodge.com/',
@@ -166,7 +166,7 @@ const lodging = [
     },
     {
         'title' : 'Katmai Trophy Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/KatmaiTrophyLodge_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/KatmaiTrophyLodge_logo.jpg',
                     'phone' : '(616) 745-6066',
                     'address' : '',
                     'url' : 'http://www.katmaitrophylodge.com/',
@@ -175,7 +175,7 @@ const lodging = [
     },
     {
         'title' : 'King Salmondeaux Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/King_Salmondeaux-LOGO.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/King_Salmondeaux-LOGO.jpg',
                     'phone' : '907-260-3474',
                     'address' : '',
                     'url' : 'https://www.kingsalmondeauxlodge.com/',
@@ -184,7 +184,7 @@ const lodging = [
     },
     {
         'title' : 'Lake of the Woods Resort',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Lake_of_the_woods-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Lake_of_the_woods-Logo.jpg',
                     'phone' : '(866) 201-4194, (541) 949-8300',
                     'address' : '950 Harriman Route, Klamath Falls, Oregon 97601',
                     'url' : 'http://www.lakeofthewoodsresort.com/',
@@ -229,7 +229,7 @@ const lodging = [
     },
     {
         'title' : 'Tikchik Narrows Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Tikchik_Narrows_Lodge_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Tikchik_Narrows_Lodge_logo.jpg',
                     'phone' : '907-243-8450',
                     'address' : 'P.O. Box 220507, Anchorage, AK 99522',
                     'url' : 'http://www.tikchiklodge.com/',

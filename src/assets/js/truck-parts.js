@@ -1,7 +1,7 @@
 const trucks = [
     {
         'title' : 'Line-X of Gresham',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Line-X-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Line-X-Logo.jpg',
                     'phone' : '(503) 261-7367',
                     'address' : '',
                     'url' : 'https://linexusa.com/',
@@ -11,7 +11,7 @@ const trucks = [
     },
     {
         'title' : 'Mattracks, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/mattracks-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mattreacks-logo.jpg',
                     'phone' : '(218) 683-9800',
                     'address' : '',
                     'url' : 'http://www.mattracks.com/',

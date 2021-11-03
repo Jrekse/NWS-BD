@@ -1,7 +1,7 @@
 const Marina = [
     {
         'title' : 'Point Defiance Marina at Point Defiance Park',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/11/Point-Defiance-Marina_-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Point-Defiance-Marina_-logo.jpg',
                     'phone' : '(253) 404-3960',
                     'address' : '',
                     'url' : 'http://www.pointdefiancepark.com/',

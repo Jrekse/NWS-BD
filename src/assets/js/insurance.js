@@ -1,7 +1,7 @@
 const insurance = [
     {
         'title' : 'Boat Insurance Agency Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/06/Boat_Insurance-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Boat_Insurance-Logo.jpg',
                     'phone' : '(800) 828-2446',
                     'address' : '',
                     'url' : 'http://www.boatinsurance.net/',

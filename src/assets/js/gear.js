@@ -1,7 +1,7 @@
 const Gear = [
     {
         'title' : 'Black Max Bikes',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Black_Max_Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Black_Max_Logo.jpg',
                     'phone' : '(360) 659-5557',
                     'address' : '9114 State Ave , Marysville Wa 98270',
                     'url' : 'http://www.blackmaxbike.com/',
@@ -11,7 +11,7 @@ const Gear = [
     },
     {
         'title' : 'Bobbie Weiner’s Camouflage Face Paint',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Camo_Logo-1.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Camo_Logo.jpg',
                     'phone' : '(305) 893-5650',
                     'address' : '',
                     'url' : 'https://www.camofacepaint.com/',
@@ -21,7 +21,7 @@ const Gear = [
     },
     {
         'title' : 'Canvas Cabins LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Canvas-Cabins-Orange-Logo-0226181.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Canvas-Cabins-Orange-Logo-0226181.jpg',
                     'phone' : '(971) 219-9000, (503) 487-7404',
                     'address' : '',
                     'url' : 'http://www.canvascabins.com/',
@@ -49,7 +49,7 @@ const Gear = [
             // ad ^^
     {
         'title' : 'Davis Tent & Awning',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Davis_Tents-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Daves_Tents-logo.jpg',
                     'phone' : '(877) 355-2267',
                     'address' : '',
                     'url' : 'http://www.davistent.com/',
@@ -58,7 +58,7 @@ const Gear = [
     },
     {
         'title' : 'Easy Loader Kennels',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/Easy-Loader-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Easy-Loader-Logo.jpg',
                     'phone' : '(918) 333-4872 office; (800) 853-2655 ',
                     'address' : '',
                     'url' : 'http://www.easyloaderkennels.com/',
@@ -76,7 +76,7 @@ const Gear = [
     },
     {
         'title' : 'Pocket Ox',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/Pocket_Ox-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Pocket_Ox-Logo.jpg',
                     'phone' : '208-659-4028',
                     'address' : '',
                     'url' : 'http://www.pocketox.com/',
@@ -103,7 +103,7 @@ const Gear = [
     },
     {
         'title' : 'Scan Marine Equipment',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Scan-Marine-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Scan-Marine-logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.scanmarineusa.com/',
@@ -121,7 +121,7 @@ const Gear = [
     },
     {
         'title' : 'Wonderduck Decoys',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/wonderduck-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/wonderduck-logo.jpg',
                     'phone' : '1-800-876-1697',
                     'address' : '',
                     'url' : 'http://www.wonderduck.com/',
@@ -130,7 +130,7 @@ const Gear = [
     },
     {
         'title' : 'Woodman’s Pal',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Woodmans-Pal-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Woodmans-Pal-Logo.jpg',
                     'phone' : '(800) 869-7501',
                     'address' : '',
                     'url' : 'http://www.woodmanspal.com/',

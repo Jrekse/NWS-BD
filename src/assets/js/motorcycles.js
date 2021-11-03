@@ -1,7 +1,7 @@
 const HuntersEd = [
     {
         'title' : 'Pro Caliber Motorsports',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/PROCALIBER-LOGO.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/PROCALIBER_LOGO.jpg',
                     'phone' : '(360) 892-3030',
                     'address' : '',
                     'url' : 'https://www.procalibervancouver.com/',

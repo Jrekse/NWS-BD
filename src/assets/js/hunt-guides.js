@@ -1,7 +1,7 @@
 const huntingguide = [
     {
         'title' : '3 Heart Outfitters Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/3-heart-outfitters-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/3-heart-outfitters-logo.jpg',
                     'phone' : '208-267-5858',
                     'address' : '2765 Turner Hill, Bonners Ferry, ID',
                     'url' : 'http://3heartoutfitters.net/',
@@ -11,7 +11,7 @@ const huntingguide = [
     },
     {
         'title' : 'Arrow Ridge Ranch',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/arrow-ridge-ranch-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/arrow-ridge-ranch-logo.jpg',
                     'phone' : '(920) 647-6078',
                     'address' : '',
                     'url' : 'https://www.arrowridgeranch.com/',
@@ -21,7 +21,7 @@ const huntingguide = [
     },
     {
         'title' : 'Hidden Ranch Outfitters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Hidden_Ranch_Outfitters-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Hidden_Ranch_Outfitters-logo.jpg',
                     'phone' : '509-681-0218',
                     'address' : '1845 Road 14 N. E., Coulee City, WA, 99115',
                     'url' : 'http://www.hiddenranchoutfitters.com/',

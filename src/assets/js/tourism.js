@@ -1,7 +1,7 @@
 const tourism = [
     {
         'title' : 'Alaska Marine Highway',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/Alaska_Marine_Highway-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Alaska_Marine_Highway-logo.jpg',
                     'phone' : '800-642-0066',
                     'address' : '7559 North Tongass Highway Ketchikan, Alaska 99901',
                     'url' : 'http://www.ferryalaska.com/',
@@ -11,7 +11,7 @@ const tourism = [
     },
     {
         'title' : 'The Dalles Area Chamber of Commerce',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/09/Dalles-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Dalles-logo.jpg',
                     'phone' : '(541) 296-2231',
                     'address' : '',
                     'url' : 'http://www.thedalleschamber.com/',

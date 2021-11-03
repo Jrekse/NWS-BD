@@ -1,7 +1,7 @@
 const Fishingequip = [
     {
         'title' : 'Bait Buttons',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/BaitButtons-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BaitButtons-Logo.jpg',
                     'phone' : '530-945-1780',
                     'address' : 'P.O. BOX 337, Fall River Mills, CA 96028',
                     'url' : 'http://www.baitbuttons.com/',
@@ -11,7 +11,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Bay De Noc Lure Co.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/baydenoc.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/baydenoc.jpg',
                     'phone' : '(906) 428-1133',
                     'address' : '',
                     'url' : 'https://baydenoclure.com/',
@@ -21,7 +21,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Buzzbomb Tackle',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/BuzzBomb_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BuzzBomb_logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.buzzbombtackle.com/',
@@ -76,7 +76,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Fillet Pro',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/Fillet_Pro_Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Fillet_Pro_Logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.filletpro.com/',
@@ -103,7 +103,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Izorline',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/izorline-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/izorline-logo.jpg',
                     'phone' : '(562) 531-6000; 800-634-7454',
                     'address' : '',
                     'url' : 'http://www.izorline.com/',
@@ -121,7 +121,7 @@ const Fishingequip = [
     },
     {
         'title' : 'McKay Shrimp and Crab Gear',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/10/MCKAY_SHRIMP-LOGO.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/MCKAY_SHRIMP-LOGO.jpg',
                     'phone' : '360-796-4555',
                     'address' : '306362 Hwy 101 PO Box 370, Brinnon, WA 98320',
                     'url' : 'http://www.mckayshrimpandcrabgear.com/',
@@ -148,7 +148,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Dick Nite Spoons, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/dick_nite-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dick_nite-logo.jpg',
                     'phone' : '(425) 377-8448',
                     'address' : '',
                     'url' : 'http://www.dicknite.com/',
@@ -157,7 +157,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Ocean Traps International',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/02/OceanTraps_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/OceanTraps_logo.jpg',
                     'phone' : '(741) 903-0433',
                     'address' : '',
                     'url' : 'http://www.oceantraps.com/',
@@ -166,7 +166,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Razor Vac',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Razor_Vac-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Razor_Vac-logo.jpg',
                     'phone' : '(360) 775-5503',
                     'address' : '',
                     'url' : '',
@@ -193,7 +193,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Silver Horde Fishing Supplies Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/05/Silver_horde-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Silver_horde-logo.jpg',
                     'phone' : '(425) 778-2640',
                     'address' : '',
                     'url' : 'https://silverhorde.com/',
@@ -211,7 +211,7 @@ const Fishingequip = [
     },
     {
         'title' : 'Yakima Bait Company',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/yakima-bait-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/yakima-bait-logo.jpg',
                     'phone' : '',
                     'address' : '',
                     'url' : 'http://www.yakimabait.com/',

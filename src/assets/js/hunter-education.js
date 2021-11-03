@@ -1,7 +1,7 @@
 const HuntersEd = [
     {
         'title' : 'Northwest School for Hunters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/NW-Hunting-School-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/NW-Hunting-School-Logo.jpg',
                     'phone' : '(360) 560-7620',
                     'address' : '',
                     'url' : '',

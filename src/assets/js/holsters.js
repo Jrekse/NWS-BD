@@ -1,7 +1,7 @@
 const Holsters = [
     {
         'title' : 'Bullard Leather',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/bullard-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bullard-logo.jpg',
                     'phone' : '(844) 336-2958, (903) 300-3236',
                     'address' : '5507 TX Hwy 24 N, PO Box 475, Cooper, Tx 75432',
                     'url' : 'http://www.bullardleather.com/',
@@ -11,7 +11,7 @@ const Holsters = [
     },
     {
         'title' : 'Covert Carrier',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/covert_carrier-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/covert_carrier-logo.jpg',
                     'phone' : '(702) 245-6302',
                     'address' : '',
                     'url' : 'http://www.covertcarrier.com/',
@@ -21,7 +21,7 @@ const Holsters = [
     },
     {
         'title' : 'Dara Holsters & Gear, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/10/dara_holsters_logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dara_holsters_logo.jpg',
                     'phone' : '(919) 295-5559',
                     'address' : '',
                     'url' : 'https://www.daraholsters.com/',
@@ -58,7 +58,7 @@ const Holsters = [
     },
     {
         'title' : 'Mernickle Custom Holsters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/04/Mernickle-Holsters-Logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Mernickle-Holsters-Logo.jpg',
                     'phone' : '(806) 665-0656',
                     'address' : '13043 County Rd C, Pampa TX 79065',
                     'url' : 'http://www.mernickleholsters.com/',
@@ -67,7 +67,7 @@ const Holsters = [
     },
     {
         'title' : 'Triple K',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/Triple_K-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Triple_K-logo.jpg',
                     'phone' : '(619) 232-2006',
                     'address' : '',
                     'url' : 'https://www.triplek.com/',

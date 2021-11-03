@@ -1,7 +1,7 @@
 const Construction = [
     {
         'title' : 'Aurora Quality Buildings, Inc',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/Aurora_Quality_Buildings-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Aurora_Quality_Buildings-logo.jpg',
                     'phone' : '',
                     'address' : '14418 Smokey Point Blvd Marysville, WA 98271',
                     'url' : 'http://www.aurorabuildings.com/',
@@ -12,7 +12,7 @@ const Construction = [
     },
     {
         'title' : 'Web Steel Buildings Northwest, LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/07/Web_Steel_Northwest-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Web_Steel_Northwest-logo.jpg',
                     'phone' : '855-668-7211',
                     'address' : '37396 Ruben Lane, Sandy, OR 97055',
                     'url' : 'http://www.wsbnw.com/',

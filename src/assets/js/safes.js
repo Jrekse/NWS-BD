@@ -1,7 +1,7 @@
 const safes = [
     {
         'title' : 'InvictaSafe',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/invicta-safe-logo.jpg',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/invicta-safe-logo.jpg',
                     'phone' : '(630) 448-0071',
                     'address' : '',
                     'url' : 'http://www.invictasafes.com/',
