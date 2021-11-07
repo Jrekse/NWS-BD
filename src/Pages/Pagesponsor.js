@@ -7,6 +7,7 @@ function Sponsor(props){
             {Data.map((obj, index) => {
                 return(  
                     <div className='sponsor' key={index}>   
+                        Sponsored By:<br/>
                         <a href={obj.adurl} target='_blank' rel='noreferrer'><img src={obj.src} id='logo' className={obj.sponclass} alt='logo'/></a>
                     </div>   
                 )

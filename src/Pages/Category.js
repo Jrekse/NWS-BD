@@ -1,7 +1,5 @@
 import "../assets/css/Category.css";
 
-
-
 function Category(props){ 
     let Data = (props.data)
         return(

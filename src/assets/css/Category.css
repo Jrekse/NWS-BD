@@ -1,18 +1,22 @@
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 375px){
     body{
         width: 90%;
-        max-width: 600px;
+        max-width: 370px;
         justify-content: center;
     }
     .cards{
-        margin: 0px 0px 10px 0px;
-        max-width: 90%;
+        max-width: 370px;
+        margin-bottom: 10px;
     }
-    .untable{
-        overflow: auto;
+    img{
+        width: 360px;
+    }
+    .anad{
+        width: 360px;
+        height: auto;
     }
 }
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 760px){
     body{
         justify-content: center;
     }
@@ -23,23 +27,22 @@
     img{
         width: 360;
     }
-    .untable{
-        overflow: auto;
-    }
 }
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 1000px){
     body{
         justify-content: center;
     }
     .cards{
-        margin: 0px 0px 10px 0px;
+        margin: 0px 10px 10px 0px;
         max-width: 90%;
     }
     img{
-        width: 360;
+        width: 380px;
+        height: 120px;
     }
-    .untable{
-        overflow: auto;
+    .anad{
+        width: 300px;
+        height: 250px;
     }
 }
 .cards{
@@ -56,7 +59,6 @@ a{
     background-color: #0D1321;
     color: #F0EBD8;
     border-radius: 12px;
-    /* margin: 10px; */
     width: 400px;
 }
 #myDropdown{
@@ -79,7 +81,6 @@ ul{
 img{
     text-indent:-9999px;
     height: 120px;
-    width: 380px;
     margin-top: 10px;
     border-radius: 5px;
 }
@@ -91,14 +92,10 @@ img{
     margin-top: 20px;
 }
 .page{
-    padding-top: 300px;
+    padding-top: 150px;
 }
 p{
     margin: 0px;
-}
-.anad{
-    height: 300px;
-    width: 380px;
 }
 #ad{
     background-color: white;
