@@ -88,8 +88,10 @@ img{
 }
 .categoryTable{
     max-width: 100%;
-    padding-top: 360px;
-    /* columns: 3 auto; */
+    margin-top: 20px;
+}
+.page{
+    padding-top: 300px;
 }
 p{
     margin: 0px;

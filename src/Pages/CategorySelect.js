@@ -10,7 +10,7 @@ function Catselect(props){
 
                 <div className='categoryselectTable'>
                     <h2><strong>Northwest Sportsman's Business Directory</strong></h2>
-                    <a href="https://wsbnw.com/" target='_blank' rel='noreferrer'><img className='banner' src="https://nwsportsmanmag.com/wp-content/uploads/2021/01/web-steel-banner.jpg" alt='sponsor banner'/></a>
+                    {/* <a href="https://wsbnw.com/" target='_blank' rel='noreferrer'><img className='banner' src="https://nwsportsmanmag.com/wp-content/uploads/2021/01/web-steel-banner.jpg" alt='sponsor banner'/></a> */}
                     <br/>
                     <br/>
                     <div className='untable'>
@@ -30,7 +30,7 @@ function Catselect(props){
                                     <td><a href='#Furniture' onClick={() => props.handlePageChange("Furniture")}>Furniture</a></td>
                                     <td><a href='#FirearmsAmmo' onClick={() => props.handlePageChange("FirearmsAmmo")}>Firearms / Ammo</a></td>
                                     <td><a href='#Firearm Cleaning' onClick={() => props.handlePageChange("Firearm Cleaning")}>Firearm Cleaning</a></td>
-                                    <td><a href='#Fishing Equipment' onClick={() => props.handlePageChange("Fishing Equipment")}>Fishing Equipment</a></td>
+                                    <td><a href='#Fishing Equipment' onClick={() => props.handlePageChange("Fishing Equipment")}>Marine, Fishing Equipment</a></td>
                                     <td><a href='#Gear' onClick={() => props.handlePageChange("Gear")}>Gear</a></td>
                                     <td><a href='#Government Agencies' onClick={() => props.handlePageChange("Government Agencies")}>Government Agencies</a></td>
                                     <td><a href='#Holsters' onClick={() => props.handlePageChange("Holsters")}>Holsters</a></td>

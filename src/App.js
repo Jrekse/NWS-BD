@@ -1,8 +1,17 @@
 import React, {Component} from 'react';
 
-
+// Pages
 import CatSelect from './Pages/CategorySelect';
 import Category from './Pages/Category';
+import PageSpon from './Pages/Pagesponsor';
+
+// Sponsors
+import noCat from './assets/js/sponsors/noCat.js';
+import rvSpon from './assets/js/sponsors/rvSpon.js';
+import boatspon from './assets/js/sponsors/boatSpon.js';
+import fishequipspon from './assets/js/sponsors/fishequipSpon.js';
+
+// Post Data
 import auction from './assets/js/Auctioneers.js';
 import apparel from './assets/js/ApparelAccessories.js';
 import construction from './assets/js/construction.js';
@@ -51,12 +60,14 @@ class App extends Component {
   };
 
   renderPage = () => {
-    if (this.state.currentPage === "Air") {
+    if (this.state.currentPage === "") {
+      return <PageSpon data={noCat}/>;
+    } else if (this.state.currentPage === "Air") {
       return <Category data={air}/>;
     } else if (this.state.currentPage === "Apparel") {
       return <Category data={apparel}/>;
     } else if (this.state.currentPage === "Boats") {
-      return <Category data={boat}/>;
+      return <><PageSpon data={boatspon}/><Category data={boat}/></>;
     } else if (this.state.currentPage === "FishingResorts") {
       return <Category data={FishingResorts}/>;
     } else if (this.state.currentPage === "Food") {
@@ -104,7 +115,7 @@ class App extends Component {
     } else if (this.state.currentPage === "Firearm Cleaning") {
       return <Category data={FirearmCleaning}/>;
     } else if (this.state.currentPage === "Fishing Equipment") {
-      return <Category data={FishEquip}/>;
+      return <><PageSpon data={fishequipspon}/><Category data={FishEquip}/></>;
     } else if (this.state.currentPage === "Holsters") {
       return <Category data={Holsters}/>;
     } else if (this.state.currentPage === "Hunting") {
@@ -116,7 +127,7 @@ class App extends Component {
     } else if (this.state.currentPage === "NonProfit") {
       return <Category data={nonProfit}/>;
     } else if (this.state.currentPage === "RV's") {
-      return <Category data={rvs}/>;
+      return <><PageSpon data={rvSpon}/><Category data={rvs}/></>;
     } else if (this.state.currentPage === "Safes") {
       return <Category data={safes}/>;
     } else if (this.state.currentPage === "Trucks") {
@@ -128,8 +139,9 @@ class App extends Component {
         <div className="App">
           <CatSelect currentPage={this.state.currentPage} handlePageChange={this.handlePageChange}/>
           <br/>
-          {/* <a href="http://www.powershopcentralia.com/" target='_blank' rel='noreferrer'><img className='ad1' src="https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg" alt='sponsor banner'/></a> */}
-          {this.renderPage()}
+          <div className="page">
+            {this.renderPage()}
+          </div>
         </div>
       )
   }
