@@ -20,13 +20,13 @@ const Boats = [
         'class' : 'premium'
     },
     {
-        'title' : 'Auburn Sports & Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/auburn-sports-and-marine_banner.jpg',
-                    'phone' : '(253)-833-1440',
-                    'address' : '810 Auburn Way N, Auburn, WA 98002',
-                    'url' : 'https://www.auburnsportsmarineinc.com/',
-                    'email' : '',
-        'content' : 'Auburn Sports and Marine has been serving the community and the marine industry as a quality boat dealer for over 35 years. The company is divided into three departments to better serve you: new boat sales, marine parts and service, and fishing tackle and boat accessories department. Our sales department carries a wide variety of aluminum boats from our flagship line of Smokercraft American Angler and family fun fishing Boats, just to name a few. Looking for a re-power or just power up a small boat? We have Yamaha, Evinrude, Suzuki, Honda and Mercury models for sale. The parts and service department stocks parts for Yamaha, Johnson, Evinrude, Suzuki, Honda, Mercury, and Force outboard motors. We also carry Mercruiser, Volvo, and OMC Stern Drive parts. Our technicians are factory trained with over fifty years of combined experience. We offer everything from rigging and basic tune-ups to complete engine rebuilds and re-powers. Our fishing tackle shop offers everything you need to make your fishing trip successful. From expert advice on what to use and where the fish are biting. We also carry a full supply of boat accessories to make your boating experience safe and pleasurable.',
+        'title' : 'Maxxum Marine',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/maxxummarine_logo_large.jpg',  
+                    'phone' : '(541)-686-3572',
+                    'address' : '',
+                    'url' : 'http://www.maxxummarine.com/',
+                    'email' : 'sales@maxxummarine.com',
+        'content' : 'New and used boats sales. We are dealers for North River, Boulton, and Thunder Jet boats. Call us for the best prices on new Yamaha, Suzuki, and Tohatsu outboard motors. Friendly, personalized service on most brands of boats and motors.',
         'class' : 'premium'
     },
   
@@ -48,6 +48,15 @@ const Boats = [
             'imgclass' : 'anad',
         },
         // ad ^^
+    {
+            'title' : 'Auburn Sports & Marine',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/auburn-sports-and-marine_banner.jpg',
+                        'phone' : '(253)-833-1440',
+                        'address' : '810 Auburn Way N, Auburn, WA 98002',
+                        'url' : 'https://www.auburnsportsmarineinc.com/',
+                        'email' : '',
+            'content' : 'Auburn Sports and Marine has been serving the community and the marine industry as a quality boat dealer for over 35 years. The company is divided into three departments to better serve you: new boat sales, marine parts and service, and fishing tackle and boat accessories department. Our sales department carries a wide variety of aluminum boats from our flagship line of Smokercraft American Angler and family fun fishing Boats, just to name a few. Looking for a re-power or just power up a small boat? We have Yamaha, Evinrude, Suzuki, Honda and Mercury models for sale. The parts and service department stocks parts for Yamaha, Johnson, Evinrude, Suzuki, Honda, Mercury, and Force outboard motors. We also carry Mercruiser, Volvo, and OMC Stern Drive parts. Our technicians are factory trained with over fifty years of combined experience. We offer everything from rigging and basic tune-ups to complete engine rebuilds and re-powers. Our fishing tackle shop offers everything you need to make your fishing trip successful. From expert advice on what to use and where the fish are biting. We also carry a full supply of boat accessories to make your boating experience safe and pleasurable.',
+    },
     {
         'title' : 'American Turbine Inc',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/american-turbine-logo.jpg',
@@ -235,16 +244,6 @@ const Boats = [
                     'url' : 'http://www.marksmarineinc.com/',
                     'email' : '',
         'content' : 'We provides superior customer service and has an entire team that consists of professional sales members, finance experts, service technicians and a knowledgeable parts and accessories staff to support you, our valued customer. We pride ourselves on having well-trained experts that strive for customer satisfaction. Come in and visit our friendly, reliable and experienced staff.We offers the newest models including Aqua Patio, Avalon, Hewescraft, Lund, Sanpan, Sweetwater, Thunder Jet and Weldcraft . Our location is complete with service, parts and sales departments. We will help you maintain your deck boat, fishing, jon boat, pontoon or sportsfishing so that it runs for years. If it is having problems, we can diagnose and repair it! Schedule your service appointment today.'
-    
-    },
-    {
-        'title' : 'Maxxum Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/maxxummarine_logo_large.jpg',  
-                    'phone' : '(541)-686-3572',
-                    'address' : '',
-                    'url' : 'http://www.maxxummarine.com/',
-                    'email' : 'sales@maxxummarine.com',
-        'content' : 'New and used boats sales. We are dealers for North River, Boulton, and Thunder Jet boats. Call us for the best prices on new Yamaha, Suzuki, and Tohatsu outboard motors. Friendly, personalized service on most brands of boats and motors.'
     
     },
     {

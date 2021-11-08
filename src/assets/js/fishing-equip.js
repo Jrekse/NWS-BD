@@ -10,6 +10,16 @@ const Fishingequip = [
         'content' : 'Bait the hook with Bait Buttons the bait stopper every fisherman needs. Keeps bait in place on hook, exposes hook better for more hookups, bait won’t slip back causing missed hook-ups. Catch more fish with same bait saving money.'
     },
     {
+        'title' : 'Maxxum Marine',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/maxxummarine_logo_large.jpg',  
+                    'phone' : '(541)-686-3572',
+                    'address' : '',
+                    'url' : 'http://www.maxxummarine.com/',
+                    'email' : 'sales@maxxummarine.com',
+        'content' : 'New and used boats sales. We are dealers for North River, Boulton, and Thunder Jet boats. Call us for the best prices on new Yamaha, Suzuki, and Tohatsu outboard motors. Friendly, personalized service on most brands of boats and motors.',
+        'class' : 'premium'
+    },
+    {
         'title' : 'Bay De Noc Lure Co.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/baydenoc.jpg',
                     'phone' : '(906) 428-1133',
@@ -19,16 +29,7 @@ const Fishingequip = [
                     'class' : 'premium',
         'content' : 'The Swedish Pimple is a superb jigging lure. This type of lure has been widely used in Sweden for over 100 years with exceptional results on both fresh and salt-water fish. Jig it, summer or winter! Their proven ability to take walleye, trout, Coho salmon, northern, bass, pan fish and many salt water species makes owning this lure a must for most all larger sizes are for game fish in deep water lakes.'
     },
-    {
-        'title' : 'Buzzbomb Tackle',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BuzzBomb_logo.jpg',
-                    'phone' : '',
-                    'address' : '',
-                    'url' : 'http://www.buzzbombtackle.com/',
-                    'email' : '',
-                    'class' : 'premium',
-        'content' : 'Fishing with buzz bomb is definitely one of the most famous and trusted ways to catch salmon, trout, walleye, pike, and even bass. One of the most iconic and patented shapes, the Buzz Bomb is your golden ticket for catching huge fish like salmon, lake trout, and all species in deep as well as shallow waters. Just match your size to bait fish size and depth. All Buzzbomb Tackle products are made in Canada by hand – hand cast, hand painted and hand packaged in Courtenay BC Canada. The iconic sonic lure mimics vibrations conveyed by wounded baitfish and attracts predatory fish. It is a simple set up that reduces the need for any additional tackle and is hugely popular with non-motorized fishing and kids, as well as the most seasoned angler. We bring you a huge array of bright colours including holographic finishes and UV finishes, as well as our world famous hot pink, fire orange and pearl finishes. Handcrafted by the most experienced team of fishing industry professionals, we have designed every single aspect of the product. You can explore all the available colors for your water conditions.'
-    },
+
             // ad vv
             {
                 'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
@@ -47,6 +48,15 @@ const Fishingequip = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+    {
+                'title' : 'Buzzbomb Tackle',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BuzzBomb_logo.jpg',
+                            'phone' : '',
+                            'address' : '',
+                            'url' : 'http://www.buzzbombtackle.com/',
+                            'email' : '',
+                'content' : 'Fishing with buzz bomb is definitely one of the most famous and trusted ways to catch salmon, trout, walleye, pike, and even bass. One of the most iconic and patented shapes, the Buzz Bomb is your golden ticket for catching huge fish like salmon, lake trout, and all species in deep as well as shallow waters. Just match your size to bait fish size and depth. All Buzzbomb Tackle products are made in Canada by hand – hand cast, hand painted and hand packaged in Courtenay BC Canada. The iconic sonic lure mimics vibrations conveyed by wounded baitfish and attracts predatory fish. It is a simple set up that reduces the need for any additional tackle and is hugely popular with non-motorized fishing and kids, as well as the most seasoned angler. We bring you a huge array of bright colours including holographic finishes and UV finishes, as well as our world famous hot pink, fire orange and pearl finishes. Handcrafted by the most experienced team of fishing industry professionals, we have designed every single aspect of the product. You can explore all the available colors for your water conditions.'
+    },
     {
         'title' : 'Crabby Lift',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',

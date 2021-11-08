@@ -10,6 +10,7 @@ import noCat from './assets/js/sponsors/noCat.js';
 import rvSpon from './assets/js/sponsors/rvSpon.js';
 import boatspon from './assets/js/sponsors/boatSpon.js';
 import fishequipspon from './assets/js/sponsors/fishequipSpon.js';
+import powerEquipSpon from './assets/js/sponsors/powerEquip.js';
 
 // Post Data
 import auction from './assets/js/Auctioneers.js';
@@ -79,7 +80,7 @@ class App extends Component {
     } else if (this.state.currentPage === "Lodging") {
       return <Category data={lodging}/>;
     } else if (this.state.currentPage === "Power Equipment") {
-      return <Category data={powerEquip}/>;
+      return <><PageSpon data={powerEquipSpon}/><Category data={powerEquip}/></>;
     } else if (this.state.currentPage === "Hunting Education") {
       return <Category data={hunterEd}/>;
     } else if (this.state.currentPage === "Sport Fishing") {

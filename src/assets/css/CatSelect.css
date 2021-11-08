@@ -58,6 +58,8 @@ td:hover{
     margin: 5px;
 }
 .Box{
+    color: white;
+    background-color: #1D2D44;
     border: black solid 2px;
     position: relative;
     display: inline-block;
