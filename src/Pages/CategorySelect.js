@@ -9,6 +9,8 @@ function Catselect(props){
 
                 <div className='categoryselectTable'>
                     <h2><strong>Northwest Sportsman's Business Directory</strong></h2>
+                    <h4>Your online resource for products and services for the  fishing, hunting and outdoor sports communities.</h4>
+                    <hr/>
                     <br/>
                     <div className='untable'>
                         <div className='Box'>Select A Category</div>
