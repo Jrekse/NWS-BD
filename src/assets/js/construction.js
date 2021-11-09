@@ -33,7 +33,7 @@ const Construction = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },
@@ -44,7 +44,7 @@ const Construction = [
                 'adurl' : 'https://www.cubcadet.com/en_US/home'
             },
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },

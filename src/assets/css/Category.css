@@ -15,6 +15,9 @@
         width: 360px;
         height: auto;
     }
+    .page{
+        padding-top: 270px;
+    }
 }
 @media only screen and (min-width: 760px){
     body{
@@ -43,6 +46,9 @@
     .anad{
         width: 300px;
         height: 250px;
+    }
+    .page{
+        padding-top: 180px;
     }
 }
 .cards{
@@ -90,9 +96,6 @@ img{
 .categoryTable{
     max-width: 100%;
     margin-top: 20px;
-}
-.page{
-    padding-top: 180px;
 }
 p{
     margin: 0px;
