@@ -1,8 +1,8 @@
 const stateZero = [
     {
-        'src' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/01/web-steel-banner.jpg',
+        'src' : '',
         'sponclass' : 'banner',
-        'adurl' : 'https://wsbnw.com/'
+        'adurl' : ''
     },
 ]
 export default stateZero;

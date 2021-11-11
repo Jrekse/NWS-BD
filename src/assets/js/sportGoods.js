@@ -1,13 +1,13 @@
 const air = [
     {
-        'title' : 'Web Steel Buildings Northwest, LLC',
+        'title' : 'Log Cabin Sporting Goods',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '855-668-7211',
-                    'address' : '37396 Ruben Lane, Sandy, OR 97055',
-                    'url' : 'http://www.wsbnw.com/',
-                    'email' : '',
+                    'phone' : '907-826-2205',
+                    'address' : '',
+                    'url' : 'http://www.logcabinsports.com/',
+                    'email' : 'melissa@logcabinsports.com',
                     'class' : 'premium',
-        'content' : 'Web Steel Building Northwest, LLC, is a regional manufacturer of pre-engineered steel framed metal buildings. With our commitment to quality, we promise that when you purchase a building from us, you will get a well-designed, precision-manufactured product, and the support of our entire team of metal building professionals who guarantee your satisfaction. The team at Web Steel Buildings Northwest is here, ready to answer your questions, whether you’ve already decided to build or are merely in the research phase.'
+        'content' : 'The only fully stocked sporting goods store on Prince of Wales. We are here for all of your firearm, shooting, hunting, camping, fishing and clothing needs. Stop in to say hi and let our trained and knowledgeable staff assist you.'
     },
     {
         'title' : 'Buy This Space',
