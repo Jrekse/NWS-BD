@@ -8,7 +8,7 @@ function Sponsor(props){
                 return(  
                     <div className='sponsor' key={index}>   
                         Sponsored By:<br/>
-                        <a href={obj.adurl} target='_blank' rel='noreferrer'><img src={obj.src} id='logo' className={obj.sponclass} alt='logo'/></a>
+                        <a href={obj.adurl} rel='nofollow'><img src={obj.src} id='logo' className={obj.sponclass} alt='logo'/></a>
                     </div>   
                 )
             })}
