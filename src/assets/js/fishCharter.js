@@ -1,13 +1,13 @@
 const air = [
     {
-        'title' : 'Web Steel Buildings Northwest, LLC',
+        'title' : 'Shark Tooth Charters',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '855-668-7211',
-                    'address' : '37396 Ruben Lane, Sandy, OR 97055',
-                    'url' : 'http://www.wsbnw.com/',
+                    'phone' : '907 351-8853',
+                    'address' : '',
+                    'url' : 'http://sharktoothcharters.com/',
                     'email' : '',
                     'class' : 'premium',
-        'content' : 'Web Steel Building Northwest, LLC, is a regional manufacturer of pre-engineered steel framed metal buildings. With our commitment to quality, we promise that when you purchase a building from us, you will get a well-designed, precision-manufactured product, and the support of our entire team of metal building professionals who guarantee your satisfaction. The team at Web Steel Buildings Northwest is here, ready to answer your questions, whether you’ve already decided to build or are merely in the research phase.'
+        'content' : 'Silver Salmon Charters out in Scenic Valdez, Alaska, July 15 til Labor Day. The thrill of a lifetime is waiting for you! Experience the intensity of catching a Silver Salmon, a Halibut or possibly a Shark. We’re here to help you experience something special!'
     },
     {
         'title' : 'Buy This Space',

@@ -1,13 +1,13 @@
 const air = [
     {
-        'title' : 'Ace Air Cargo',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Ace-Air-logo.jpg',
-                    'phone' : '888-722-0232',
+        'title' : 'Athlon Optics',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '1-855-913-5678',
                     'address' : '',
-                    'url' : 'http://www.aceaircargo.com/',
-                    'email' : '',
+                    'url' : 'https://athlonoptics.com/',
+                    'email' : 'contact@athlonoptics.com',
                     'class' : 'premium',
-        'content' : 'Personalized passenger charter & freight service throughout Alaska.'
+        'content' : 'ATHLON is a proud US sports optics product company devoted to designing and delivering superior quality optics products and outdoor accessories at a competitive price to our consumers via our distribution and retail channels. Athlon has strong engineering design capability, strategic alliances with quality manufacturers and a streamlined fully integrated supply chain.'
     },
     {
         'title' : 'Buy This Space',
@@ -36,10 +36,9 @@ const air = [
             'imgclass' : 'anad',
         },
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
             'class' : 'ad',
             'imgclass' : 'anad',
-            'adurl' : 'https://www.cubcadet.com/en_US/home'
         },
         {
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',

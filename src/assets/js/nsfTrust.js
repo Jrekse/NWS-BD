@@ -1,13 +1,13 @@
 const air = [
     {
-        'title' : 'Web Steel Buildings Northwest, LLC',
+        'title' : 'Coyote Rifleworks',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '855-668-7211',
-                    'address' : '37396 Ruben Lane, Sandy, OR 97055',
-                    'url' : 'http://www.wsbnw.com/',
+                    'phone' : '',
+                    'address' : '',
+                    'url' : 'http://coyoterifleworks.com/',
                     'email' : '',
                     'class' : 'premium',
-        'content' : 'Web Steel Building Northwest, LLC, is a regional manufacturer of pre-engineered steel framed metal buildings. With our commitment to quality, we promise that when you purchase a building from us, you will get a well-designed, precision-manufactured product, and the support of our entire team of metal building professionals who guarantee your satisfaction. The team at Web Steel Buildings Northwest is here, ready to answer your questions, whether you’ve already decided to build or are merely in the research phase.'
+        'content' : 'Coyote Rifleworks is proud to have helped more than 9,000 people and counting become new NFA owners. Our mission is to get as many people involved as possible, making sure that your 2nd Amendment Right is protected, and that your collection is able to be passed down for generations to come. Our NFA Trust is endorsed and used by manufacturers of silencers and short barreled firearms, by professional shooters, by hundreds of SOT dealers across every state, and by thousands of people just like you who want to own NFA items. The document you receive was designed by a highly experienced attorney with decades of experience in estate planning and firearm ownership.'
     },
     {
         'title' : 'Buy This Space',
