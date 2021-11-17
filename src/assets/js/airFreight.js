@@ -1,13 +1,13 @@
 const air = [
     {
-        'title' : 'Tion Inc.',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '717-227-9060',
+        'title' : 'Ace Air Cargo',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Ace-Air-logo.jpg',
+                    'phone' : '888-722-0232',
                     'address' : '',
-                    'url' : 'https://tioninc.com/',
-                    'email' : 'suppressors@tioninc.com',
+                    'url' : 'http://www.aceaircargo.com/',
+                    'email' : '',
                     'class' : 'premium',
-        'content' : 'Whether rimfire, centerfire or rifle caliber; TiON suppressors deliver on sound reduction with light weight, durable and completely serviceable designs. TiON’s Quick Detach (QD) titanium mounts further lighten the end of your rifle and produce consistent group shot repeatability (when removed and then reattached) with TiON’s QD system.'
+        'content' : 'Personalized passenger charter & freight service throughout Alaska.'
     },
     {
         'title' : 'Buy This Space',
@@ -31,17 +31,18 @@ const air = [
     },
         // ad vv
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
             'class' : 'ad',
             'imgclass' : 'anad',
         },
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
             'class' : 'ad',
             'imgclass' : 'anad',
+            'adurl' : 'https://www.cubcadet.com/en_US/home'
         },
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
             'class' : 'ad',
             'imgclass' : 'anad',
         },

@@ -1,13 +1,13 @@
-const knives = [
+const insurance = [
     {
-        'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
-                    'phone' : '(760) 945-7177, 760-310-4078',
+        'title' : 'Boat Insurance Agency Inc.',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Boat_Insurance-Logo.jpg',
+                    'phone' : '(800) 828-2446',
                     'address' : '',
-                    'url' : 'https://exquisiteknives.com/',
-                    'email' : 'exquisiteknives@gmail.com',
+                    'url' : 'http://www.boatinsurance.net/',
+                    'email' : 'quote@boatinsurance.net',
                     'class' : 'premium',
-        'content' : 'Exquisite Knives offers the finest in Custom Knives. Dave Ellis, Master Bladesmith, has spent a good part of his life collecting and providing collectors Worldwide with the kind of custom pieces most only dream of! Bob Loveless, Bill Moran, Ron Lake are just a few of the Knifemakers featured on exquisiteknives.com.'
+        'content' : 'The Boat Insurance Agency is an independent agency representing the best marine insurance companies. We carefully compare a number of policies to find the lowest premiums and best values for your boat insurance needs.'
     },
     {
         'title' : 'Buy This Space',
@@ -48,4 +48,4 @@ const knives = [
             },
             // ad ^^
 ]
-export default knives;
+export default insurance;

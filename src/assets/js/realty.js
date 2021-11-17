@@ -1,13 +1,13 @@
-const knives = [
+const realty = [
     {
-        'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
-                    'phone' : '(760) 945-7177, 760-310-4078',
+        'title' : 'Prince of Wales Island Realty LLC',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/IslandRealty_logo.jpg',
+                    'phone' : 'cell: (219) 781-1825, office (907) 826-6600',
                     'address' : '',
-                    'url' : 'https://exquisiteknives.com/',
-                    'email' : 'exquisiteknives@gmail.com',
+                    'url' : 'http://www.alaskaislandrealty.com/',
+                    'email' : 'chuckrealestate@yahoo.com',
                     'class' : 'premium',
-        'content' : 'Exquisite Knives offers the finest in Custom Knives. Dave Ellis, Master Bladesmith, has spent a good part of his life collecting and providing collectors Worldwide with the kind of custom pieces most only dream of! Bob Loveless, Bill Moran, Ron Lake are just a few of the Knifemakers featured on exquisiteknives.com.'
+        'content' : 'Prince of Wales Island Realty LLC has served the Prince of Wales Island area for over four decades. Your agent Chuck Klee is a 29-year resident of Prince of Wales Island, a retired Forester and Silviculturist and has been in real estate on-island since 2007. Chuck has the capability to meet anywhere that is convenient for you, or conduct business virtually…whatever works best for you. “If you don’t see what you’re looking for, call me and I will do my best to find it for you. Other firms that serve this area are listed on my LINKS page. If you see something of interest there, I can still help you buy it”.'
     },
     {
         'title' : 'Buy This Space',
@@ -48,4 +48,4 @@ const knives = [
             },
             // ad ^^
 ]
-export default knives;
+export default realty;

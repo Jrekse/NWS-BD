@@ -1,13 +1,13 @@
-const air = [
+const ApparelAccessories = [
     {
-        'title' : 'Athlon Optics',
+        'title' : 'NOMAR LLC',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '1-855-913-5678',
+                    'phone' : '(907)-253-8363',
                     'address' : '',
-                    'url' : 'https://athlonoptics.com/',
-                    'email' : 'contact@athlonoptics.com',
+                    'url' : 'https://nomaralaska.com/',
+                    'email' : 'info@nomaralaska.com',
                     'class' : 'premium',
-        'content' : 'ATHLON is a proud US sports optics product company devoted to designing and delivering superior quality optics products and outdoor accessories at a competitive price to our consumers via our distribution and retail channels. Athlon has strong engineering design capability, strategic alliances with quality manufacturers and a streamlined fully integrated supply chain.'
+        'content' : 'NOMAR creates and manufactures tough outerwear clothing and gear in Homer Alaska USA. Our Alaskan customers know what they need to stand up to the extreme weather of our state. Over the years they have helped us dial in on unique items that will last and work. Shop our retail outlet in Homer or our web store. wwwnomaralaska.com'
     },
     {
         'title' : 'Buy This Space',
@@ -29,22 +29,24 @@ const air = [
                     'class' : 'premium',
         'content' : ''
     },
+
         // ad vv
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
             'class' : 'ad',
             'imgclass' : 'anad',
         },
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
             'class' : 'ad',
             'imgclass' : 'anad',
+            'adurl' : 'https://www.cubcadet.com/en_US/home'
         },
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
             'class' : 'ad',
             'imgclass' : 'anad',
         },
         // ad ^^
 ]
-export default air;
+export default ApparelAccessories;

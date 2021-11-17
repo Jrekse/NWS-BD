@@ -1,13 +1,13 @@
-const knives = [
+const HuntersEd = [
     {
-        'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
-                    'phone' : '(760) 945-7177, 760-310-4078',
+        'title' : 'Pro Caliber Motorsports',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/PROCALIBER_LOGO.jpg',
+                    'phone' : '(360) 892-3030',
                     'address' : '',
-                    'url' : 'https://exquisiteknives.com/',
-                    'email' : 'exquisiteknives@gmail.com',
+                    'url' : 'https://www.procalibervancouver.com/',
+                    'email' : 'pcvleads@procaliber.com',
                     'class' : 'premium',
-        'content' : 'Exquisite Knives offers the finest in Custom Knives. Dave Ellis, Master Bladesmith, has spent a good part of his life collecting and providing collectors Worldwide with the kind of custom pieces most only dream of! Bob Loveless, Bill Moran, Ron Lake are just a few of the Knifemakers featured on exquisiteknives.com.'
+        'content' : 'The Northwest’s Largest Motorcycle Dealership Featuring BMW, Indian, Honda, Yamaha, Kawasaki, Ski-Doo, Sea Doo, Can-Am, Timbersled, Polaris, Slingshot, Yamaha Generators And Honda Power Equipment. We have a huge selection of Parts On-line at www.ProCaliber.com plus a complete Service Department for all your needs.'
     },
     {
         'title' : 'Buy This Space',
@@ -48,4 +48,4 @@ const knives = [
             },
             // ad ^^
 ]
-export default knives;
+export default HuntersEd;

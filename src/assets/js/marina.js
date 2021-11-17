@@ -1,24 +1,24 @@
-const knives = [
+const Marina = [
     {
-        'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
-                    'phone' : '(760) 945-7177, 760-310-4078',
+        'title' : 'Point Defiance Marina at Point Defiance Park',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Point-Defiance-Marina_-logo.jpg',
+                    'phone' : '(253) 404-3960',
                     'address' : '',
-                    'url' : 'https://exquisiteknives.com/',
-                    'email' : 'exquisiteknives@gmail.com',
+                    'url' : 'http://www.pointdefiancepark.com/',
+                    'email' : 'ptdefiancemarina@tacomaparks.com',
                     'class' : 'premium',
-        'content' : 'Exquisite Knives offers the finest in Custom Knives. Dave Ellis, Master Bladesmith, has spent a good part of his life collecting and providing collectors Worldwide with the kind of custom pieces most only dream of! Bob Loveless, Bill Moran, Ron Lake are just a few of the Knifemakers featured on exquisiteknives.com.'
+        'content' : 'Point Defiance Marina offers an 8-lane public boat launch with convenient boat trailer parking; dry storage for nearly 300 boats – 17′ and under – with boat lift service to the water; and a bait and tackle shop that doubles as a convenience store with snacks and beverages. 14′ rental boats and fishing gear are also available. Ethanol-free gas sold here. Open year-round except Thanksgiving and Christmas.'
     },
     {
-        'title' : 'Buy This Space',
+        'title' : 'Port of Friday Harbor',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '',
+                    'phone' : '(360) 378-2688',
                     'address' : '',
-                    'url' : '',
-                    'email' : '',
+                    'url' : 'https://www.portfridayharbor.org/',
+                    'email' : 'tamih@portfridayharbor.org',
                     'class' : 'premium',
-        'content' : ''
-    },
+        'content' : 'The Port of Friday Harbor Marina provides year-round shelter for recreation and fishing boats in the center of the most beautiful cruising waters of the West Coast. The marina is located in the town of Friday Harbor, and boaters have easy access to supplies and services year round.'
+    },    
     {
         'title' : 'Buy This Space',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
@@ -48,4 +48,4 @@ const knives = [
             },
             // ad ^^
 ]
-export default knives;
+export default Marina;

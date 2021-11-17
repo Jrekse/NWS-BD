@@ -1,13 +1,13 @@
-const knives = [
+const nprofit = [
     {
-        'title' : 'Exquisite Knives',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Exquisite_Knives-logo.jpg',
-                    'phone' : '(760) 945-7177, 760-310-4078',
+        'title' : 'Oregon Coalition for Educating Anglers (OCEAN)',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '(503) 647-5621 (Marie Keene)',
                     'address' : '',
-                    'url' : 'https://exquisiteknives.com/',
-                    'email' : 'exquisiteknives@gmail.com',
+                    'url' : 'http://saltwatersportsmensshow.com/',
+                    'email' : 'mkeene@oceaned.org',
                     'class' : 'premium',
-        'content' : 'Exquisite Knives offers the finest in Custom Knives. Dave Ellis, Master Bladesmith, has spent a good part of his life collecting and providing collectors Worldwide with the kind of custom pieces most only dream of! Bob Loveless, Bill Moran, Ron Lake are just a few of the Knifemakers featured on exquisiteknives.com.'
+        'content' : 'OCEAN works to extend ocean-fishing seasons and maintain healthy fisheries through stewardship and education to conserve endangered rockfish and salmon species. A recent survey indicates that 70% of anglers interviewed reported using barotrauma release devices – extending the fishing seasons for rockfish. Proceeds of the Saltwater Sportsmen’s Show benefit OCEAN.'
     },
     {
         'title' : 'Buy This Space',
@@ -48,4 +48,4 @@ const knives = [
             },
             // ad ^^
 ]
-export default knives;
+export default nprofit;
