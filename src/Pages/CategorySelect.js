@@ -1,10 +1,14 @@
 import '../assets/css/CatSelect.css';
+
+const header = 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/cropped-NWSPORTSMANMAG-Top-Header-6-1-scaled-1.jpg';
 function Catselect(props){
       return (
         <div className="CSBody">
             <section className='CSMain'>
 
                 <div className='categoryselectTable'>
+                    
+                     <img className='headerlogo' src={header} alt='header'></img>
                     <h2><strong>Northwest Sportsman's Business Directory</strong></h2>
                     <h4>Your online resource for products and services for the  fishing, hunting and outdoor sports communities.</h4>
                     <hr/>
@@ -29,7 +33,7 @@ function Catselect(props){
                                     <td><a href='#FishingResorts' onClick={() => props.handlePageChange("FishingResorts")}>Fishing Resorts</a></td>
                                     <td><a href='#Food' onClick={() => props.handlePageChange("Food")}>Food</a></td>
                                     <td><a href='#Furniture' onClick={() => props.handlePageChange("Furniture")}>Furniture</a></td>
-                                    <td><a href='#FirearmsAmmo' onClick={() => props.handlePageChange("FirearmsAmmo")}>Firearms / Ammo</a></td>
+                                    <td><a href='#FirearmsAmmo' onClick={() => props.handlePageChange("FirearmsAmmo")}>Firearms</a></td>
                                 </tr>    
                                 <tr>
                                     <td><a href='#Firearm Cleaning' onClick={() => props.handlePageChange("Firearm Cleaning")}>Firearm Cleaning</a></td>

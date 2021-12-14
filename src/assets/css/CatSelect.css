@@ -6,6 +6,10 @@
     .CSBody{
         max-width: 375px;
     }
+    .headerlogo{
+        width: 360px;
+        height: auto;
+    }
 }
 @media only screen and (min-width: 760px){
     .banner{
@@ -28,6 +32,9 @@
     .tbody{
         margin-left: 30%;
     }
+}
+.page{
+    margin-top:130px;
 }
 .CSBody{
     background-color: white;
@@ -75,4 +82,8 @@ td:hover{
 }
 .untable:hover .selection{
     display: block;
+}
+.headerlogo{
+    width: 50%;
+    height: auto;
 }

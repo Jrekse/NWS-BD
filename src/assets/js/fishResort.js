@@ -1,5 +1,15 @@
 const Fishresort = [
     {
+        'title' : 'Adventure 60 North',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Adventure60North-logo.jpg',
+                    'phone' : '907-224-2600',
+                    'address' : '31872 Herman Leirer Rd.; Seward, Alaska 99664',
+                    'url' : 'http://www.adventure60.com/',
+                    'email' : 'info@adventure60.com',
+                    'class' : 'premium',
+        'content' : 'Located Near To The Entrance To Kenai Fjords National Park Guided Sea Kayaking – Guided Hiking – Glacier Shuttles – Guided Fishing – Gold Panning Rentals – Kayak – SUP – Camping – Fishing Gear & More! ADVENTURE IS OUR PASSION, LET US HELP YOU ENJOY YOURS!'
+    },
+    {
         'title' : 'Diamond Lake Resort & RV Park',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(541) 793-3333',
@@ -19,16 +29,6 @@ const Fishresort = [
                     'class' : 'premium',
         'content' : 'Alaska Fishing and lodging at King Salmondeaux Lodge in Soldotna Alaska, where Southern & Alaskan hospitality meet. King Salmondeaux Lodge is committed to providing you the most memorable fishing Alaska trip of your life.'
     },
-    {
-        'title' : 'MarDon Resort',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mardon_resort-logo.jpg',
-                    'phone' : '(509) 346-2651',
-                    'address' : '',
-                    'url' : 'http://www.mardonresort.com/',
-                    'email' : '',
-                    'class' : 'premium',
-        'content' : 'MarDon Resort is a full service RV resort on Potholes Reservoir. Amenities include a marina, cottages, tackle/general store and restaurant, and a new big rig RV site. Sportsmen can fish the 28,000 acres of fresh water for walleye and large and small mouth bass, or hunt duck and goose when in season. MarDon Resort is family-owned and open all year.'
-    },
             // ad vv
             {
                 'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
@@ -47,6 +47,15 @@ const Fishresort = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+            {
+                'title' : 'MarDon Resort',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mardon_resort-logo.jpg',
+                            'phone' : '(509) 346-2651',
+                            'address' : '',
+                            'url' : 'http://www.mardonresort.com/',
+                            'email' : '',
+                'content' : 'MarDon Resort is a full service RV resort on Potholes Reservoir. Amenities include a marina, cottages, tackle/general store and restaurant, and a new big rig RV site. Sportsmen can fish the 28,000 acres of fresh water for walleye and large and small mouth bass, or hunt duck and goose when in season. MarDon Resort is family-owned and open all year.'
+            },
     {
         'title' : 'Spectacle Lake Resort',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',

@@ -11,7 +11,7 @@ const Boats = [
     },
     {
         'title' : 'Aqua Tech Marine Services',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Aquatech_logo.jpg',
                     'phone' : '(360)-792-2628',
                     'address' : '4911-B State Highway 303 NE (Wheaton Way), Bremerton, WA 98311',
                     'url' : 'http://www.aquatechboats.com/',
@@ -178,7 +178,7 @@ const Boats = [
     },
     {
         'title' : 'Gateway Trailers',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/gateway_trailers-logo.jpg',
                     'phone' : '(208)-743-0720',
                     'address' : '9066 SW Feather Dr., Culver, Oregon 97734',
                     'url' : 'https://gateway-materials.com/',
@@ -208,7 +208,7 @@ const Boats = [
     },
     {
         'title' : 'Lee Lock Anchor Systems',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/LeeLock-logo.jpg',
                     'phone' : '(360)-380-1864',
                     'address' : '',
                     'url' : 'http://www.leelockas.com/',
@@ -420,10 +420,10 @@ const Boats = [
         'title' : 'West Coast Marine Services Inc.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/West-Coast-Marine-logo.jpg',
                     'phone' : '(360) 676-8020, 888-676-8020',
-                    'address' : '',
-                    'url' : 'https://www.wcmarine.us/',
+                    'address' : '1200 C St. Bellingham, Wa 98225',
+                    'url' : 'http://www.wcmarine.us/',
                     'email' : 'wcmssales@comcast.net',
-        'content' : 'Your #1 source for Bamf Boats, Wooldridge Boats, Marlon Boats, Evinrude, Honda, Yamaha and EZ-Loader! West Coast Marine Services Inc. Employs 6 Full Time Employees with MANY years of combined marine experience. The service, parts and sales departments combine for a staggering 120 years of Marine Industry experience and a total of 134 years of experience in various sales, parts and service fields. Jamie and Pete Foti have put together a tried and true, old fashioned business model, and that is a TEAM. Happy, knowledgeable employees means a better end experience for the customer!'
+        'content' : 'Your #1 source for Wooldridge Boats, Marlon Boats, Evinrude, Honda, Yamaha and EZ-Loader! West Coast Marine Services Inc. Employs 6 Full Time Employees with MANY years of combined marine experience. The service, parts and sales departments combine for a staggering 120 years of Marine Industry experience and a total of 134 years of experience in various sales, parts and service fields. Jamie and Pete Foti have put together a tried and true, old fashioned business model, and that is a TEAM. Happy, knowledgeable employees means a better end experience for the customer!'
     
     },
 

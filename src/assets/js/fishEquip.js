@@ -228,5 +228,14 @@ const Fishingequip = [
                     'email' : 'ybcinc@yakimabait.com',
         'content' : 'Yakima Bait makes Rooster Tails, Mag Lips, FlatFish, Spin-N-Glos, Lil’ Corkies, Fish Flash and many other lures that have been helping Northwest anglers catch fish for decades. For our complete line of products go to our website. Yakima Bait products are sold at all local retailers in the region.'
     },
+    {
+        'title' : 'Kevin Larson Guide Service, LLC ',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Kevin_Larson_Guide-logo-1.jpg',
+                    'phone' : '(503) 621-6759',
+                    'address' : '',
+                    'url' : 'http://www.fishingwithkevin.com/',
+                    'email' : 'kevin@kevinlarsonguideservice.com',
+        'content' : 'With Kevin Larson Guide Service, the beautiful waters of Oregon will be all yours. If getting a healthy dose of feisty salmon, sturgeon, steelhead, halibut and bottom fish are on your is on your bucket list, give this charter a try. Capt. Kevin will show you how fishing is meant to be done. He will share his local knowledge and make sure everyone has a fun and memorable day out on the water.'
+    },
 ]
 export default Fishingequip;

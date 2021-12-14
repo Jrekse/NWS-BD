@@ -112,7 +112,7 @@ const Gear = [
     },
     {
         'title' : 'TopperLift',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/TopperEZLift-logo.jpg',
                     'phone' : '(877) 876-2576, (651) 207-5634',
                     'address' : '',
                     'url' : 'http://www.topperezlift.com/',

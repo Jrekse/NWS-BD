@@ -7,7 +7,7 @@ const RV = [
                     'url' : 'https://www.alaskafamilymotorhomes.net/',
                     'email' : 'alaskachoices@alaska.net',
                     'class' : 'premium',
-        'content' : 'Travel in reliable, clean, fully self contained RV Motorhomes in stunningly beautiful Alaska. Unlimited miles, free kitchenware, free generator, optional bedding and insurance. View the Alaska Wildlife Conservation Center, Denali national park, Alaska SeaLife center, fish the world class Kenai river, camp the Homer spit, or fly in bear viewing.'
+        'content' : 'Travel in reliable, clean, fully self contained RV Motorhomes in stunningly beautiful Alaska. Unlimited miles, free kitchenware, free generator, optional bedding and insurance. View the Alaska Wildlife Conservation Center, Denali National Park, Alaska SeaLife Center, fish the world class Kenai River, camp the Homer Spit, or fly in bear viewing.'
     },
     {
         'title' : 'Clearview RV',

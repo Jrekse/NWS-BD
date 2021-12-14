@@ -82,7 +82,7 @@ const Construction = [
     },
     {
         'title' : 'Big Blue Charters',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Big_Blue_Charters-logo.jpg',
                     'phone' : '(907) 747-5161',
                     'address' : '',
                     'url' : 'https://www.bigbluecharters.com/',

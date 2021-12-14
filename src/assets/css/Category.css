@@ -16,7 +16,7 @@
         height: auto;
     }
     .page{
-        padding-top: 270px;
+        padding-top: 290px;
     }
 }
 @media only screen and (min-width: 760px){
@@ -95,7 +95,7 @@ img{
 }
 .categoryTable{
     max-width: 100%;
-    margin-top: 20px;
+    margin-top: 80px;
 }
 p{
     margin: 0px;

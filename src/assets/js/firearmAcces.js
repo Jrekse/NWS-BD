@@ -31,7 +31,7 @@ const Firearms = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/CDNN300x250.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },
@@ -163,6 +163,15 @@ const Firearms = [
                     'url' : 'http://www.mannersstocks.com/',
                     'email' : 'address–sales@mannersstocks.com',
         'content' : 'Approximately–Thomas Manners, founder of Manners Composite Stocks began making stocks in 2001. Thomas along with a group of some of the top 50bmg benchrest shooters, Skip Talbot, Randy Direks, Kenny Johnson and others, got together and laid out some basic designs for a new 50bmg bench stock. Thomas listened to their input and suggestions, then with the help of some space age manufacturing processes and materials developed a 100% carbon fiber stock. This stock now owns just about all of the 1000 yard 50bmg records. After this, it all kind of snowballed. Manners Composite Stocks has become known in the industry as the top of the line manufacturer for super strong, stiff, light weight stocks. Each and every team member at Manners Composite Stocks strives to manufacture the best quality stocks that money can buy.  This is achieved with state of the art manufacturing process and space age materials. Every item that we manufacture is engineered to exceed any type of abuse that you can put it through. To back this up, each item has a lifetime 100% satisfaction guarantee and the best customer service in the industry.'
+    },
+    {
+        'title' : 'Mernickle Custom Holsters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Mernickle-Holsters-Logo.jpg',  
+                    'phone' : '(806) 665-0656',
+                    'address' : '13043 County Rd C, Pampa TX 79065',
+                    'url' : 'https://www.mernickleholsters.com/',
+                    'email' : 'sales@mernickleholsters.com',
+        'content' : 'Mernickle Holsters has been hand crafting fine leather holsters for over 40 years. We will meet your needs, whether novice or world champion. Mernickle Holsters offers cowboy action, concealed carry, cowboy fast draw holsters and so much more, all made right here in the USA.'
     },
     {
         'title' : 'Muzzleloaders Supply',
@@ -307,6 +316,15 @@ const Firearms = [
                     'url' : 'https://www.underwoodammo.com/',
                     'email' : 'http://www.velocitytriggers.com/',
         'content' : 'Velocity Precision was founding by Tom Vehr and is based in Phoenix, Arizona. Tom has over 30 years of experience designing and manufacturing high quality drop-in triggers and high performance accessories for the AR rifle platform. All Velocity products are engineered and design with precision, quality and affordability in mind. With an ever expanding product line, Velocity Precision now offers red dot mounts for Glock and Smith & Wesson handguns as well as lightweight bolt carrier groups, adjustable gas blocks and more.'
+    },
+    {
+        'title' : 'Zero Bullet Company, Inc.',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ZeroBullets_logo.jpg',  
+                    'phone' : '1-800-545-9376',
+                    'address' : '',
+                    'url' : 'https://www.zerobullets.com/',
+                    'email' : 'ZeroBulletCo@aol.com',
+        'content' : 'Reliable, accurate and affordable bullets and ammunition. Available in jacketed or lead bullets, and loaded ammunition in new or reloads. We make most handgun calibers in a wide range of weights and designs. Unconditionally guaranteed.'
     },
 ]
 export default Firearms;

@@ -50,7 +50,9 @@ import boat from './assets/js/Boats.js';
 
 import './App.css';
 
+
 class App extends Component {
+  
   state = {
     currentPage: ""
   };
