@@ -83,5 +83,15 @@ const huntingguide = [
                     'email' : 'jeff@rockymountainelkranch.net',
         'content' : 'We are an all private trophy elk hunting ranch located in SE Idaho about 1 1/2 hrs from Jackson Hole, WY and Yellowstone Park. We offer 3 day guided hunts for elk and buffalo. Meals, lodging, and guide service are included and you can bring a non hunting guest that shares your room for free. Group discounts and private reservations for 4 or more hunters.'
     },
+    {
+        'title' : 'Upfront Outfitters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Upfront_outfitters-logo.jpg',
+                    'phone' : '360-560-7620',
+                    'address' : '',
+                    'url' : 'http://www.upfrontoutfitters.com/',
+                    'email' : 'mike@upfrontoutfitters.com',
+        'content' : 'Upfront Outfitters is a professional guide service with over 20 years experience offering big game hunts throughout the Pacific Northwest. We hunt limited draw trophy units in Washington and Oregon for all species as well as coastal mountains for roosevelt elk and blacktail deer. Passionate, dedicated and successful, we can help you achieve your hunting dreams.'
+    
+    },
 ]
 export default huntingguide;

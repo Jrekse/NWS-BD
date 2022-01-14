@@ -65,5 +65,14 @@ const Fishresort = [
                     'email' : '',
         'content' : 'This quiet, family resort is nestled on Spectacle Lake. We have lakeside kitchen cabins, full hookup RV & tent sites. We have showers/restrooms, heated pool, play area, rental boats and a small convenience store. Activities include fishing and water sports, as well as nearby hiking, biking, golfing and sightseeing.'
     },
+    {
+        'title' : 'Offut Lake Resort',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Offut-Lake-logo.jpg',
+                    'phone' : 'General Store (360) 264-2438; Restaurant and Bar (360) 264-3474',
+                    'address' : '4005 120th Ave SE Tenino , WA 98589, USA',
+                    'url' : 'http://www.offutlakeresort.com/',
+                    'email' : 'offutlakeresort39@gmail.com ',
+        'content' : 'We are a small family-owned campground near Tenino, WA, about 15 minutes south of Olympia. We are about an hour away from the Space Needle, Mt. St. Helens, ocean beaches and Hood Canal. We offer cabins, RV and tent camping, a lake front restaurant and bar, dock fishing, boat rentals, fishing licenses, tackle and plenty of outdoor fun! Our atmosphere is family-friendly and laid back. The resort lends itself to the tranquility of the lake by allowing electric motor boats only. The lake is open for fishing all year. The resort is open all 4 seasons. Come fishing for the day, plan a family weekend, a romantic getaway or stay longer to explore the many sights western Washington has to offer.'
+    },
 ]
 export default Fishresort;

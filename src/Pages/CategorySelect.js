@@ -8,7 +8,7 @@ function Catselect(props){
 
                 <div className='categoryselectTable'>
                     
-                     <img className='headerlogo' src={header} alt='header'></img>
+                    <a href='https://nwsportsmanmag.com/'><img className='headerlogo' src={header} alt='header'></img></a>
                     <h2><strong>Northwest Sportsman's Business Directory</strong></h2>
                     <h4>Your online resource for products and services for the  fishing, hunting and outdoor sports communities.</h4>
                     <hr/>

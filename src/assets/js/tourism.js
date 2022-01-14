@@ -21,7 +21,7 @@ const tourism = [
     },
     {
         'title' : 'Montana’s Missouri River Country',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/12/Missouri_River_Country-logo.jpg',
                     'phone' : '800-653-1319',
                     'address' : 'Northeast Montana',
                     'url' : 'http://www.missouririvermt.com/',
@@ -47,15 +47,6 @@ const tourism = [
                 'imgclass' : 'anad',
             },
             // ad ^^
-    {
-        'title' : 'Vashon Ace Hardware Store',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '206-463-3852',
-                    'address' : '9750 SW Bank Rd, Vashon, WA 98070',
-                    'url' : 'http://www.vashonacehardware.com/',
-                    'email' : '',
-        'content' : 'We sell and work on the following equipment: Simplicity, Honda, Stihl, Echo, Toro, Yardman, MTD… and many others.  We also work on the following engines: Briggs and Stratton, Kohler, Honda, Tecumseh and Kawasaki. We also repair window screens and cut window glass. Our Service Center is also a Just Ask Rental Center and we rent a variety of tools, power equipment, cleaning equipment, as well as items for parties.  Please see below for just a few of our items in the Rental Center or stop by and see everything we have to for your next project or party. You can reach the Service Center at 206.463.4019.'
-    },
     {
         'title' : 'Visit Lewis Clark Valley',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',

@@ -84,15 +84,6 @@ const Firearms = [
         'content' : 'CDNN Sports has been the best kept secret in the firearms industry for over 33 years. We specialize in closeouts and liquidations but always pass on those great savings to our customers. If you want to save money on firearms, accessories and ammunition then CDNN Sports needs to always be your first stop. Don’t forget to sign up for our email specials and be one of the first tao see our newest deals! America’s largest firearm liquidator.'
     },
     {
-        'title' : 'Dara Holsters & Gear, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dara_holsters_logo.jpg',  
-                    'phone' : '(919) 295-5559',
-                    'address' : '',
-                    'url' : 'https://www.daraholsters.com/',
-                    'email' : 'support@daraholsters.com',
-        'content' : 'We manufacture premium Custom Holsters for Concealed Carry, Competition and Law Enforcement.'
-    },
-    {
         'title' : 'DEAD FOOT ARMS, LLC',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dead_foot_arms-logo.jpg',  
                     'phone' : '(877) 313-3233',
@@ -181,6 +172,15 @@ const Firearms = [
                     'url' : 'http://www.muzzleloaderssupply.com/',
                     'email' : 'muzzleloaderssupply@gmail.com',
         'content' : 'Your Best Choice for Quality Muzzleloader Guns Find quality firearms to suit your needs at Muzzleloaders Supply. We carry brand name guns from leading manufacturers to ensure you get the best quality products. As the only muzzleloader specialty store in Washington, we are here to answer all your questions pertaining to muzzleloaders. Our staff has 54 years of muzzleloading shooting experience, so we can help you choose the best products for your needs. Contact us today to learn more. We are members of the NRA and the Washington State Muzzleloaders Association. We proudly serve Western Washington.'
+    },
+    {
+        'title' : 'Nowlin Arms',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Nowlin.png',  
+                    'phone' : '(918) 733-9200',
+                    'address' : '12785 N. 280 Rd. Okmulgee, OK  74447',
+                    'url' : 'https://www.nowlinarms.com/contact/',
+                    'email' : 'sales@nowlinarms.com',
+        'content' : 'Nowlin Arms, Inc. is a company under ownership of John Nowlin Sr.’s oldest daughter, Angela Reagan, and her husband Jerry Reagan, Jr.  Angela is carrying on her father’s legacy of producing quality 1911 barrels and parts.  Angela retired as a Deputy Warden from the Oklahoma Department of Corrections. She brings to the company 22 years experience in law enforcement.  She has a Bachelor’s Degree in Business Management.  Jerry is a Captain with the Oklahoma Highway Patrol.  He graduated from Oklahoma State University with a Bachelor’s Degree in Agronomy.  Their son, Jerad Reagan, has a degree in Manufacturing Engineering from OSU and provides consulting services.'
     },
     {
         'title' : 'October Country Muzzleloading',

@@ -267,6 +267,16 @@ const Boats = [
     
     },
     {
+        'title' : 'Nixon`s Marine, Inc',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Nixons-Marine-logo.jpg',
+                    'phone' : '(509) 525-2823; (800)355-5774',
+                    'address' : '3025 Travel Plaza Way, Pasco WA 99301',
+                    'url' : 'https://www.nixonsmarine.com/',
+                    'email' : 'wnelson@nixonsmarine.com',
+        'content' : 'Since 1959 Nixon`s Marine has been a trusted source for all your fishing boat needs.  You will be pleased to find that we carry a wide selection of products and offer services for the Vexus, Skeeter, Caymas, Crestliner, River Hawk, Mercury, and Yamaha Outboard motors.  We are not limited to working on these lines, however.  With decades of experience, we have seen many boats and motors. Nixon`s Marine is also your source for Lowrance Ghost, Garmin Force and MinnKota trolling motors.  MinnKota Raptors, Power Poles and Talons; as well as Lowrance and Humminbird imaging products.  Our battery selections are Norhtstar and Interstate and on top of that we offer a variety of other fishing related products.'
+    
+    },
+    {
         'title' : 'Northwest Marine & Sport',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/NW-Marine-Sport_logo.jpg',
                     'phone' : '(509) 545-5586, (888) 545-2250',
@@ -398,7 +408,7 @@ const Boats = [
     },
     {
         'title' : 'Verle’s LLC',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Verles-Logo.jpg',
                     'phone' : '(360) 426-0933',
                     'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
                     'url' : 'http://www.verles.com/',

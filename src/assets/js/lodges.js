@@ -47,6 +47,15 @@ const lodging = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+            {
+                'title' : 'Becharof Lodge',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/BecharofFishingLogo.jpg',
+                            'phone' : '503-741-1333; 503 298 9686; 360-562-7701',
+                            'address' : '',
+                            'url' : 'http://becharoflodgefishing.com/',
+                            'email' : 'becharoffishing@gmail.com',
+                'content' : 'Remote, Comfortable & Affordable Our remote Alaskan fishing lodge is situated on the upper stretches of the beautiful Egegik River. You’ll watch some of Alaska’s most stunning sunrises, complete with a distant, active volcano. We are a fishing camp specializing in coho fishing, brown bear viewing, and flyout fishing adventures to even more remote destinations in the Last Frontier. Coho Fishing The Egegik River The Egegik River is touted by many experienced anglers as the best silver salmon stream in all of Alaska. Becharof Lodge On The Egegik River was the first fishing lodge to become established on the breathtaking Egegik River, and is less than a 5 minute boat ride from some of the best fishing holes on the entire river.'
+            },        
     {
         'title' : 'Benny’s Colville Inn',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Bennys-Colville-Inn-logo.jpg',
@@ -109,6 +118,15 @@ const lodging = [
                     'url' : 'https://www.crystallakebc.com/',
                     'email' : 'contact@crystallakebc.com',
         'content' : 'World Class Rainbow Trout Fishing in the wilds of British Columbia. Enjoy our luxury lodge or remote wilderness cabins. We also rent boats, motors, and ATV’s for adventurous sportsmen.'
+    },
+    {
+        'title' : 'Deshka Landing Charters & Lodge',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Deshka.png',
+                    'phone' : '907-495-5873',
+                    'address' : '11745 N Recreation St Willow, AK 99688',
+                    'url' : 'https://deshka.com/',
+                    'email' : 'jim@deshka.com',
+        'content' : 'As our guest, within minutes you will access several amazing Alaska salmon and trout fishing rivers. You’ll enjoy affordable, comfortable, full service lodging and be served with hometown hospitality.'
     },
     {
         'title' : 'Denise Lake Lodge',

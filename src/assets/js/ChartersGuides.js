@@ -171,6 +171,26 @@ const Construction = [
     
     },
     {
+        'title' : 'Keys to the Outdoors',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Keys_To-The_Outdoors-logo.jpg',
+                    'phone' : '(541) 294-4987',
+                    'address' : '1990 N. Fir, Coquille, OR 97423',
+                    'url' : 'https://keystotheoutdoors.com/',
+                    'email' : 'keystotheoutdoors@outlook.com',
+        'content' : 'Keys to the Outdoors offers guided fishing trips for Salmon, Steelhead, Smallmouth Bass and Shad on the Coos, Coquille, Elk, Sixes and Umpqua Rivers.  $225 per seat for a day of fun on the river.'
+    
+    },
+    {
+        'title' : 'Lucky Cast Northwest',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Lucky-Cast-logo.jpg',
+                    'phone' : '(503) 956-6272',
+                    'address' : '',
+                    'url' : 'http://www.luckycastnorthwest.com/',
+                    'email' : 'luckycastnorthwest@gmail.com',
+        'content' : 'Fully guided fishing around Southwest Washington and the Olympic Peninsula for salmon, trout, and steelhead, exploring rivers ranging from Forks, through Grays Harbor, South Puget Sound, and more...'
+    
+    },
+    {
         'title' : 'Offshore Northwest',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253) 380-9973',
