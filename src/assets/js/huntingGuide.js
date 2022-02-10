@@ -48,6 +48,15 @@ const huntingguide = [
             },
             // ad ^^
             {
+                'title' : 'Daylight Creek Adventures',
+                'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/01/Untitled-1.png',
+                            'phone' : '(406)547-4113',
+                            'address' : 'PO Box 478 White Sulphur Springs,MT 59645',
+                            'url' : 'http://www.daylightcreek.com/',
+                            'email' : 'zcurdog@gmail.com',
+                'content' : 'We provide big game hunts in central Montana, deer, elk, limited spring bear. Ive been involved in guiding hunters for over 40 years in the same general location, near our family ranch that was homesteaded in 1878.'
+            },
+            {
                 'title' : 'Field N Marsh Outfitters',
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/FieldNMarsh_logo.jpg',
                             'phone' : '',
@@ -64,6 +73,15 @@ const huntingguide = [
                             'url' : 'http://www.hiddenranchoutfitters.com/',
                             'email' : 'info@hiddenranchoutfitters.com',
                 'content' : 'HRO provides professionally guided deer hunts on over 40,000 acres of privately owned land with exclusive access! Plus, pheasant and chukar hunting on our 2,000 acre privately owned HRO shooting preserve with exclusive access! HRO offers a variety of packages with many options to choose from, assuring your adventure will be custom to your specific needs. Rustic Lodging is available for large or small groups with a bunch of “elbow room” for EVERYONE to enjoy a unique and private experience. If you’re looking for one-of-a-kind sight-seeing adventure, look no more! We provide maps and show you around assuring maximum enjoyment of this beautiful place. Be sure and bring your camera as you will be up-front and close to nature for those difficult, one-of-a-kind shots not available on public lands. Family means everything to us. We hope that our family can help you and yours spend some quality time together soon.'
+            },
+            {
+                'title' : 'Moose Creek Outfitters',
+                'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/02/moosecreek.png',
+                            'phone' : '780-674-5715',
+                            'address' : 'R.R. #1, Site 1, Box 1 Barrhead, Alberta Canada T7N 1N2',
+                            'url' : 'https://moosecreekalberta.com/',
+                            'email' : 'moosecreek@xplornet.com',
+                'content' : 'Moose Creek Outfitters offers guided hunts for Moose, Deer and Waterfowl. Moose Creek has over 25 years of outfitting and guiding experience in the area. Moose Creek Outfitters (MCO) is located in north-central Alberta, Canada, approximately 100 miles north-west of Edmonton. Depending on your type of hunt you will be accommodated in remote tent camps or in a fully serviced lodge or ranch house. We provide transportation to and from the Edmonton Airport.'
             },
     {
         'title' : 'Pine Mountain Outfitters',

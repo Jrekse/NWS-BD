@@ -31,9 +31,10 @@ const RV = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/clearview.png',
                 'class' : 'ad',
                 'imgclass' : 'anad',
+                'adurl' : 'https://www.clearviewrv.com/'
             },
             {
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',

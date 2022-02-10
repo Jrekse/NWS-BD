@@ -32,7 +32,7 @@ const Fishingequip = [
 
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Untitled-1.png',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },
@@ -65,6 +65,15 @@ const Fishingequip = [
                     'url' : 'http://crabbylift.com/',
                     'email' : 'crabbylift@gmail.com',
         'content' : 'Crabby Lift is made in America, handcrafted in Salem, Oregon, are of the highest quality and at the right price. The system is perfect for recreational crabbing, providing ease and convenience and also saves your back. We have been in business for 9 years. Crabby Lift makes crabbing fun.'
+    },
+    {
+        'title' : 'Dick Nite Spoons, Inc.',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dick_nite-logo.jpg',
+                    'phone' : '(425) 377-8448',
+                    'address' : '',
+                    'url' : 'http://www.dicknite.com/',
+                    'email' : 'dicknite@dicknite.com',
+        'content' : 'Fresh/Salt-water Spoons, Flashers, Dodgers, Scents.'
     },
     {
         'title' : 'Eat Me Lures',
@@ -157,15 +166,6 @@ const Fishingequip = [
         'content' : 'Mud Hole Custom Tackle, Inc. is the world’s largest supplier of tackle crafting goods – rod building, fly tying and lure building. A leading e-retailer and mail order supplier, Mud Hole has become the “go-to” and trusted supplier of hobbyists, small manufacturers and large OEM’s worldwide.'
     },
     {
-        'title' : 'Dick Nite Spoons, Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/dick_nite-logo.jpg',
-                    'phone' : '(425) 377-8448',
-                    'address' : '',
-                    'url' : 'http://www.dicknite.com/',
-                    'email' : 'dicknite@dicknite.com',
-        'content' : 'Fresh/Salt-water Spoons, Flashers, Dodgers, Scents.'
-    },
-    {
         'title' : 'Ocean Traps International',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/OceanTraps_logo.jpg',
                     'phone' : '(741) 903-0433',
@@ -173,6 +173,15 @@ const Fishingequip = [
                     'url' : 'http://www.oceantraps.com/',
                     'email' : 'info@oceantraps.com',
         'content' : 'Our plastic trap catches dungeness/tanner crabs, spot prawns, lobster, and more. The plastic is virgin high-density polyethylene that doesn’t crack, corrode, cause rust stains, or require anodes for electrolysis. The oval shape helps shellfish find the entrance and there are no sharp corners to damage the hull. A stack of 4 traps only stands 2 ft high which saves deck space.'
+    },
+    {
+        'title' : 'PROLITE ROD TECHNOLOGY',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/prolite.png',
+                    'phone' : ' 3604857584',
+                    'address' : '602 Durell Rd SE Tumwater, WA 98512',
+                    'url' : 'https://proliterods.com/',
+                    'email' : 'info@proliterods.com',
+        'content' : 'Its our goal to bring you the best product, with the best customer service, at the best price. We strive to better the fishing industry, with a willingness to teach and educate every level of fisherman. There`s an old saying that if you give a man a fish, you feed him for a day, and if you teach a man to fish, you feed him for life. At Prolite, we don`t just want to teach him how to catch a fish, we also want to educate him about the art and science of fishing. We want to get you the perfect rod to fit your every need in any situation. Working with you and building a personal relationship is important to us.'
     },
     {
         'title' : 'Razor Vac',

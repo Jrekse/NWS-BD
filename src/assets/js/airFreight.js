@@ -31,9 +31,10 @@ const air = [
     },
         // ad vv
         {
-            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/aceaircargo_300x250.jpg',
             'class' : 'ad',
             'imgclass' : 'anad',
+            'adurl' : 'http://www.aceaircargo.com/'
         },
         {
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',

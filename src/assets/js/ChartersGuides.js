@@ -161,13 +161,13 @@ const Construction = [
     
     },
     {
-        'title' : 'Hakai Lodge',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '(206) 669-2158',
+        'title' : 'Hot Pursuit Charters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/hotpursuit.png',
+                    'phone' : '240-876-6079',
                     'address' : '',
-                    'url' : 'https://www.hakai-lodge.com/',
-                    'email' : 'ccarlson@hakailodge.com',
-        'content' : 'A world-class, rustic fishing hideaway floating in the heart of the world’s most famous trophy salmon fishing waters in remote British Columbia, Canada. Located nearly 100 miles from the nearest town, private boat or sea plane are the best ways to reach Hakai Lodge. Our 40 years’ experience, abundant calm fishing grounds, scenic beaches, fantastic staff, and great dining are sure to provide a fantastic fishing getaway. Among all BC fishing lodges, Hakai Lodge offers the very best fishing grounds.'
+                    'url' : 'https://pursuitcharters.com/',
+                    'email' : 'captdonj@gmail.com',
+        'content' : 'Don has been sportfishing the Chesapeake Bay for over 30 years. As a retired police commander, Don knows how to lead a crew and make tough decisions. This experienced and well-respected captain&nbsp;has a reputation for perseverance and customer service. In fishing, there is never a guarantee for success, but this captain rarely disappoints his customers.'
     
     },
     {

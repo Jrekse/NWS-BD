@@ -156,15 +156,6 @@ const Firearms = [
         'content' : 'Approximately–Thomas Manners, founder of Manners Composite Stocks began making stocks in 2001. Thomas along with a group of some of the top 50bmg benchrest shooters, Skip Talbot, Randy Direks, Kenny Johnson and others, got together and laid out some basic designs for a new 50bmg bench stock. Thomas listened to their input and suggestions, then with the help of some space age manufacturing processes and materials developed a 100% carbon fiber stock. This stock now owns just about all of the 1000 yard 50bmg records. After this, it all kind of snowballed. Manners Composite Stocks has become known in the industry as the top of the line manufacturer for super strong, stiff, light weight stocks. Each and every team member at Manners Composite Stocks strives to manufacture the best quality stocks that money can buy.  This is achieved with state of the art manufacturing process and space age materials. Every item that we manufacture is engineered to exceed any type of abuse that you can put it through. To back this up, each item has a lifetime 100% satisfaction guarantee and the best customer service in the industry.'
     },
     {
-        'title' : 'Mernickle Custom Holsters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Mernickle-Holsters-Logo.jpg',  
-                    'phone' : '(806) 665-0656',
-                    'address' : '13043 County Rd C, Pampa TX 79065',
-                    'url' : 'https://www.mernickleholsters.com/',
-                    'email' : 'sales@mernickleholsters.com',
-        'content' : 'Mernickle Holsters has been hand crafting fine leather holsters for over 40 years. We will meet your needs, whether novice or world champion. Mernickle Holsters offers cowboy action, concealed carry, cowboy fast draw holsters and so much more, all made right here in the USA.'
-    },
-    {
         'title' : 'Muzzleloaders Supply',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/muzzleloader_supply-logo.jpg',  
                     'phone' : '253-922-1717',
@@ -318,6 +309,16 @@ const Firearms = [
         'content' : 'Velocity Precision was founding by Tom Vehr and is based in Phoenix, Arizona. Tom has over 30 years of experience designing and manufacturing high quality drop-in triggers and high performance accessories for the AR rifle platform. All Velocity products are engineered and design with precision, quality and affordability in mind. With an ever expanding product line, Velocity Precision now offers red dot mounts for Glock and Smith & Wesson handguns as well as lightweight bolt carrier groups, adjustable gas blocks and more.'
     },
     {
+        'title' : 'Verle’s LLC',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Verles-Logo.jpg',
+                    'phone' : '(360) 426-0933',
+                    'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
+                    'url' : 'http://www.verles.com/',
+                    'email' : '',
+        'content' : 'Verle’s LLC is one of South Puget Sound’s largest and oldest Marine and Sporting Goods business serving Western Washington and beyond since 1948. Providing Fishing Tackle, Hunting gear and Marine Accessories along with Boats, Motors and Trailers all with a Northwest focus. Stop by today to design your boat package just the way you want with one of our experienced and knowledgeable Sales Staff. Our expansive and professional Parts & Service Team are also ready to get you back on the water. It is easy to see why Verle’s LLC is your “One stop complete outdoor recreation store.” We carry a wide selection of New Boats, Motors and Trailers in stock for a quick delivery. We have the boat package you are looking for with great boats by; Alumaweld, Hewescraft, Smokercraft, American Angler, EZ Loader Boat Trailers and Sunchaser Pontoon boats. Our great boat lines are powered by Yamaha, Suzuki and Mercury outboard motors. Not looking for a new package, check out our pre-owned inventory. We bring in quality pre-owned boats and motors regularly, along with many great consignment boat packages.'
+    
+    },
+    {
         'title' : 'Zero Bullet Company, Inc.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ZeroBullets_logo.jpg',  
                     'phone' : '1-800-545-9376',
@@ -326,5 +327,5 @@ const Firearms = [
                     'email' : 'ZeroBulletCo@aol.com',
         'content' : 'Reliable, accurate and affordable bullets and ammunition. Available in jacketed or lead bullets, and loaded ammunition in new or reloads. We make most handgun calibers in a wide range of weights and designs. Unconditionally guaranteed.'
     },
-]
+]  
 export default Firearms;

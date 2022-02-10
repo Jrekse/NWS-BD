@@ -31,7 +31,7 @@ const Marina = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://tpc.googlesyndication.com/pimgad/9350662558072553682?',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },

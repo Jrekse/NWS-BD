@@ -103,7 +103,7 @@ class App extends Component {
     } else if (this.state.currentPage === "Auction") {
       return <Category data={auction}/>;
     } else if (this.state.currentPage === "Marina") {
-      return <Category data={marina}/>;
+      return <><PageSpon data={boatspon}/><Category data={marina}/></>;
     } else if (this.state.currentPage === "Meat Products") {
       return <Category data={meat}/>;
     } else if (this.state.currentPage === "Resturaunts") {
@@ -113,7 +113,7 @@ class App extends Component {
     } else if (this.state.currentPage === "Tourism") {
       return <Category data={tourism}/>;
     } else if (this.state.currentPage === "FirearmsAmmo") {
-      return <Category data={firearmAmmo}/>;
+      return <><PageSpon data={boatspon}/><Category data={firearmAmmo}/></>;
     } else if (this.state.currentPage === "Firearm Cleaning") {
       return <Category data={FirearmCleaning}/>;
     } else if (this.state.currentPage === "Fishing Equipment") {

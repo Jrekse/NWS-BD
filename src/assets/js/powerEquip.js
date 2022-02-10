@@ -31,7 +31,7 @@ const power = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://tpc.googlesyndication.com/pimgad/17959202566788379774?',
                 'class' : 'ad',
                 'imgclass' : 'anad',
             },
@@ -118,6 +118,15 @@ const power = [
                     'url' : 'https://www.procalibervancouver.com/',
                     'email' : 'pcvleads@procaliber.com',
         'content' : 'The Northwest’s Largest Motorcycle Dealership Featuring BMW, Indian, Honda, Yamaha, Kawasaki, Ski-Doo, Sea Doo, Can-Am, Timbersled, Polaris, Slingshot, Yamaha Generators And Honda Power Equipment. We have a huge selection of Parts On-line at www.ProCaliber.com plus a complete Service Department for all your needs.'
+    },
+    {
+        'title' : 'Pilchuck Rentals',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/pilchuck.png',
+                    'phone' : '360-659-5557',
+                    'address' : '9114 State Ave Marysville, Washington',
+                    'url' : 'https://www.pilchuckrents.com/',
+                    'email' : 'pilchuckrents@aol.com',
+        'content' : 'Our goal is to offer you quality equipment rentals with expert advice so that you can complete your projects. We also offer a huge selection of new equipment for sale from major manufacturers such as Stihl, Honda, and more.'
     },
     {
         'title' : 'United Rentals',

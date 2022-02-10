@@ -120,6 +120,15 @@ const Gear = [
         'content' : 'The Topperlift is a universal lifting kit that fits all full and mid-size pickup trucks, 5′-8′ Box. Add our universal Camper Package and transform your existing truck and topper into a cozy pop-up camper in seconds! Large zippered side windows allow for easy side load access, good ventilation and a big view of those amazing vistas! Hauling, camping, fishing, hunting and all your outdoor activities just became that much easier! The Weekender Camper Package Includes the 3 side panels and the Weekender Back. The Weekender Back Utilizes the tailgate for extra room and is perfect for short bed pick-ups needing to maximize sleeping space and the entrance functions similar to a traditional dome-style tent.'
     },
     {
+        'title' : 'Velvet Antler Technologies',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/vatech.png',
+                    'phone' : '208-401-6634',
+                    'address' : '8019 Happy Valley Road, Kuna, ID 83634',
+                    'url' : 'https://www.velvetantlertechnologies.com/',
+                    'email' : 'velvetantlertechnologies@gmail.com',
+        'content' : 'Velvet Antler Technologies was founded out of passion and curiosity during the fall 2004 archery season. At that time - our founder and CEO Darrell Gogert - was a professional guide living more than 100 miles from the closest taxidermist. Each season, his biggest concern was about what would happen to the velvet if his client(s) were to harvest an animal. Limited on time and money, he knew he needed to develop something that he could pack with him, apply in the field, see long-lasting results, and not have to deal with sharp needles and harsh chemicals! Furthermore, being the conservationist he is, he wanted to ensure what he used would not pose any dangers to plants or animals if they came in contact with it - unlike the existing methods currently used. Fast forward to 2019; Velvet Antler Technologies has proven to be 100% effective at preserving velvet antlers for more than 15 years, never showing signs of deterioration, hair slip, or cracking. These products were developed by a passionate hunter - for the passionate hunter - looking to preserve their memories for a lifetime!'
+    },
+    {
         'title' : 'Wonderduck Decoys',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/wonderduck-logo.jpg',
                     'phone' : '1-800-876-1697',

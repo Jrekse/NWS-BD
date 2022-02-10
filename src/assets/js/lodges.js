@@ -31,9 +31,10 @@ const lodging = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/KatmaiTrophyLodge_logo.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
+                'adurl': 'https://katmaitrophylodge.com/'
             },
             {
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
@@ -183,6 +184,15 @@ const lodging = [
         'content' : 'The Hoh Rainforest Resort is an overnight lodging venue in Forks Washington, steps from the Calawah River. The location is private and also conveniently located to all the area offers. The amenities include cabins, yurts and sturdy and warm canvas tents, as well as a fully equipped outdoor kitchen, sauna and fish cleaning station.'
     },
     {
+        'title' : 'Idaho Elk Outfitter',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/idahoelkoutfit.png',
+                    'phone' : '208-313-3634',
+                    'address' : '2113 West 3800 south Rexburg, Idaho 83440',
+                    'url' : 'http://www.elksafariswest.com/',
+                    'email' : 'dillonklingler@gmail.com',
+        'content' : 'The Klinglers started Elk Safaris West hunting ranch in 2008 as a family adventure focusing on providing a first class hunting experience, with top quality elk, and memories to last a lifetime. At Elk Safaris West you are treated as family, not just a number. Our family enjoys just about any outdoor activity from hunting and fishing to motoring on the sand dunes! We invite you to join us in some of the best Elk hunting in the world.'
+    },
+    {
         'title' : 'Katmai Trophy Lodge',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/KatmaiTrophyLodge_logo.jpg',
                     'phone' : '(616) 745-6066',
@@ -190,15 +200,6 @@ const lodging = [
                     'url' : 'http://www.katmaitrophylodge.com/',
                     'email' : 'katmaitrophylodge@hotmail.com',
         'content' : 'We have created an Alaskan fishing adventure that starts with the perfect blend of luxury and affordability and combines it with some of the best salmon and trout fishing that the world has to offer.'
-    },
-    {
-        'title' : 'King Salmondeaux Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/King_Salmondeaux-LOGO.jpg',
-                    'phone' : '907-260-3474',
-                    'address' : '',
-                    'url' : 'https://www.kingsalmondeauxlodge.com/',
-                    'email' : 'kingsalmondeaux33126@gmail.com',
-        'content' : 'Alaska Fishing and lodging at King Salmondeaux Lodge in Soldotna Alaska, where Southern & Alaskan hospitality meet. King Salmondeaux Lodge is committed to providing you the most memorable fishing Alaska trip of your life.'
     },
     {
         'title' : 'Lake of the Woods Resort',
