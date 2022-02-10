@@ -34,6 +34,7 @@ import motorcycles from './assets/js/motorcycles.js';
 import powerEquip from './assets/js/powerEquip.js';
 import resturant from './assets/js/resturaunts.js';
 import realty from './assets/js/realty.js';
+import hunting from './assets/js/hunting.js'
 import rvs from './assets/js/rv.js';
 import safes from './assets/js/safes.js';
 import sportFish from './assets/js/fishReward';
@@ -98,7 +99,9 @@ class App extends Component {
       return <Category data={govAgency}/>;
     } else if (this.state.currentPage === "Hunting Guides") {
       return <Category data={huntingGuide}/>;
-    } else if (this.state.currentPage === "Sporting Goods") {
+    } else if (this.state.currentPage === 'Hunting') {
+      return <><Category data={hunting}/></>
+    }else if (this.state.currentPage === "Sporting Goods") {
       return <Category data={sportingGoods}/>;
     } else if (this.state.currentPage === "Auction") {
       return <Category data={auction}/>;
