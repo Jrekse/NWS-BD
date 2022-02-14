@@ -294,7 +294,6 @@ const Boats = [
                     'url' : 'https://pacificmarinerepair.com/',
                     'email' : 'pmrkla@aol.com',
         'content' : 'We offer everything from boat engine sales, boat engine repairs and boat motor installations. We only sell top-quality parts and motors from brand names you know and trust that are fit to last. If you are in need of a cruise to an island or lake and want to make sure your boat is in good condition for your trip, don’t hesitate to call the experts at Pacific Marine Repair and Boatyard. We look forward to adding you to our ever-expanding list of happy customers. We are located in sunny Ventura California.'
-    
     },
     {
         'title' : 'Pelican Marina LLC',
