@@ -49,7 +49,12 @@ import FirearmCleaning from './assets/js/firearmCleaning.js';
 import firearmAmmo from './assets/js/firearmAcces.js';
 import boat from './assets/js/Boats.js';
 
+//CSS
 import './App.css';
+
+//GA
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-37002324-2');
 
 
 class App extends Component {
@@ -66,74 +71,109 @@ class App extends Component {
     if (this.state.currentPage === "") {
       return <PageSpon data={noCat}/>;
     } else if (this.state.currentPage === "Air") {
+      ReactGA.pageview('/BD/air');
       return <Category data={air}/>;
     } else if (this.state.currentPage === "Apparel") {
+      ReactGA.pageview('/BD/apparel');
       return <Category data={apparel}/>;
     } else if (this.state.currentPage === "Boats") {
+      ReactGA.pageview('/BD/boats');
       return <><PageSpon data={boatspon}/><Category data={boat}/></>;
     } else if (this.state.currentPage === "FishingResorts") {
+      ReactGA.pageview('/BD/fishResorts');
       return <Category data={FishingResorts}/>;
     } else if (this.state.currentPage === "Food") {
+      ReactGA.pageview('/BD/food');
       return <Category data={Food}/>;
     } else if (this.state.currentPage === "Furniture") {
+      ReactGA.pageview('/BD/furniture');
       return <Category data={Furniture}/>;
     } else if (this.state.currentPage === "Knives") {
+      ReactGA.pageview('/BD/knives');
       return <Category data={Knives}/>;
     } else if (this.state.currentPage === "Lodging") {
+      ReactGA.pageview('/BD/lodges');
       return <Category data={lodging}/>;
     } else if (this.state.currentPage === "Power Equipment") {
+      ReactGA.pageview('/BD/powerEquipment');
       return <><PageSpon data={powerEquipSpon}/><Category data={powerEquip}/></>;
     } else if (this.state.currentPage === "Hunting Education") {
+      ReactGA.pageview('/BD/huntingEducation');
       return <Category data={hunterEd}/>;
     } else if (this.state.currentPage === "Sport Fishing") {
+      ReactGA.pageview('/BD/sportFishing');
       return <Category data={sportFish}/>;
     } else if (this.state.currentPage === "Construction") {
+      ReactGA.pageview('/BD/Construction');
       return <Category data={construction}/>;
     } else if (this.state.currentPage === "Charters") {
+      ReactGA.pageview('/BD/charters');
       return <Category data={Charters}/>;
     } else if (this.state.currentPage === "Education") {
+      ReactGA.pageview('/BD/education');
       return <Category data={education}/>;
     } else if (this.state.currentPage === "Gear") {
+      ReactGA.pageview('/BD/gear');
       return <Category data={gear}/>;
     } else if (this.state.currentPage === "Government Agencies") {
+      ReactGA.pageview('/BD/gov');
       return <Category data={govAgency}/>;
     } else if (this.state.currentPage === "Hunting Guides") {
+      ReactGA.pageview('/BD/huntGuides');
       return <Category data={huntingGuide}/>;
     } else if (this.state.currentPage === 'Hunting') {
+      ReactGA.pageview('/BD/hunting');
       return <><Category data={hunting}/></>
     }else if (this.state.currentPage === "Sporting Goods") {
+      ReactGA.pageview('/BD/sportingGoods');
       return <Category data={sportingGoods}/>;
     } else if (this.state.currentPage === "Auction") {
+      ReactGA.pageview('/BD/auction');
       return <Category data={auction}/>;
     } else if (this.state.currentPage === "Marina") {
+      ReactGA.pageview('/BD/marina');
       return <><PageSpon data={boatspon}/><Category data={marina}/></>;
     } else if (this.state.currentPage === "Meat Products") {
+      ReactGA.pageview('/BD/meat');
       return <Category data={meat}/>;
     } else if (this.state.currentPage === "Resturaunts") {
+      ReactGA.pageview('/BD/restaurants');
       return <Category data={resturant}/>;
     } else if (this.state.currentPage === "Realty") {
+      ReactGA.pageview('/BD/realty');
       return <Category data={realty}/>;
     } else if (this.state.currentPage === "Tourism") {
+      ReactGA.pageview('/BD/tourism');
       return <Category data={tourism}/>;
     } else if (this.state.currentPage === "FirearmsAmmo") {
+      ReactGA.pageview('/BD/firearmsAmmo');
       return <><PageSpon data={boatspon}/><Category data={firearmAmmo}/></>;
     } else if (this.state.currentPage === "Firearm Cleaning") {
+      ReactGA.pageview('/BD/firearmCleaning');
       return <Category data={FirearmCleaning}/>;
     } else if (this.state.currentPage === "Fishing Equipment") {
+      ReactGA.pageview('/BD/fishingEquipment');
       return <><PageSpon data={fishequipspon}/><Category data={FishEquip}/></>;
     } else if (this.state.currentPage === "Holsters") {
+      ReactGA.pageview('/BD/holsters');
       return <Category data={Holsters}/>;
     } else if (this.state.currentPage === "Insurance") {
+      ReactGA.pageview('/BD/insurance');
       return <Category data={insurance}/>;
     } else if (this.state.currentPage === "Motorcycles") {
+      ReactGA.pageview('/BD/motorcycles');
       return <Category data={motorcycles}/>;
     } else if (this.state.currentPage === "NonProfit") {
+      ReactGA.pageview('/BD/nonProfit');
       return <Category data={nonProfit}/>;
     } else if (this.state.currentPage === "RV's") {
+      ReactGA.pageview('/BD/RV');
       return <><PageSpon data={rvSpon}/><Category data={rvs}/></>;
     } else if (this.state.currentPage === "Safes") {
+      ReactGA.pageview('/BD/safes');
       return <Category data={safes}/>;
     } else if (this.state.currentPage === "Trucks") {
+      ReactGA.pageview('/BD/trucks');
       return <Category data={trucks}/>;
     } 
   };
