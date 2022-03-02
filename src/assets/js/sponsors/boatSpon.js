@@ -1,8 +1,8 @@
 const stateZero = [
     {
-        'src' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/Verles-728x90-boat-banner.jpg',
+        'src' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/08/Maxxum-Marine-Banner_WEB.jpg',
         'sponclass' : 'banner',
-        'adurl' : 'https://www.verles.com/'
+        'adurl' : 'http://www.maxxummarine.com/'
     },
 ]
 export default stateZero;

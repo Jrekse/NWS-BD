@@ -1,12 +1,12 @@
 const Boats = [
     {
-        'title' : 'Alaska Mining & Diving',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-        'phone' : '(907)-277-1741',
-        'address' : '3222 Commercial Dr, Anchorage, AK 9950',
-        'url' : 'https://www.akmining.com/',
-        'email' : 'sales@akmining.com',
-        'content' : 'Alaska’s premier supplier of outdoor powersports products, and we’re proud to be a premier dealer for Can-Am, Evinrude, Honda, Jetcraft, Lowe, Ski-Doo, Sea-Doo, C-Dory Boats, Sea Sport Boats and Yamaha. We offer ATVs, boats, generators, metal detectors, mining equipment, outboards, snowmobiles and watercraft, and we service what we sell! We’ve been dedicated to satisfying our customers since 1976, and are looking forward to helping you find the perfect equipment for you.',
+        'title' : 'Tacoma Boat Sales & Service',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Tacoma_Boat-logo.jpg', 
+                    'phone' : '(253) 301-4013',
+                    'address' : '9316 Portland Ave E, Tacoma, WA 98445',
+                    'url' : 'http://www.tacomaboatsales.com/',
+                    'email' : '',
+        'content' : 'We offer a variety of marine products and our selection is second to none. Tacoma Boat Sales & Service prides itself on having the friendliest and most knowledgeable staff in Tacoma, WA. It is our goal to help our customers find the perfect watercraft to fit their lifestyle, along with just the right parts and accessories. Check out our brochures to see what products we offer. If you need help in making your selection, feel free call or stop in—we’re always ready to serve you. Tacoma Boat Sales & Service is family-owned and operated and conveniently located in Tacoma, WA. We can provide you with the latest and best in marine products to make your outdoor living more enjoyable. We specialize in offering the latest innovations in boating technology. We combine a wide variety of products with a friendly and knowledgeable staff to meet all of your boating needs. Our goal is to make Tacoma Boat Sales & Service your one-stop dealership for sales, service, and fun! We recognize that our customers have a variety of needs when it comes to their boating lifestyles. That is precisely why we are committed to serving each customer with excellence. From the minute you walk through the door, exceeding your expectations is our top priority. Call or stop by; you’ll be glad you did.',
         'class' : 'premium'
     },
     {
@@ -363,16 +363,6 @@ const Boats = [
                     'url' : 'http://www.spokanevalleymarine.com/',
                     'email' : '',
         'content' : 'We are family-owned and operated, and conveniently located in the greater Spokane area. We offer a variety of marine products, and our selection is second to none. Spokane Valley Marine prides itself on having the friendliest and most knowledgeable staff in the Inland Northwest. It is our goal to help our customers find the perfect watercraft to fit their lifestyle, including the right parts and accessories. If you need help making a selection, visit us at our location in Spokane Valley, Washington or give us a call at (509) 926-9513.'
-    
-    },
-    {
-        'title' : 'Tacoma Boat Sales & Service',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Tacoma_Boat-logo.jpg', 
-                    'phone' : '(253) 301-4013',
-                    'address' : '9316 Portland Ave E, Tacoma, WA 98445',
-                    'url' : 'http://www.tacomaboatsales.com/',
-                    'email' : '',
-        'content' : 'We offer a variety of marine products and our selection is second to none. Tacoma Boat Sales & Service prides itself on having the friendliest and most knowledgeable staff in Tacoma, WA. It is our goal to help our customers find the perfect watercraft to fit their lifestyle, along with just the right parts and accessories. Check out our brochures to see what products we offer. If you need help in making your selection, feel free call or stop in—we’re always ready to serve you. Tacoma Boat Sales & Service is family-owned and operated and conveniently located in Tacoma, WA. We can provide you with the latest and best in marine products to make your outdoor living more enjoyable. We specialize in offering the latest innovations in boating technology. We combine a wide variety of products with a friendly and knowledgeable staff to meet all of your boating needs. Our goal is to make Tacoma Boat Sales & Service your one-stop dealership for sales, service, and fun! We recognize that our customers have a variety of needs when it comes to their boating lifestyles. That is precisely why we are committed to serving each customer with excellence. From the minute you walk through the door, exceeding your expectations is our top priority. Call or stop by; you’ll be glad you did.'
     
     },
     {

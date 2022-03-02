@@ -56,6 +56,33 @@ const air = [
             'content' : 'We are a pheasant, chukar and sporting clays club. We take reservations for hunting and sporting clay events. We are open 7 days a week 8am to 4pm. Our prices: 3 pheasants for $92.00 and 8 chukar for $154.00. We have special prices for our day hunt bird packages. We have pheasant and chukar cards at reasonable prices. Bird cleaning is available too. Our Sporting Clay course has 17 stations and we have a 5-Stand course. We have many NSCA registered events as well as corporate shoots.'
         },
         {
+            'title' : 'Lost Creek Outfitters',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                        'phone' : '(403) 793-3181',
+                        'address' : 'Box 6 Youngstown, Alberta Canada T0J3P0',
+                        'url' : 'https://jackfranklinexpeditions.com/',
+                        'email' : 'franklinexpeditionsafrica@gmail.com',
+            'content' : 'The Grasslands, which comprise 14 percent of Alberta, offer some of Canada’s most scenic vistas. The region is a flat to gently rolling plain with a few major hill systems. Because the region has been particularly marked by the advance and retreat of the glaciers it boasts an unexpected magnificence with its moraines, glacial lakes, ridges of sand dunes, valleys and canyons. Because of its diverse environment, some of the wildlife in the Grassland Region are found nowhere else in Canada.'
+        },
+        {
+            'title' : 'Millers North Outfitting',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/MillersnorthBD.png',
+                        'phone' : '(250) 570-9712',
+                        'address' : '3037 Spruce Street, Prince George BC V2L 2S6 Canada',
+                        'url' : 'http://www.millersnorthoutfitting.com/',
+                        'email' : 'chad@millersnorthoutfitting.com',
+            'content' : 'Miller`s North Outfitting is an established whitetail hunting outfitter operation located in Northern Alberta. Chad Miller, owner and operator of Miller`s North, is an avid whitetail hunter and has a deep passion for the outdoors. Chad has been chasing whitetails in the north country for most of his life. If you`re looking for a world class whitetail hunt look no further...'
+        },
+        {
+            'title' : 'North River Outfitting',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/NorthriverBD.png',
+                        'phone' : '780-675-1942 ',
+                        'address' : 'Box 238 Athabasca, AB T9S 2A3',
+                        'url' : 'http://www.northriveroutfitting.com/',
+                        'email' : 'nro_maria@yahoo.ca',
+            'content' : ''
+        },
+        {
             'title' : 'Sauvie Island Duck Club',
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Sauvie_island-logo.jpg',
                         'phone' : '(503) 539-5396',
@@ -63,6 +90,15 @@ const air = [
                         'url' : 'http://www.siduckclub.com/',
                         'email' : '',
             'content' : 'The Sauvie Island Duck Club (SIDC) is a private waterfowl hunting club located approximately 10 miles northwest of Portland, OR along U.S. Route 30. Sauvie Island is 26,000 acres (105 km2), making it the largest island along the Columbia River and home to premier Oregon waterfowling. The island is bordered by the Columbia River to the east, the Multnomah Channel to the west and the Willamette River to the south and is mostly farmland and wildlife refuge. Duck club members will have access to several acres of private hunting area. Blinds are located in three main areas (and three smaller areas) within the property to help maximize hunting potential and minimize member contact. Sauvie Island Duck Club is located on a great flyway and is a mallard haven! The following three types of memberships are available: Day, Week, and Season. Season members are allowed to bring guests, but please check with Ron beforehand (see the rules). Parking is available on club grounds. Future plans include the construction of a small lodge to provide all members and guests with lockers and bathroom facilities.'
+        },
+        {
+            'title' : 'Stone Horse Outfitters',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/stonehorseBD.png',
+                        'phone' : '780-213-1280',
+                        'address' : '9703 86 St, Morinville, AB T8R 1V1, Canada',
+                        'url' : 'https://www.stonehorseoutfitters.com/',
+                        'email' : 'huntwithsho@hotmail.com',
+            'content' : 'Located in the heart of the alberta boreal forest in between two main rivers you will find us aswell as some of best black bear and color phase bear hunting in the country. With exclusive access and low volume hunts, it is our mission to bring top quality fully guided hunts with old aged mature trophies'
         },
         {
             'title' : 'Upfront Outfitters',

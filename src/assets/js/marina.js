@@ -20,14 +20,14 @@ const Marina = [
         'content' : 'The Port of Friday Harbor Marina provides year-round shelter for recreation and fishing boats in the center of the most beautiful cruising waters of the West Coast. The marina is located in the town of Friday Harbor, and boaters have easy access to supplies and services year round.'
     },    
     {
-        'title' : 'Buy This Space',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '',
-                    'address' : '',
-                    'url' : '',
+        'title' : 'Verle’s LLC',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Verles-Logo.jpg',
+                    'phone' : '(360) 426-0933',
+                    'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
+                    'url' : 'http://www.verles.com/',
                     'email' : '',
-                    'class' : 'premium',
-        'content' : ''
+        'content' : 'Verle’s LLC is one of South Puget Sound’s largest and oldest Marine and Sporting Goods business serving Western Washington and beyond since 1948. Providing Fishing Tackle, Hunting gear and Marine Accessories along with Boats, Motors and Trailers all with a Northwest focus. Stop by today to design your boat package just the way you want with one of our experienced and knowledgeable Sales Staff. Our expansive and professional Parts & Service Team are also ready to get you back on the water. It is easy to see why Verle’s LLC is your “One stop complete outdoor recreation store.” We carry a wide selection of New Boats, Motors and Trailers in stock for a quick delivery. We have the boat package you are looking for with great boats by; Alumaweld, Hewescraft, Smokercraft, American Angler, EZ Loader Boat Trailers and Sunchaser Pontoon boats. Our great boat lines are powered by Yamaha, Suzuki and Mercury outboard motors. Not looking for a new package, check out our pre-owned inventory. We bring in quality pre-owned boats and motors regularly, along with many great consignment boat packages.',
+        'class' : 'premium',
     },
             // ad vv
             {

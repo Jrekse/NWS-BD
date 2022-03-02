@@ -74,5 +74,14 @@ const Fishresort = [
                     'email' : 'offutlakeresort39@gmail.com ',
         'content' : 'We are a small family-owned campground near Tenino, WA, about 15 minutes south of Olympia. We are about an hour away from the Space Needle, Mt. St. Helens, ocean beaches and Hood Canal. We offer cabins, RV and tent camping, a lake front restaurant and bar, dock fishing, boat rentals, fishing licenses, tackle and plenty of outdoor fun! Our atmosphere is family-friendly and laid back. The resort lends itself to the tranquility of the lake by allowing electric motor boats only. The lake is open for fishing all year. The resort is open all 4 seasons. Come fishing for the day, plan a family weekend, a romantic getaway or stay longer to explore the many sights western Washington has to offer.'
     },
+    {
+        'title' : 'Walters Cove Resort',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/walterscoveBD.png',
+                    'phone' : '250-287-2223',
+                    'address' : '1250C Ironwood St. Campbell River, BC.  Canada V9W 6H5',
+                    'url' : 'https://www.walterscoveresort.com/',
+                    'email' : 'info@walterscoveresort.com',
+        'content' : 'Walters Cove Resort is a luxurious fishing lodge, owned by the Kyuquot Checleset First Nations. Located on the NW side of Vancouver Island in Kyuquot Sound, we provide a first class, all-inclusive fishing experience for salmon, halibut and bottom fish. Grady White boats, and both Abel and Avet reels are an example of the top of the line equipment we provide. Our small, intimate lodge holds a maximum capacity of only 18 guests which allows us to provide exceptional customer service and cultural experiences such as our signature Beach BBQ. Not to mention the most consistent fishing on the West Coast!'
+    },
 ]
 export default Fishresort;
