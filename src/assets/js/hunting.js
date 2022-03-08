@@ -74,6 +74,15 @@ const air = [
             'content' : 'Miller`s North Outfitting is an established whitetail hunting outfitter operation located in Northern Alberta. Chad Miller, owner and operator of Miller`s North, is an avid whitetail hunter and has a deep passion for the outdoors. Chad has been chasing whitetails in the north country for most of his life. If you`re looking for a world class whitetail hunt look no further...'
         },
         {
+            'title' : 'Northern Alberta Outfitters',
+            'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/03/NorthAlberta.png',
+                        'phone' : '780-305-4588',
+                        'address' : 'Box 7 Fort Assiniboine, Alberta t0g1a0',
+                        'url' : 'https://www.northernalbertaoutfitters.com/contact/',
+                        'email' : 'info@northernalbertaoutfitters.com',
+            'content' : 'Northern Alberta Outfitters has a long standing reputation as a trophy producing outfitter. A maximum effort on the part of myself and staff are guaranteed to all our clients. Our Outfitting establishment in Northern Alberta provides opportunities for trophy big game hunting including whitetail deer, mule deer, moose, elk, wolf and black bear in wilderness areas in Northern Alberta, Canada. Our experienced guides provide rifle hunting, bow hunting and black powder hunts for Boone & Crockett trophies.'
+        },
+        {
             'title' : 'North River Outfitting',
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/NorthriverBD.png',
                         'phone' : '780-675-1942 ',
@@ -92,6 +101,15 @@ const air = [
             'content' : 'The Sauvie Island Duck Club (SIDC) is a private waterfowl hunting club located approximately 10 miles northwest of Portland, OR along U.S. Route 30. Sauvie Island is 26,000 acres (105 km2), making it the largest island along the Columbia River and home to premier Oregon waterfowling. The island is bordered by the Columbia River to the east, the Multnomah Channel to the west and the Willamette River to the south and is mostly farmland and wildlife refuge. Duck club members will have access to several acres of private hunting area. Blinds are located in three main areas (and three smaller areas) within the property to help maximize hunting potential and minimize member contact. Sauvie Island Duck Club is located on a great flyway and is a mallard haven! The following three types of memberships are available: Day, Week, and Season. Season members are allowed to bring guests, but please check with Ron beforehand (see the rules). Parking is available on club grounds. Future plans include the construction of a small lodge to provide all members and guests with lockers and bathroom facilities.'
         },
         {
+            'title' : 'Silver Fox Outfitters',
+            'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/03/SIlverFox.png',
+                        'phone' : '(800) 899-5064',
+                        'address' : '53406 Range Road 183 Yellowhead County AB, T7E 3T3',
+                        'url' : 'http://silverfoxoutfitters.ca/about-us/',
+                        'email' : 'hunting@telusplanet.net',
+            'content' : 'Silver Fox Outfitters is a member of the Alberta Professional Outfitters Society and is licensed, bonded and insured. We are “North American Hunt Club” NAHC recommended and have a high percentage of repeat hunters; we are very proud of both these points. Silver Fox Outfitters has been operating since ’96 and was incorporated in 1998.'
+        },
+        {
             'title' : 'Stone Horse Outfitters',
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/03/stonehorseBD.png',
                         'phone' : '780-213-1280',
@@ -99,6 +117,15 @@ const air = [
                         'url' : 'https://www.stonehorseoutfitters.com/',
                         'email' : 'huntwithsho@hotmail.com',
             'content' : 'Located in the heart of the alberta boreal forest in between two main rivers you will find us aswell as some of best black bear and color phase bear hunting in the country. With exclusive access and low volume hunts, it is our mission to bring top quality fully guided hunts with old aged mature trophies'
+        },
+        {
+            'title' : 'Top of the Flyway Outfitters',
+            'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png ',
+                        'phone' : '(780)625-6736',
+                        'address' : '',
+                        'url' : 'https://topoftheflyway.com/contactus/',
+                        'email' : 'Trevor@topoftheflyway.com',
+            'content' : 'Welcome to the “Top of the Flyway”. Only here can you become part of the fall migration in the northernmost agricultural staging ground in Canada. The Peace River Region of Northern Alberta is the premier destination for goose and duck hunting.  Book your group hunt or corporate outing now!'
         },
         {
             'title' : 'Upfront Outfitters',

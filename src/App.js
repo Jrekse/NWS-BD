@@ -15,6 +15,7 @@ import powerEquipSpon from './assets/js/sponsors/powerSpon';
 // Post Data
 import auction from './assets/js/Auctioneers.js';
 import apparel from './assets/js/ApparelAccessories.js';
+import automotive from './assets/js/Automotive.js';
 import construction from './assets/js/construction.js';
 import Charters from './assets/js/ChartersGuides';
 import education from './assets/js/education.js';
@@ -76,6 +77,9 @@ class App extends Component {
     } else if (this.state.currentPage === "Apparel") {
       ReactGA.pageview('/BD/apparel');
       return <Category data={apparel}/>;
+    } else if (this.state.currentPage === "Automotive") {
+      ReactGA.pageview('/BD/automotive');
+      return <Category data={automotive}/>;
     } else if (this.state.currentPage === "Boats") {
       ReactGA.pageview('/BD/boats');
       return <><PageSpon data={boatspon}/><Category data={boat}/></>;
