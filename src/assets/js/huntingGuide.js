@@ -1,13 +1,13 @@
 const huntingguide = [
     {
-        'title' : '2C Pheasant Hunt',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/2C_Pheasant_Hunt-logo.jpg',
-                    'phone' : '208-880-0997',
-                    'address' : '27333 Fountain Rd, Parma, ID 83660',
-                    'url' : 'http://www.pheasanthuntidaho.com/',
-                    'email' : 'pheasant2c@gmail.com',
+        'title' : 'Daylight Creek Adventures',
+        'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/01/Untitled-1.png',
+                    'phone' : '(406)547-4113',
+                    'address' : 'PO Box 478 White Sulphur Springs,MT 59645',
+                    'url' : 'http://www.daylightcreek.com/',
+                    'email' : 'zcurdog@gmail.com',
                     'class' : 'premium',
-        'content' : 'Come join us at 2C Pheasant Hunts for an excellent day in the field hunting pheasant or chukar!'
+        'content' : 'We provide big game hunts in central Montana, deer, elk, limited spring bear. Ive been involved in guiding hunters for over 40 years in the same general location, near our family ranch that was homesteaded in 1878.'
     },
     {
         'title' : '3 Heart Outfitters Inc.',

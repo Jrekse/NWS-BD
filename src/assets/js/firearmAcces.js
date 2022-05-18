@@ -10,14 +10,14 @@ const Firearms = [
         'content' : 'The Advantage Tactical Pyramid Sight is our original sight concept. It features a steel rear sight base, a steel front sight base, 5 differently colored rear sight inserts and five differently colored front sights. In addition to each sight package having all ten colors, one may upgrade the front sights to our two glowing Firefly front sights — coral and lemon-lime. Both will glow for several hours when charged and will never lose the ability to hold a charge. With the ATPS, do not cover up any portion of the target; simply create a pyramid and place the tip-top of the pyramid where bullet impact is to occur. The ATPS is a completely customizable to the vision preferences of each shooter and is also windage and elevation adjustable. The Advantage Tactical Dark Diamond Sight is the only iron sight where an illuminated front sight alone, in subdued light, and without the ability to see the rear sight, is capable of making an accurate shot at combat distances. Of a different design than our ATPS Fireflies, the ATDDS is the most capable frontsight oriented handgun sight in the industry, whether in daylight or darkened situations. See adiamond in daylight or darkness and make your shot. The ATDDS rear sight obscures portions of the front sight to create a diamond sight picture, whether in daylight or subdued light. The ATDDS features an all steel rear sight base, steel front sight base, and our unique glowing Dark Diamond Firefly front sights. The ATDDS coral and yellow Firefly colors are standard with each sight set. We also have an aqua and lime-green upgrade, for those who desire more front sight color options. In addition, for those with yet to be designated Dark Diamond front sight colors, we have extra front and rear sight Dark Diamond bases, at a reduced price.'
     },
     {
-        'title' : 'Alpha One Outdoors',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ALPHA-ONE-LOGO.jpg',  
-                    'phone' : '(970) 640-2799; (970) 270-4998',
-                    'address' : '',
-                    'url' : 'https://www.alphaoneoutdoors.com/',
-                    'email' : 'alphaoneoutdoors@gmail.com',
+        'title' : 'Athlon Optics',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
+                    'phone' : '(855) 913-5678',
+                    'address' : '801 N Meadowbrook Olathe, Kansas 66062',
+                    'url' : 'http://www.athlonoptics.com/',
+                    'email' : 'contact@athlonoptics.com',
                     'class' : 'premium',
-        'content' : 'Unique and high quality custom slides and triggers. Alpha One offers standard and cnc milled slides and upgraded performance triggers.'
+        'content' : 'Ridiculously Good Optics for outdoor enthusiast who demand durable, reliable and affordable equipment.'
     },
     {
         'title' : 'American Built Arms Company',
@@ -48,15 +48,6 @@ const Firearms = [
             },
             // ad ^^
     {
-        'title' : 'Athlon Optics',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
-                    'phone' : '(855) 913-5678',
-                    'address' : '801 N Meadowbrook Olathe, Kansas 66062',
-                    'url' : 'http://www.athlonoptics.com/',
-                    'email' : 'contact@athlonoptics.com',
-        'content' : 'Ridiculously Good Optics for outdoor enthusiast who demand durable, reliable and affordable equipment.'
-    },
-    {
         'title' : 'The Best of the West Productions, LLC',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/best-of-the-west-logo.jpg',  
                     'phone' : '(307) 587-2787',
@@ -73,6 +64,15 @@ const Firearms = [
                     'url' : 'http://www.black-hills.com/',
                     'email' : 'blackhillsammo@gmail.com',
         'content' : 'US Military Ammunition is one of our highest priorities, and one of our best customers. The repeat business is based on reliable quality that our veteran employees consistently build into each and every round. Commercial Ammunition categories are Black Hills Gold, Cowboy Action, New Rifle, New Pistol, and Factory Remanufactured.'
+    },
+    {
+        'title' : 'BARNAUL AMMO',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
+                    'phone' : '937-454-0363; 877-425-4867',
+                    'address' : '',
+                    'url' : 'https://barnaulammo.com/',
+                    'email' : '',
+        'content' : 'BarnauL Ammunition 9MM SUBSONIC HAS ARRIVED! Now in stock, we have factory-produced subsonic 9mm ammunition, at an “affordable” price (have you SEEN ammo prices lately!?). The 151-grain 9mm cartridge boasts a zinc-coated cartridge and a steel case. The zinc coating on the cartridge adds to reliability in feeding. And not only is this ammunition easier on your ears, it looks good too! Experience the sound of silence!'
     },
     {
         'title' : 'CDNN Sports',
@@ -135,7 +135,16 @@ const Firearms = [
                     'address' : '',
                     'url' : 'http://www.hi-pointfirearms.com/',
                     'email' : '',
-        'content' : 'At Hi-Point® Firearms, there is nothing more important to us than making sure you are proud of the firearm you carry. From part to finished product, we run our business the way we run our homes-with care and commitment. Our only goal is to give you what you want in a gun, with a price tag you can’t resist. From start to finish, we want to make good on that word.'
+        'content' : 'A family owned and operated firearms manufacturer in the Midwest, Hi-Point is proud of our 30-year history. We started out as the engineering brains behind the handcrafted firearms that we would eventually go on to sell years later. Just as we did then, we continue to design our quality firearms the way we would want them to be. In other words, if we wouldn`t use them, we wouldn`t sell them. When you purchase a Hi-Point® firearm, you are partnering with a company that carries deep-rooted pride in its heritage and hard work. We are the home of "the working man`s gun," celebrating our commitment to manufacturing guns that are built tough and affordable for the people who work hard on the lines every day. Our firearms are 100% American made and we guarantee a lifetime replacement of our work. This means you can get the most gun for your dollar, the pride of supporting an American based company, and a lifetime warranty on all of our firearms. When you purchase a Hi-Point® firearm, you purchase the Hi-Point® promise...and you just can`t put a price tag on that.'
+    },
+    {
+        'title' : 'INLAND MANUFACTURING',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
+                    'phone' : '937-454-0363; 877-425-4867',
+                    'address' : '',
+                    'url' : 'https://www.inland-mfg.com/',
+                    'email' : '',
+        'content' : 'Inland Manufacturing, LLC was founded in 2013 with a commitment to provide the highest quality firearm-related products for the practical shooting enthusiast. The Inland Manufacturing team has over 100 years of combined firearm related experience and applied knowledge in firearm design and manufacturing, as well as, experience in military, law enforcement, and competitive shooting sports. Inland Manufacturing, LLC is proud to introduce the re-production of the M1 Carbine and M1A1 Paratrooper models that were built by the original Inland Division of General Motors from 1941 to 1945. In addition to the M1 Carbines, Inland Manufacturing also offers two models of the 1911 Semi-Auto Pistol. The original Inland Division never produced any 1911-style handguns as part of their war effort. However, if they did, we are sure that there would be no sacrifice in quality. The M1 Carbines and 1911 pistols offered by Inland Manufacturing, LLC are manufactured in the USA with no compromises in quality!'
     },
     {
         'title' : 'KICK-EEZ',
@@ -208,15 +217,6 @@ const Firearms = [
                     'url' : 'http://www.pmatool.com/',
                     'email' : 'support@pmatool.com',
         'content' : 'PMA Tool LLC specializes in tools and gear for accuracy minded rifle shooters. The two owners of PMA Tool have more than 5 decades combined experience in the design, manufacture and use of the highest quality reloading and shooting equipment, along with 20+ years of competitive shooting. In addition to our own line of products, we also stock and sell products from other manufacturers that meet our high standards.'
-    },
-    {
-        'title' : 'PrOlix® Lubricants',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Prolix_logo.jpg',  
-                    'phone' : '(801) 569-2763',
-                    'address' : '',
-                    'url' : 'https://www.prolixlubricant.com/',
-                    'email' : 'prolix@prolixlubricant.com',
-        'content' : 'PrOlix® is a greatly improved CLP, with a Citrus based cleaner w/Lube suspended in its formula. “Goes on wet, cleans, bonds, turns Dry to the touch!” It is also Biodegradable and Earth Friendly. Lab developed and tested by Law Enforcement, Military,& Shooter over many years. PrOlix® is also used in Commercial/Industrial applications, won’t wipe off, burn off, Build up, or stain clothing for our CCW team members! Rated the safest product and first to be listed on the USDA’s Bio-Preferred Products Website in 2012. PrOlix® will start 33rd Anniversary year soon, so look for an Announcement!'
     },
     {
         'title' : 'R&S Precision Sports, LLC',
@@ -298,15 +298,6 @@ const Firearms = [
                     'url' : 'https://www.underwoodammo.com/',
                     'email' : 'sales@underwoodammo.com',
         'content' : 'We manufacture our precision ammunition with absolute care during the loading process to assure consistent quality. Each round is individually sight inspected before being packaged. We strive to provide you with the finest ammunition available. Produced with the utmost care and pride to deliver a product you can be confident in.'
-    },
-    {
-        'title' : 'Velocity Percision Engineering',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Velocity-logo.jpg',  
-                    'phone' : '(602) 595-5931',
-                    'address' : '2601 W. Lone Cactus Dr., Suite A, Phoenix, AZ 85027',
-                    'url' : 'https://www.underwoodammo.com/',
-                    'email' : 'http://www.velocitytriggers.com/',
-        'content' : 'Velocity Precision was founding by Tom Vehr and is based in Phoenix, Arizona. Tom has over 30 years of experience designing and manufacturing high quality drop-in triggers and high performance accessories for the AR rifle platform. All Velocity products are engineered and design with precision, quality and affordability in mind. With an ever expanding product line, Velocity Precision now offers red dot mounts for Glock and Smith & Wesson handguns as well as lightweight bolt carrier groups, adjustable gas blocks and more.'
     },
     {
         'title' : 'Verle’s LLC',

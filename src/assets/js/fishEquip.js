@@ -166,15 +166,6 @@ const Fishingequip = [
         'content' : 'Mud Hole Custom Tackle, Inc. is the world’s largest supplier of tackle crafting goods – rod building, fly tying and lure building. A leading e-retailer and mail order supplier, Mud Hole has become the “go-to” and trusted supplier of hobbyists, small manufacturers and large OEM’s worldwide.'
     },
     {
-        'title' : 'Ocean Traps International',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/OceanTraps_logo.jpg',
-                    'phone' : '(741) 903-0433',
-                    'address' : '',
-                    'url' : 'http://www.oceantraps.com/',
-                    'email' : 'info@oceantraps.com',
-        'content' : 'Our plastic trap catches dungeness/tanner crabs, spot prawns, lobster, and more. The plastic is virgin high-density polyethylene that doesn’t crack, corrode, cause rust stains, or require anodes for electrolysis. The oval shape helps shellfish find the entrance and there are no sharp corners to damage the hull. A stack of 4 traps only stands 2 ft high which saves deck space.'
-    },
-    {
         'title' : 'PROLITE ROD TECHNOLOGY',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/prolite.png',
                     'phone' : ' 3604857584',

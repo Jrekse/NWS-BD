@@ -147,16 +147,6 @@ const Boats = [
     
     },
     {
-        'title' : 'Coastal Marine Engine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/CoastalMarineEngine-logo.jpg',
-                    'phone' : '(800)-223-5284',
-                    'address' : '4300 11th Ave. NW, Seattle, WA 98107',
-                    'url' : 'https://www.coastalmarineengine.com/',
-                    'email' : '',
-        'content' : 'A full-service marine dealer, offering a wide range of products and services to our commercial and recreational client’s boating needs since 1984.  Located in the historic Ballard Marine district just inside of the Ballard Locks, Coastal Marine Engine has become a staple of the community and strives to maintain the commitment to excellence their customers have come to expect.'
-    
-    },
-    {
         'title' : 'Commencement Bay Marine Services',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253)-572-2666',
@@ -247,6 +237,16 @@ const Boats = [
     
     },
     {
+        'title' : 'Master Marine',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/04/Master-Marine-Boat-Center-logo.jpg',  
+                    'phone' : '(360) 336-2176',
+                    'address' : '',
+                    'url' : 'http://www.mastermarine.com/',
+                    'email' : '',
+        'content' : 'Northwest Washington’s Premier dealer of Seasport, C-Dory, Weldcraft, Thunderjet, Avalon, Lund, and Stingray Boats! Your local Yamaha, Suzuki, Mercury, and Volvo Penta service center.'
+    
+    },
+    {
         'title' : 'May Mobile Marine',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/MayMobileMarine_logo.jpg',
                     'phone' : '',
@@ -303,16 +303,6 @@ const Boats = [
                     'url' : 'http://pelicanmarinaoregon.com/',
                     'email' : 'pelicanmarinallc@gmail.com',
         'content' : 'We have been in business for 60 years! Offering new/ used boat sales, service, parts and accessories, fuel at the dock, moorage and storage. Located on the south end of Upper Klamath Lake. Check out our website for more info!'
-    
-    },
-    {
-        'title' : 'Performance Marine',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/performance_marine-logo.jpg',
-                    'phone' : '(425) 258-9292',
-                    'address' : '930 W Marine View Drive, Everett, WA 98201',
-                    'url' : 'http://www.perform-marine.com/',
-                    'email' : '',
-        'content' : 'Performance Marine is a marine dealer in Everett, WA. We provide sales and service for Suzuki four stroke outboards 2.5 HP to 300 HP. Also Mercury outboards including the exciting Verado and the powerful Optimax. We can re-power your boat with Mercruiser, Volvo Penta, multiple Diesel applications and of course Suzuki and Mercury outboards. We stock a very strong inventory of unique and hard to find parts in our main location on the Everett waterfront. Contact us today!'
     
     },
     {
@@ -377,7 +367,7 @@ const Boats = [
     },
     {
         'title' : 'Tom-n-Jerrys Boat Center',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png', 
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/04/Tom-n-Jerrys-logo.jpg', 
                     'phone' : '(360) 466-9955',
                     'address' : '',
                     'url' : 'https://www.tomnjerrys.net/',

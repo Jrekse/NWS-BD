@@ -84,6 +84,15 @@ const Gear = [
         'content' : 'Build it Right! Build it Once! wBuild it Here! Small and light enough that you will actually carry it. They may cost as much as your favorite boots. But when dragging a moose out of the beaver muck or putting your ATV back on its feet. They’re worth every dime.'
     },
     {
+        'title' : 'FULL FORGE GEAR',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '937-454-0363; 877-425-4867',
+                    'address' : '',
+                    'url' : 'http://www.fullforgegear.com/index.php',
+                    'email' : '',
+        'content' : 'FULL FORGE GEAR range bags are made with heavy-duty fabric to carry the weight of your guns, ammunition and gear. When you`re heading to the range, the Storm range bags have you covered. Range bags, Pistol cases, Rifle cases. backpacks. '
+    },
+    {
         'title' : 'Rangestore.net for Steel Target Paint',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '888-488-1114',
@@ -127,15 +136,6 @@ const Gear = [
                     'url' : 'https://www.velvetantlertechnologies.com/',
                     'email' : 'velvetantlertechnologies@gmail.com',
         'content' : 'Velvet Antler Technologies was founded out of passion and curiosity during the fall 2004 archery season. At that time - our founder and CEO Darrell Gogert - was a professional guide living more than 100 miles from the closest taxidermist. Each season, his biggest concern was about what would happen to the velvet if his client(s) were to harvest an animal. Limited on time and money, he knew he needed to develop something that he could pack with him, apply in the field, see long-lasting results, and not have to deal with sharp needles and harsh chemicals! Furthermore, being the conservationist he is, he wanted to ensure what he used would not pose any dangers to plants or animals if they came in contact with it - unlike the existing methods currently used. Fast forward to 2019; Velvet Antler Technologies has proven to be 100% effective at preserving velvet antlers for more than 15 years, never showing signs of deterioration, hair slip, or cracking. These products were developed by a passionate hunter - for the passionate hunter - looking to preserve their memories for a lifetime!'
-    },
-    {
-        'title' : 'Wonderduck Decoys',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/wonderduck-logo.jpg',
-                    'phone' : '1-800-876-1697',
-                    'address' : '',
-                    'url' : 'http://www.wonderduck.com/',
-                    'email' : 'sales@wonderduck.com',
-        'content' : 'Wonderduck produces the ideal motion decoy for duck hunters. With over 350 options and a wide variety of species including Mallards, Teal, Redhead, Bluebill, Pintail, Gadwall, Canvasback, Woodduck, Coot, Specklebelly and Canada Goose. Also customizes and repair all Wonderduck decoys no matter the condition.'
     },
     {
         'title' : 'Woodman’s Pal',

@@ -92,6 +92,15 @@ const air = [
             'content' : ''
         },
         {
+            'title' : 'Prairie Waterfowl Co.',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/05/PrarieWaterfowl.png',
+                        'phone' : '403-702-FOWL (3695)',
+                        'address' : 'PO Box 607, Carseland, Alberta Canada T0J 0M0',
+                        'url' : '',
+                        'email' : 'willi@prairiewaterfowlco.com',
+            'content' : 'Instagram: prairiewaterfowlco     Prairie Waterfowl Co. is located in East-Central Alberta, offering world class waterfowl hunting in the bottle neck of the Pacific, Central and Mississippi flyways. Large numbers of migrating waterfowl, along with liberal limits on various species of ducks and geese, provide a world class hunting experience. Come hunt with us and check Alberta off your bucket list.'
+        },
+        {
             'title' : 'Sauvie Island Duck Club',
             'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Sauvie_island-logo.jpg',
                         'phone' : '(503) 539-5396',
@@ -135,15 +144,6 @@ const air = [
                         'url' : 'http://www.upfrontoutfitters.com/',
                         'email' : '',
             'content' : 'Upfront Outfitters has been successfully guiding public land hunters in the Rocky Mountains and throughout Washington state and Oregon since 2001. Based on the West Coast, Upfront Outfitters offers a wide variety of big game hunting opportunities throughout the Pacific Northwest. With our low client numbers and over 200 days a year in the field, scouting and preparing for our public and private land hunts you are ensured that we have done everything we can to put that trophy in your hands and the meat in the freezer. Oregon also has a great Spring Black Bear season with guaranteed draw tags for non-residents. Spring bear has a deadline of Feb 10 to apply. Whether you are an auction tag holder searching for a giant or a father looking for his child’s first hunt we can plan and prepare for the hunt of a lifetime. Hunts are all inclusive once you arrive to camp with the exception of state license fees. For those hunters seeking the North American Super Slam, Roosevelt elk hunting and Blacktail deer hunting is our specialty. With over 35 years of experience hunting these species in the Pacific Northwest combined with our dedication to pre-season scouting we have the proven knowledge to bring you success on your next hunting trip. Upfront Outfitters offers successful and quality Roosevelt elk hunting and Blacktail deer hunting throughout Western Oregon and Southwest Washington. If you are looking for a great hunting trip with outstanding shot opportunity and success rates, along with comfortable accommodations, this is the place. Upfront Outfitters is your all-inclusive guide service. All packages include food, lodging, transportation once in camp and hunting guide. From comfortable wall tent camps to spike camps high in the hills, we offer packages for all hunting levels and physical abilities. Upfront Outfitters has a hunting trip for you and will provide you with a great big game hunting experience!!'
-        },
-        {
-            'title' : 'Wonderduck Decoys',
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/wonderduck-logo.jpg',
-                        'phone' : '1-800-876-1697;',
-                        'address' : '',
-                        'url' : 'http://www.wonderduck.com/',
-                        'email' : 'sales@wonderduck.com',
-            'content' : 'Wonderduck produces the ideal motion decoy for duck hunters. With over 350 options and a wide variety of species including Mallards, Teal, Redhead, Bluebill, Pintail, Gadwall, Canvasback, Woodduck, Coot, Specklebelly and Canada Goose. Also customizes and repair all Wonderduck decoys no matter the condition.'
         },
         {
             'title' : 'Waterfowl Junkie ',

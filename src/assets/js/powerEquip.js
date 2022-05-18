@@ -48,15 +48,6 @@ const power = [
             },
             // ad ^^
     {
-        'title' : 'Hardware Sales Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Hardware_Sales-logo.jpg',
-                    'phone' : '(360) 734-6140',
-                    'address' : '2034 James Street Bellingham, WA 98225',
-                    'url' : 'http://www.hardwaresales.net/',
-                    'email' : 'info@hardwaresales.net',
-        'content' : 'Over the years Hardware Sales has worked hard to become one of the Pacific Northwest’s premier hardware suppliers. Whether it’s plumbing or electrical materials, automotive or garden supplies, house wares or hand trucks, hand or power tools, fasteners or fencing, padlocks or paint, cable or chain – we have them all, and much, much more! In addition to specializing in commercial and homeowner hardware, we have an Industrial Sales Division that caters to our corporate customers, a Rental Department which offers competitive rates on almost everything we sell, and an Office Furniture Division which carries the largest selection of used office furniture in the Pacific Northwest!'
-    },
-    {
         'title' : 'Issaquah Honda Kubota',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(425) 392-5182',

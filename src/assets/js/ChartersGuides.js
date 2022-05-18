@@ -34,9 +34,10 @@ const Construction = [
     },
             // ad vv
             {
-                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/deepseacharter.png',
                 'class' : 'ad',
                 'imgclass' : 'anad',
+                'adurl' : 'https://www.deepseacharters.com/'
             },
             {
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
@@ -161,16 +162,6 @@ const Construction = [
     
     },
     {
-        'title' : 'Hot Pursuit Charters',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/02/hotpursuit.png',
-                    'phone' : '240-876-6079',
-                    'address' : '',
-                    'url' : 'https://pursuitcharters.com/',
-                    'email' : 'captdonj@gmail.com',
-        'content' : 'Don has been sportfishing the Chesapeake Bay for over 30 years. As a retired police commander, Don knows how to lead a crew and make tough decisions. This experienced and well-respected captain&nbsp;has a reputation for perseverance and customer service. In fishing, there is never a guarantee for success, but this captain rarely disappoints his customers.'
-    
-    },
-    {
         'title' : 'Keys to the Outdoors',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Keys_To-The_Outdoors-logo.jpg',
                     'phone' : '(541) 294-4987',
@@ -221,13 +212,13 @@ const Construction = [
     
     },
     {
-        'title' : 'Underdog Sportfishing',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Underdog_Sportfishing-logo.jpg',
-                    'phone' : '(907) 401-3675',
-                    'address' : '504 Front St, Craig, AK 99921',
-                    'url' : 'http://www.fishportprotection.com/',
-                    'email' : '',
-        'content' : 'We are the only charter operator fishing out of the remote village of Port Protection on the northwestern coast of Prince of Wales Island, recently featured in the National Geographic television show of the same name. We offer package trips including lodging, meals, and either guided fishing with a professional captain aboard our new 27-foot charter boat or self-guided fishing on a well-equipped, capable, and safe 21-foot center console skiff. The fishery is as pristine as the surroundings, with not only abundant salmon but also incredible bottom fishing for halibut, yelloweye rockfish, and monster lingcod within just a mile or two of the dock. Uninhabited, rarely visited and breathtakingly wild Kuiu Island is only a few miles farther. Much of its shoreline has quite literally never been fished before.'
+        'title' : 'TORNADO Fishing Charters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/04/TornadoCharter.png',
+                    'phone' : 'Call or text us at 360-583-6130',
+                    'address' : 'Located on Float 12 in Westport, WA across from 2511 Westhaven Dr., Westport WA',
+                    'url' : 'http://tornadowestport.com/',
+                    'email' : 'tornado.westport@gmail.com',
+        'content' : 'We are a family owned & operated 54" charter boat that offers a variety of fishing trips out of Westport, WA. Come unwind and experience the adventure of deep sea fishing with us for lingcod, rockfish, salmon, halibut and tuna! Join us as we share with you our knowledge, passion and love for all things fishing. We take reservations online for your convenience 24/7, but also feel free to call or text us. We hope to see you aboard the Tornado to make some awesome fishing memories and hook a big one!'
     
     },
     {

@@ -36,10 +36,10 @@ const Holsters = [
                 'imgclass' : 'anad',
             },
             {
-                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2020/12/bullard-logo.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
-                'adurl' : 'https://www.cubcadet.com/en_US/home'
+                'adurl' : 'https://bullardleather.com/'
             },
             {
                 'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',

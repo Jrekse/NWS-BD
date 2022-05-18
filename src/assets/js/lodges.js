@@ -20,15 +20,16 @@ const lodging = [
         'content' : 'The hand-hewn spruce log lodge is 6,000 square feet & houses up to 15 guests in five interior rooms & one two-bedroom cabin. The interior rooms open out onto the hub of the lodge’s activity – a large great room with vaulted ceilings & big picture windows that look directly onto the river. The great room is complete with wood stove, comfy couches & chairs, bar area and a huge rustic dining table where our guests enjoy dining & socializing with one another. A portion of the main lodge is an original homesteader’s cabin that has been converted into kitchen, pantry and your host’s family quarters.'
     },
     {
-        'title' : 'Annie Mae Lodge',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Annie_Mae-logo.jpg',
-                    'phone' : '(800) 478-2346, (907) 697-2346',
-                    'address' : '',
-                    'url' : 'http://www.anniemae.com/',
-                    'email' : 'reservations@anniemae.com',
+        'title' : 'Benny’s Colville Inn',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Bennys-Colville-Inn-logo.jpg',
+                    'phone' : '(509) 684-2517',
+                    'address' : '915 S Main St, Colville, WA 99114',
+                    'url' : 'http://colvilleinn.com/',
+                    'email' : '',
                     'class' : 'premium',
-        'content' : 'Beautiful full service lodge on the Good River. Boasting gourmet food, beer, wine, courtesy van, bikes, and tours. We offer an experience of a lifetime while carrying on the tradition of country hospitality in frontier Alaska. Your true Alaskan experience is waiting for you here.'
+        'content' : 'Experience the heart of Northeast Washington at Benny’s Colville Inn.  Nestled in a pristine valley between the Kettle and Selkirk mountain ranges, it offers comfort, quality and value all year ’round. We welcome you to Colville and extend an invitation to take advantage of Benny’s Colville Inn as your home away from home. Here are some of the benefits we have to offer: 105 guest rooms, from economy to spacious suites - King suites with Jacuzzi and fireplace - Sixty foot indoor lap pool with spa - Complimentary breakfast bar - Over-sized vehicle and truck parking - Free use of Colville Fitness Center - Pets allowed    Reserve your room on Expedia today!'
     },
+
             // ad vv
             {
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/03/KatmaiTrophyLodge_logo.jpg',
@@ -57,15 +58,6 @@ const lodging = [
                             'email' : 'becharoffishing@gmail.com',
                 'content' : 'Remote, Comfortable & Affordable Our remote Alaskan fishing lodge is situated on the upper stretches of the beautiful Egegik River. You’ll watch some of Alaska’s most stunning sunrises, complete with a distant, active volcano. We are a fishing camp specializing in coho fishing, brown bear viewing, and flyout fishing adventures to even more remote destinations in the Last Frontier. Coho Fishing The Egegik River The Egegik River is touted by many experienced anglers as the best silver salmon stream in all of Alaska. Becharof Lodge On The Egegik River was the first fishing lodge to become established on the breathtaking Egegik River, and is less than a 5 minute boat ride from some of the best fishing holes on the entire river.'
             },        
-    {
-        'title' : 'Benny’s Colville Inn',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Bennys-Colville-Inn-logo.jpg',
-                    'phone' : '(509) 684-2517',
-                    'address' : '915 S Main St, Colville, WA 99114',
-                    'url' : 'http://colvilleinn.com/',
-                    'email' : '',
-        'content' : 'Experience the heart of Northeast Washington at Benny’s Colville Inn.  Nestled in a pristine valley between the Kettle and Selkirk mountain ranges, it offers comfort, quality and value all year ’round. We welcome you to Colville and extend an invitation to take advantage of Benny’s Colville Inn as your home away from home. Here are some of the benefits we have to offer: 105 guest rooms, from economy to spacious suites - King suites with Jacuzzi and fireplace - Sixty foot indoor lap pool with spa - Complimentary breakfast bar - Over-sized vehicle and truck parking - Free use of Colville Fitness Center - Pets allowed    Reserve your room on Expedia today!'
-    },
     {
         'title' : 'Best Western Valdez Harbor Inn',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Best-Western-Valdez-logo.jpg',

@@ -10,14 +10,14 @@ const Cleaning =[
         'content' : 'Remove all Gun Fouling in 15 Minutes or less… So quick and effective, you will never go back to smelly, messy solvents. The system consists of the Iosso Bore Cleaner, the Iosso Premium Bore Brush, and the Iosso Triple Action Oil. The combination of these products will remove the nasty carbon burn, copper, lead, plastic wad and all other fouling associated with shooting. It’s great for people with allergies or intolerance to chemicals. The Bio-Based formulas are made from plant extracts. While keeping our environment healthy, it is also safer for the user, in that it is odorless. The blue brush is a trademark of Iosso, which stands for a quality product made in the USA.'
     },
     {
-        'title' : 'PrOlix® Lubricants',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Prolix_logo.jpg',  
-                    'phone' : '(801) 569-2763',
+        'title' : 'Shell Shock Technologies',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Shell-Shock-LOGO.jpg',  
+                    'phone' : '',
                     'address' : '',
-                    'url' : 'https://www.prolixlubricant.com/',
-                    'email' : 'prolix@prolixlubricant.com',
+                    'url' : 'http://www.shellshocktech.com/',
+                    'email' : 'info@shellshocktech.com',
                     'class' : 'premium',
-        'content' : 'PrOlix® is a greatly improved CLP, with a Citrus based cleaner w/Lube suspended in its formula. “Goes on wet, cleans, bonds, turns Dry to the touch!” It is also Biodegradable and Earth Friendly. Lab developed and tested by Law Enforcement, Military,& Shooter over many years. PrOlix® is also used in Commercial/Industrial applications, won’t wipe off, burn off, Build up, or stain clothing for our CCW team members! Rated the safest product and first to be listed on the USDA’s Bio-Preferred Products Website in 2012. PrOlix® will start 33rd Anniversary year soon, so look for an Announcement!'
+        'content' : 'Shell Shock is an early stage technology and manufacturing company focused on developing innovative case technologies for the ammunition industry. Shell Shock is a component manufacturer supplying shell cases to the shooting sports market, as well as to U.S. and foreign ammunition manufacturers, law enforcement, military and other government agencies.'
     },
     {
         'title' : 'SEAL 1',

@@ -30,6 +30,7 @@ function Category(props){
                                         eventLabel={obj.title}
                                         to={obj.url}
                                         target="_blank"
+                                        className="thissun"
                                     >
                                         Visit Our Website
                                     </ReactGA.OutboundLink>
