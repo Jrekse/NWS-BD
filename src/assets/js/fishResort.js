@@ -10,14 +10,14 @@ const Fishresort = [
         'content' : 'Located Near To The Entrance To Kenai Fjords National Park Guided Sea Kayaking – Guided Hiking – Glacier Shuttles – Guided Fishing – Gold Panning Rentals – Kayak – SUP – Camping – Fishing Gear & More! ADVENTURE IS OUR PASSION, LET US HELP YOU ENJOY YOURS!'
     },
     {
-        'title' : 'Diamond Lake Resort & RV Park',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '(541) 793-3333',
+        'title' : 'Redrum Sportfishing Cabo San Lucas ',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/RedrumSport.png',
+                    'phone' : '(760) 481-7667',
                     'address' : '',
-                    'url' : 'http://www.diamondlake.net/',
-                    'email' : 'info@diamondlake.net',
+                    'url' : 'http://redrumcabo.com/',
+                    'email' : 'info@redrumcabo.com',
                     'class' : 'premium',
-        'content' : 'Diamond Lake Resort has evolved from a small fishing lodge built in the 1920s, to a modern family resort that offers year-round service. Recently added 110 full hook up RV spaces. It is a favorite summer spot for fishing (rainbow trout), hiking, bicycling, and horseback riding. In the winter it is famous for skiing, snowboarding and tubing, snowmobiling, and snowshoeing. All year round it is a wonderful place to take in the beauty of nature and of Crater Lake National Park. '
+        'content' : 'RedRum Sportfishing is an American veteran owned and operated business that can cater to all your Cabo fishing charter needs. With over 20 years of Cabo fishing experience, we know what it takes to put you on the fish. Our local crews are dedicated to providing excellent service and will do their best to create memories that will last a lifetime.'
     },
     {
         'title' : 'King Salmondeaux Lodge',
@@ -47,15 +47,15 @@ const Fishresort = [
                 'imgclass' : 'anad',
             },
             // ad ^^
-            {
-                'title' : 'MarDon Resort',
-                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mardon_resort-logo.jpg',
-                            'phone' : '(509) 346-2651',
-                            'address' : '',
-                            'url' : 'http://www.mardonresort.com/',
-                            'email' : '',
-                'content' : 'MarDon Resort is a full service RV resort on Potholes Reservoir. Amenities include a marina, cottages, tackle/general store and restaurant, and a new big rig RV site. Sportsmen can fish the 28,000 acres of fresh water for walleye and large and small mouth bass, or hunt duck and goose when in season. MarDon Resort is family-owned and open all year.'
-            },
+    {
+        'title' : 'MarDon Resort',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/mardon_resort-logo.jpg',
+                    'phone' : '(509) 346-2651',
+                    'address' : '',
+                    'url' : 'http://www.mardonresort.com/',
+                    'email' : '',
+        'content' : 'MarDon Resort is a full service RV resort on Potholes Reservoir. Amenities include a marina, cottages, tackle/general store and restaurant, and a new big rig RV site. Sportsmen can fish the 28,000 acres of fresh water for walleye and large and small mouth bass, or hunt duck and goose when in season. MarDon Resort is family-owned and open all year.'
+    },
     {
         'title' : 'Spectacle Lake Resort',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',

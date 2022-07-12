@@ -48,6 +48,15 @@ const Fishingequip = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+            {
+                'title' : 'Axis Charters',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/Axis.png',
+                            'phone' : '(425) 308-6928',
+                            'address' : '336 Admiral Way Edmonds, Wa  98020',
+                            'url' : 'https://axischarters.com/',
+                            'email' : 'jthalibet@yahoo.com',
+                'content' : 'The Puget Sound offers a variety of fishing opportunities year round like our well known Seattle Washington Salmon, Lingcod and Flounder fishing, for instance. In addition, here in the northwest, Humpy and also known as, Pink Salmon fishing charters offer great experiences in the odd years. Please contact our Seattle Fishing Charter Captain for more current information on Salmon Fishing Charters in addition to any other Washington Fishing opportunities.'
+            },
     {
                 'title' : 'Buzzbomb Tackle',
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/BuzzBomb_logo.jpg',
@@ -65,6 +74,24 @@ const Fishingequip = [
                     'url' : 'http://crabbylift.com/',
                     'email' : 'crabbylift@gmail.com',
         'content' : 'Crabby Lift is made in America, handcrafted in Salem, Oregon, are of the highest quality and at the right price. The system is perfect for recreational crabbing, providing ease and convenience and also saves your back. We have been in business for 9 years. Crabby Lift makes crabbing fun.'
+    },
+    {
+        'title' : 'Cut Plug Charters',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '(206)920-9482 ',
+                    'address' : '7001 Seaview Avenue Northwest Dock V, Seattle, WA 98117',
+                    'url' : 'https://www.seattlesalmonfishing.com/',
+                    'email' : '',
+        'content' : 'Cut Plug Charters prides themselves on providing the best Seattle fishing experience possible, whether you are a first-timer or a seasoned angler we can accommodate your needs. Cut Plug Charters` main focus is not just catching fish but to also show you everything the Puget Sound has to offer, from the vast array of wildlife we might encounter to the places we fish and why we fish them. Seattle offers exceptional fishing opportunities from salmon to bottom fishing, we have a little bit of everything the Pacific Northwest has to offer. Our fishing charters depart minutes from downtown Seattle creating a perfect day on the water without having to commit to a full day of fishing. '
+    },
+    {
+        'title' : 'Chris Nordling`s Fishing Guide',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/Nordly.png',
+                    'phone' : '(503) 866-0971',
+                    'address' : '',
+                    'url' : 'http://www.catchsomefish.net/about/',
+                    'email' : 'CHRISNORDLINGFISHINGGUIDE@COMCAST.NET',
+        'content' : 'Chris Nordling`s guiding career began in 2002, when he chose to take his love of helping people pursue and land the fish of their dreams, and made it his profession. Since then, he has guided hundreds, if not thousands of happy clientele from all over the world on amazing fishing adventures from Oregon to Alaska. Whether he is pursuing the King Salmon in the rivers the size of a two lane street from his Clackamax driftboat, or making the perfect cast to entice the mysterious winter Steelhead from it’s haunts, you will not find another fishing guide as committed to excellence as Chris. When he is not in the boat or in the field, you can find him providing seminars at local tackle stores, fighting for the conservation of our iconic fish during meetings and gatherings, or coaching his daughter’s softball team to victory.'
     },
     {
         'title' : 'Dick Nite Spoons, Inc.',
@@ -91,7 +118,16 @@ const Fishingequip = [
                     'address' : '',
                     'url' : 'https://www.englundmarine.com/pages/Specials.html',
                     'email' : 'astoria@englundmarine.com',
-        'content' : 'Englund Marine & Industrial Supply has served and helped marine enthusiasts for 75 years. Whether you’re a commercial fisherman, a sport fisherman, a business needing industrial strength tools and safety gear, or a do-it-yourselfer at home, our Englund Marine crew can provide technical knowledge to find the product that you need. Visit us at one of our seven retail stores located up and down the northwest coast or online at englundmarine.com.'
+        'content' : 'Englund Marine & Industrial Supply has served and helped marine enthusiasts for 79 years. Whether you’re a commercial fisherman, a sport fisherman, a business needing industrial strength tools and safety gear, or a do-it-yourselfer at home, our Englund Marine crew can provide technical knowledge to find the product that you need. Visit us at one of our seven retail stores located up and down the northwest coast or online at englundmarine.com.'
+    },
+    {
+        'title' : 'Elite Guide Service',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/eliteguide.png',
+                    'phone' : '(360) 789-6147',
+                    'address' : '',
+                    'url' : 'https://eliteguideservice.com/',
+                    'email' : 'nic@eliteguideservice.com',
+        'content' : 'We strive to provide FUN FUN FUN. With safe practices, proven techniques, and lots of smiles, we are here to provide fond fishing memories. Safety is one of our main concerns and it is much easier to have fun when everyone is safe and happy. For this reason, we are Coast Guard Licensed and Insured, as well as an active Washington licensed Professional Guide.'
     },
     {
         'title' : 'Fillet Pro',
@@ -157,6 +193,15 @@ const Fishingequip = [
         'content' : 'McOmie’s Custom Lures manufactures fishing lures for Salmon, Steelhead, Lake Trout & kokanee. We have been in business since 2010 and located in Gresham Oregon. Our fishing lures our sold in stores throughout the West Coast & Alaska.'
     },
     {
+        'title' : 'Messin Around Fishing Charters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/messinAroundFC.png',
+                    'phone' : '360-621-2681',
+                    'address' : '',
+                    'url' : '',
+                    'email' : 'MessinaroundFC@gmail.com',
+        'content' : 'fishing in areas 9,10, & 11 of the Puget Sound. We are located at the Brownsville Marina in Bremerton, WA Pick up also available at the Shilshole marina in Ballard,WA just outside of Seattle Messinaroundfishingcgarters.com '
+    },
+    {
         'title' : 'Mud Hole Custom Tackle',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(866) 790-7637',
@@ -209,6 +254,15 @@ const Fishingequip = [
                     'url' : 'https://silverhorde.com/',
                     'email' : 'info@silverhorde.com',
         'content' : 'Silver Horde is a family owned and operated business.  Established in 1948.  We manufacture and import top quality fishing lures and supplies offered at a fair price.  Our factory is located in Lynnwood Washington USA.  Our brands are SILVER HORDE, GOLD STAR, SAM’S PRO and YAMASHITA.  Plugs, Spoons, Dodgers, Flashers, Flys, Downrigger supplies & import Yamashita Hoochies from Japan.  Our lures are used worldwide for commercial and sport fishing of Salmon and other gamefish.'
+    },
+    {
+        'title' : 'Stott`s Fishing Adventures',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/Stotts.png',
+                    'phone' : '208-503-3878',
+                    'address' : '3314 Meadowlark Drive Lewiston, Idaho  83501',
+                    'url' : 'https://fishstotts.com/',
+                    'email' : 'mel@fishstotts.com',
+        'content' : 'When you fish with us, you become part of our fishing family. Every decision we make has been built around the same core family values we learned from our parents when we were young. When you put family first, care factor becomes important. All our guides are husbands and fathers and know life’s important details. Showing care and taking interest in people is important to us. We hired the best guides that have those same core values and know when booking one of them, our clients are in great hands. We are proud of our fishing brand and know we have a standard to live up to with our fishing clients. It all started at the top with Mel and Jean Stottlemyre. Thanks Mom and Dad!'
     },
     {
         'title' : 'Thomas Spinning Lures, Inc.',

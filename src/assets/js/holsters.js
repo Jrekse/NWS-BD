@@ -2,7 +2,7 @@ const Holsters = [
     {
         'title' : 'Bullard Leather',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bullard-logo.jpg',
-                    'phone' : '(844) 336-2958, (903) 300-3236',
+                    'phone' : '(903) 300-3236',
                     'address' : '5507 TX Hwy 24 N, PO Box 475, Cooper, Tx 75432',
                     'url' : 'http://www.bullardleather.com/',
                     'email' : 'bullardleather@gmail.com',

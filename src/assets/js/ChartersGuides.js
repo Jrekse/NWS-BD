@@ -202,6 +202,15 @@ const Construction = [
     
     },
     {
+        'title' : 'PRO FISH GUIDE',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/Profishguide.png',
+                    'phone' : '(503)-803-2616',
+                    'address' : '7655 Doughty Rd, Tillamook, OR 97141',
+                    'url' : 'https://profishguide.com/',
+                    'email' : '',
+        'content' : 'I focus on Tillamook Bay and its surrounding areas because its known for huge Salmon and acrobatic Steelhead. All of the bait, tackle, and rods are top quality so when you hook a trophy it won`t be out of reach. All you need to bring is your fishing license, rain gears, and camera. Lunches can be provided and come highly recommended. Not only will I ensure a great trip, it is also highly educational and fun for the whole family.'
+    },
+    {
         'title' : 'Shark Tooth Charters',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(907) 351-8853',

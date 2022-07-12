@@ -50,6 +50,16 @@ const lodging = [
             },
             // ad ^^
             {
+                'title' : 'Alaska’s Bearclaw Lodge',
+                'logo' : 'https://wallpaperaccess.com/full/1285952.jpg',
+                            'phone' : '907-843-1605',
+                            'address' : 'PO Box 1547, Dillingham, AK 99576',
+                            'url' : 'http://www.bearclawlodge.com/',
+                            'email' : 'fish@bearclawlodge.com',
+                            'class' : 'premium',
+                'content' : 'Alaska’s Bearclaw Lodge is where epic Bristol Bay fishing, breathtaking scenery and a family-run lodge that feels like home, combine to offer the perfect Alaska fishing vacation. We target all 5 species of Salmon, Rainbow Trout, Arctic Char, Grayling, Dolly Varden and Northern Pike.  We provide all gear, tackle, meals, fish processing, etc.  The maximum occupancy of 10 guests. Five guides on staff means that you will enjoy very personal attention with two guests attended by each guide.'
+            },
+            {
                 'title' : 'Becharof Lodge',
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/BecharofFishingLogo.jpg',
                             'phone' : '503-741-1333; 503 298 9686; 360-562-7701',

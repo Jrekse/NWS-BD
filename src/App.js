@@ -9,8 +9,11 @@ import PageSpon from './Pages/Pagesponsor';
 import noCat from './assets/js/sponsors/noCat.js';
 import rvSpon from './assets/js/sponsors/rvSpon.js';
 import boatspon from './assets/js/sponsors/boatSpon.js';
+import gunspon from './assets/js/sponsors/gunSpon.js';
 import fishequipspon from './assets/js/sponsors/fishEquipSpon.js';
 import powerEquipSpon from './assets/js/sponsors/powerSpon';
+import tourspon from './assets/js/sponsors/tourspon';
+import charter from './assets/js/sponsors/charterspon';
 
 // Post Data
 import auction from './assets/js/Auctioneers.js';
@@ -112,7 +115,7 @@ class App extends Component {
       return <Category data={construction}/>;
     } else if (this.state.currentPage === "Charters") {
       ReactGA.pageview('/BD/charters');
-      return <Category data={Charters}/>;
+      return <><PageSpon data={charter}/><Category data={Charters}/></>;
     } else if (this.state.currentPage === "Education") {
       ReactGA.pageview('/BD/education');
       return <Category data={education}/>;
@@ -127,7 +130,7 @@ class App extends Component {
       return <Category data={huntingGuide}/>;
     } else if (this.state.currentPage === 'Hunting') {
       ReactGA.pageview('/BD/hunting');
-      return <><Category data={hunting}/></>
+      return <><PageSpon data={gunspon}/><Category data={hunting}/></>
     }else if (this.state.currentPage === "Sporting Goods") {
       ReactGA.pageview('/BD/sportingGoods');
       return <Category data={sportingGoods}/>;
@@ -148,10 +151,10 @@ class App extends Component {
       return <Category data={realty}/>;
     } else if (this.state.currentPage === "Tourism") {
       ReactGA.pageview('/BD/tourism');
-      return <Category data={tourism}/>;
+      return <><PageSpon data={tourspon}/><Category data={tourism}/></>;
     } else if (this.state.currentPage === "FirearmsAmmo") {
       ReactGA.pageview('/BD/firearmsAmmo');
-      return <><PageSpon data={boatspon}/><Category data={firearmAmmo}/></>;
+      return <><PageSpon data={gunspon}/><Category data={firearmAmmo}/></>;
     } else if (this.state.currentPage === "Firearm Cleaning") {
       ReactGA.pageview('/BD/firearmCleaning');
       return <Category data={FirearmCleaning}/>;

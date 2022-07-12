@@ -31,7 +31,8 @@ const air = [
     },
         // ad vv
         {
-            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/art2.jpg',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/CanvasCabins_web.jpg',
+            'adurl' : 'https://canvascabins.com/',
             'class' : 'ad',
             'imgclass' : 'anad',
         },

@@ -20,14 +20,15 @@ const Firearms = [
         'content' : 'Ridiculously Good Optics for outdoor enthusiast who demand durable, reliable and affordable equipment.'
     },
     {
-        'title' : 'American Built Arms Company',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
-                    'phone' : '443-310-8777',
-                    'address' : '',
-                    'url' : 'http://www.abarms.com/',
+        'title' : 'Verle’s LLC',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/06/VerlesBD.png',
+                    'phone' : '(360) 426-0933',
+                    'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
+                    'url' : 'http://www.verles.com/',
                     'email' : '',
                     'class' : 'premium',
-        'content' : 'American Built Arms Company is a veteran owned, Type 07/NFA, U.S. Manufacturer of firearms and firearms parts and accessories to the law enforcement, military and civilian markets. Based in Glen Rock, PA, American Built Arms Company markets and sells its A*B Arms brand of high-end products through a network ofQQ dealers, distributors and OEM manufacturers.'
+        'content' : 'Verle’s LLC is one of South Puget Sound’s largest and oldest Marine and Sporting Goods business serving Western Washington and beyond since 1948. Providing Fishing Tackle, Hunting gear and Marine Accessories along with Boats, Motors and Trailers all with a Northwest focus. Stop by today to design your boat package just the way you want with one of our experienced and knowledgeable Sales Staff. Our expansive and professional Parts & Service Team are also ready to get you back on the water. It is easy to see why Verle’s LLC is your “One stop complete outdoor recreation store.” We carry a wide selection of New Boats, Motors and Trailers in stock for a quick delivery. We have the boat package you are looking for with great boats by; Alumaweld, Hewescraft, Smokercraft, American Angler, EZ Loader Boat Trailers and Sunchaser Pontoon boats. Our great boat lines are powered by Yamaha, Suzuki and Mercury outboard motors. Not looking for a new package, check out our pre-owned inventory. We bring in quality pre-owned boats and motors regularly, along with many great consignment boat packages.'
+    
     },
             // ad vv
             {
@@ -47,6 +48,15 @@ const Firearms = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+            {
+                'title' : 'American Built Arms Company',
+                'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
+                            'phone' : '443-310-8777',
+                            'address' : '',
+                            'url' : 'http://www.abarms.com/',
+                            'email' : '',
+                'content' : 'American Built Arms Company is a veteran owned, Type 07/NFA, U.S. Manufacturer of firearms and firearms parts and accessories to the law enforcement, military and civilian markets. Based in Glen Rock, PA, American Built Arms Company markets and sells its A*B Arms brand of high-end products through a network ofQQ dealers, distributors and OEM manufacturers.'
+            },
     {
         'title' : 'The Best of the West Productions, LLC',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/best-of-the-west-logo.jpg',  
@@ -135,7 +145,7 @@ const Firearms = [
                     'address' : '',
                     'url' : 'http://www.hi-pointfirearms.com/',
                     'email' : '',
-        'content' : 'A family owned and operated firearms manufacturer in the Midwest, Hi-Point is proud of our 30-year history. We started out as the engineering brains behind the handcrafted firearms that we would eventually go on to sell years later. Just as we did then, we continue to design our quality firearms the way we would want them to be. In other words, if we wouldn`t use them, we wouldn`t sell them. When you purchase a Hi-Point® firearm, you are partnering with a company that carries deep-rooted pride in its heritage and hard work. We are the home of "the working man`s gun," celebrating our commitment to manufacturing guns that are built tough and affordable for the people who work hard on the lines every day. Our firearms are 100% American made and we guarantee a lifetime replacement of our work. This means you can get the most gun for your dollar, the pride of supporting an American based company, and a lifetime warranty on all of our firearms. When you purchase a Hi-Point® firearm, you purchase the Hi-Point® promise...and you just can`t put a price tag on that.'
+        'content' : 'At Hi-Point® Firearms, there is nothing more important to us than making sure you are proud and confident in the firearm you carry. From every part to the finished product, we run our business the way we run our homes; with care and commitment. Our goal is to give you what you want in a gun, with a price tag you can’t resist all while being made in the USA.'
     },
     {
         'title' : 'INLAND MANUFACTURING',
@@ -298,16 +308,6 @@ const Firearms = [
                     'url' : 'https://www.underwoodammo.com/',
                     'email' : 'sales@underwoodammo.com',
         'content' : 'We manufacture our precision ammunition with absolute care during the loading process to assure consistent quality. Each round is individually sight inspected before being packaged. We strive to provide you with the finest ammunition available. Produced with the utmost care and pride to deliver a product you can be confident in.'
-    },
-    {
-        'title' : 'Verle’s LLC',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Verles-Logo.jpg',
-                    'phone' : '(360) 426-0933',
-                    'address' : '741 W Golden Pheasant Rd, Shelton, WA 98584',
-                    'url' : 'http://www.verles.com/',
-                    'email' : '',
-        'content' : 'Verle’s LLC is one of South Puget Sound’s largest and oldest Marine and Sporting Goods business serving Western Washington and beyond since 1948. Providing Fishing Tackle, Hunting gear and Marine Accessories along with Boats, Motors and Trailers all with a Northwest focus. Stop by today to design your boat package just the way you want with one of our experienced and knowledgeable Sales Staff. Our expansive and professional Parts & Service Team are also ready to get you back on the water. It is easy to see why Verle’s LLC is your “One stop complete outdoor recreation store.” We carry a wide selection of New Boats, Motors and Trailers in stock for a quick delivery. We have the boat package you are looking for with great boats by; Alumaweld, Hewescraft, Smokercraft, American Angler, EZ Loader Boat Trailers and Sunchaser Pontoon boats. Our great boat lines are powered by Yamaha, Suzuki and Mercury outboard motors. Not looking for a new package, check out our pre-owned inventory. We bring in quality pre-owned boats and motors regularly, along with many great consignment boat packages.'
-    
     },
     {
         'title' : 'Zero Bullet Company, Inc.',
