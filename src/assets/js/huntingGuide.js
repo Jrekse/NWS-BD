@@ -48,15 +48,6 @@ const huntingguide = [
             },
             // ad ^^
             {
-                'title' : 'Daylight Creek Adventures',
-                'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/01/Untitled-1.png',
-                            'phone' : '(406)547-4113',
-                            'address' : 'PO Box 478 White Sulphur Springs,MT 59645',
-                            'url' : 'http://www.daylightcreek.com/',
-                            'email' : 'zcurdog@gmail.com',
-                'content' : 'We provide big game hunts in central Montana, deer, elk, limited spring bear. Ive been involved in guiding hunters for over 40 years in the same general location, near our family ranch that was homesteaded in 1878.'
-            },
-            {
                 'title' : 'Field N Marsh Outfitters',
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/FieldNMarsh_logo.jpg',
                             'phone' : '',

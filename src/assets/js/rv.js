@@ -31,7 +31,7 @@ const RV = [
     },
             // ad vv
             {
-                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/clearview.png',
+                'logo' : 'https://americanshootingjournal.com/wp-content/uploads/2022/07/Clearview-RV_Web-1.jpg',
                 'class' : 'ad',
                 'imgclass' : 'anad',
                 'adurl' : 'https://www.clearviewrv.com/'
@@ -48,6 +48,15 @@ const RV = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+    {
+        'title' : 'Adventure Trading RV',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/adventureTrading.png',
+                    'phone' : '503-756-5601',
+                    'address' : '14190 Fir St unit 501 Oregon City, Oregon 97045',
+                    'url' : 'https://www.adventuretradingrv.com/',
+                    'email' : 'atrv501@hotmail.com',
+        'content' : 'As a smaller dealership, we’re able to provide you with the kind of personalized service that makes the difference between simply purchasing a vehicle and fulfilling a travel dream. Our full-service dealership offers sales, consignments, service, parts, financing, and warranties all in one location to provide you with the ease and security that will give you a positive RV experience for many years to come.'
+    },
     {
         'title' : 'South Hill RV Sales',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/south_hill_rv-logo.jpg',

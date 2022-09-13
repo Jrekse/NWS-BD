@@ -49,25 +49,34 @@ const lodging = [
                 'imgclass' : 'anad',
             },
             // ad ^^
-            {
-                'title' : 'Alaska’s Bearclaw Lodge',
-                'logo' : 'https://wallpaperaccess.com/full/1285952.jpg',
-                            'phone' : '907-843-1605',
-                            'address' : 'PO Box 1547, Dillingham, AK 99576',
-                            'url' : 'http://www.bearclawlodge.com/',
-                            'email' : 'fish@bearclawlodge.com',
-                            'class' : 'premium',
-                'content' : 'Alaska’s Bearclaw Lodge is where epic Bristol Bay fishing, breathtaking scenery and a family-run lodge that feels like home, combine to offer the perfect Alaska fishing vacation. We target all 5 species of Salmon, Rainbow Trout, Arctic Char, Grayling, Dolly Varden and Northern Pike.  We provide all gear, tackle, meals, fish processing, etc.  The maximum occupancy of 10 guests. Five guides on staff means that you will enjoy very personal attention with two guests attended by each guide.'
-            },
-            {
-                'title' : 'Becharof Lodge',
-                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/BecharofFishingLogo.jpg',
-                            'phone' : '503-741-1333; 503 298 9686; 360-562-7701',
-                            'address' : '',
-                            'url' : 'http://becharoflodgefishing.com/',
-                            'email' : 'becharoffishing@gmail.com',
-                'content' : 'Remote, Comfortable & Affordable Our remote Alaskan fishing lodge is situated on the upper stretches of the beautiful Egegik River. You’ll watch some of Alaska’s most stunning sunrises, complete with a distant, active volcano. We are a fishing camp specializing in coho fishing, brown bear viewing, and flyout fishing adventures to even more remote destinations in the Last Frontier. Coho Fishing The Egegik River The Egegik River is touted by many experienced anglers as the best silver salmon stream in all of Alaska. Becharof Lodge On The Egegik River was the first fishing lodge to become established on the breathtaking Egegik River, and is less than a 5 minute boat ride from some of the best fishing holes on the entire river.'
-            },        
+    {
+        'title' : 'Alaska’s Bearclaw Lodge',
+        'logo' : 'https://wallpaperaccess.com/full/1285952.jpg',
+                    'phone' : '907-843-1605',
+                    'address' : 'PO Box 1547, Dillingham, AK 99576',
+                    'url' : 'http://www.bearclawlodge.com/',
+                    'email' : 'fish@bearclawlodge.com',
+                    'class' : 'premium',
+        'content' : 'Alaska’s Bearclaw Lodge is where epic Bristol Bay fishing, breathtaking scenery and a family-run lodge that feels like home, combine to offer the perfect Alaska fishing vacation. We target all 5 species of Salmon, Rainbow Trout, Arctic Char, Grayling, Dolly Varden and Northern Pike.  We provide all gear, tackle, meals, fish processing, etc.  The maximum occupancy of 10 guests. Five guides on staff means that you will enjoy very personal attention with two guests attended by each guide.'
+    },
+    {
+        'title' : 'Bear Trail Lodge',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/Beartraillodge.png',
+                    'phone' : '(908) 402-1340',
+                    'address' : 'P.O. Box 221 King Salmon, AK 99613',
+                    'url' : 'https://www.beartraillodge.com/',
+                    'email' : 'gofish@bristolbay.com',
+        'content' : 'When you visit Bear Trail Lodge, you will experience Alaska from the people who know it best. Learn about the land, the people, and the customs of Alaska when you fish with our team of locals and honorary locals. Alaska is where we raise our families, participate in our community and embrace our unique culture. This is not a seasonal adventure for us. This is our home. We invite you and your entire family to come see why staying at Bear Trail Lodge feels like you have finally come home.'
+    },  
+    {
+        'title' : 'Becharof Lodge',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/BecharofFishingLogo.jpg',
+                    'phone' : '503-741-1333; 503 298 9686; 360-562-7701',
+                    'address' : '',
+                    'url' : 'http://becharoflodgefishing.com/',
+                    'email' : 'becharoffishing@gmail.com',
+        'content' : 'Remote, Comfortable & Affordable Our remote Alaskan fishing lodge is situated on the upper stretches of the beautiful Egegik River. You’ll watch some of Alaska’s most stunning sunrises, complete with a distant, active volcano. We are a fishing camp specializing in coho fishing, brown bear viewing, and flyout fishing adventures to even more remote destinations in the Last Frontier. Coho Fishing The Egegik River The Egegik River is touted by many experienced anglers as the best silver salmon stream in all of Alaska. Becharof Lodge On The Egegik River was the first fishing lodge to become established on the breathtaking Egegik River, and is less than a 5 minute boat ride from some of the best fishing holes on the entire river.'
+    },        
     {
         'title' : 'Best Western Valdez Harbor Inn',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Best-Western-Valdez-logo.jpg',

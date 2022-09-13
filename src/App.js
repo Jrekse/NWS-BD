@@ -11,6 +11,7 @@ import rvSpon from './assets/js/sponsors/rvSpon.js';
 import boatspon from './assets/js/sponsors/boatSpon.js';
 import gunspon from './assets/js/sponsors/gunSpon.js';
 import fishequipspon from './assets/js/sponsors/fishEquipSpon.js';
+import fishresortspon from './assets/js/sponsors/fishresortspon.js';
 import powerEquipSpon from './assets/js/sponsors/powerSpon';
 import tourspon from './assets/js/sponsors/tourspon';
 import charter from './assets/js/sponsors/charterspon';
@@ -88,7 +89,7 @@ class App extends Component {
       return <><PageSpon data={boatspon}/><Category data={boat}/></>;
     } else if (this.state.currentPage === "FishingResorts") {
       ReactGA.pageview('/BD/fishResorts');
-      return <Category data={FishingResorts}/>;
+      return <><PageSpon data={fishresortspon}/><Category data={FishingResorts}/></>;
     } else if (this.state.currentPage === "Food") {
       ReactGA.pageview('/BD/food');
       return <Category data={Food}/>;

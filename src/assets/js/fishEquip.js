@@ -247,6 +247,24 @@ const Fishingequip = [
         'content' : 'We are dedicated to engineer and produce the highest quality and most original baits for freshwater and light saltwater fishing available to serious anglers! All of our products are designed, manufactured, assembled, and packaged at our facility in Pelham, Alabama!'
     },
     {
+        'title' : 'Rob’s Guide Service',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/07/Robs_Guide_Service-logo.jpg',
+                    'phone' : '(253) 732-0623',
+                    'address' : '2946 27th Lane, NE Olympia, WA 98506',
+                    'url' : 'http://robsguideservice.com/',
+                    'email' : '',
+        'content' : "Come fish Washington State's best rivers in the comfort of a jet boat with Captain Robert Nowowiejski. Experience on the water makes for a fun time for my guests as I take you to some of the best fishing in Washington. Enjoy nature through all the seasons while catching Steelhead, Salmon, and Sturgeon. I cater to small parties of 2 to 6 people to ensure full service. All top quality gear is provided as well as bait and tackle. Locations change as fishing action changes, but some of my favorites include the Satsop, Wynoochee, Chehalis, Cowlitz, and Skykomish as well as others when hot.  Experience is not needed, as I am happy to teach you to cast and fish a spinning rod, baitcast rod, as well as to fly fish. I cure all my own bait as well as tie my own flies and jigs. I am licensed by the Coast Guard as well as the State and Insured. References are always available. Check availability by clicking Openings at the top of this page, green is available and red is not."
+    },
+    {
+        'title' : 'Ryan Beck’s Guide Service',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/07/Ryan_Becks_Guide-logo.jpg',
+                    'phone' : '503-806-2392',
+                    'address' : '',
+                    'url' : 'http://fishingwithbeck.com/',
+                    'email' : '',
+        'content' : "Fall Chinook salmon fishing in Oregon starts with salmon making their way into the Tillamook tributaries each year in fall. These fish typically range in weight from 15-30lbs and they put up a fun fight! To catch this fish we will be bobber fishing, back bouncing, & pulling plugs starting at the end of September. We continue following these big fish upriver with the goal to hook and bring dinner home through November! Salmon fishing in Oregon happens on the Wilson, Trask, Kilchis, and Nestucca rivers. (Sept-Nov) Acrobatic winter steelhead arrive shortly after the fall Chinook. These hard fighting chrome bullets typically start making their appearance in good numbers around Thanksgiving. From beads to jigs or bobber doggin’ to plugs, these fish are some of the most fun fish to catch all year! We target winter steelhead in the Wilson, Trask, Kilchis, & Nestucca rivers. (Dec-April) Two of the rivers we fish provide opportunity for you to give back to the river system in the form of Broodstock wild steelhead! If we are fishing one of these rivers and we catch a healthy wild steelhead, we will safely transport the fish in a live well (stored in my boat) back to the hatchery where they will spawn the fish and release them back to the wild to continue their journey. Typically the fish raised from the Broodstock wild steelhead are much larger and a harder fighting fish. Let's gofishing!"
+    },
+    {
         'title' : 'Silver Horde Fishing Supplies Inc.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Silver_horde-logo.jpg',
                     'phone' : '(425) 778-2640',
@@ -264,15 +282,7 @@ const Fishingequip = [
                     'email' : 'mel@fishstotts.com',
         'content' : 'When you fish with us, you become part of our fishing family. Every decision we make has been built around the same core family values we learned from our parents when we were young. When you put family first, care factor becomes important. All our guides are husbands and fathers and know life’s important details. Showing care and taking interest in people is important to us. We hired the best guides that have those same core values and know when booking one of them, our clients are in great hands. We are proud of our fishing brand and know we have a standard to live up to with our fishing clients. It all started at the top with Mel and Jean Stottlemyre. Thanks Mom and Dad!'
     },
-    {
-        'title' : 'Thomas Spinning Lures, Inc.',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '(800) 724-6768',
-                    'address' : '',
-                    'url' : 'https://thomaslures.com/site/',
-                    'email' : '',
-        'content' : 'In 1961 Thomas Lures began manufacturing fishing lures in Hawley, Pennsylvania, where we continue to operate to this day.  In fact, we’re still in the same buildings for over fifty years!  We are a small, privately-owned company with a handful of employees dedicated to providing American made, high-quality fishing lures at reasonable prices.  Our time-tested baits have satisfied many generations of successful anglers.  Over sixty-five years in business is proof-positive Thomas lures catch fish – consistently, time after time.  You can always rely on a Thomas lure to bring you a lifetime of fishing success and enjoyment.'
-    },
+   
     {
         'title' : 'Yakima Bait Company',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/yakima-bait-logo.jpg',

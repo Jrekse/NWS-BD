@@ -120,6 +120,15 @@ const Gear = [
         'content' : 'Importer, Distributor and Service Center for Wallas cooking and heating systems for marine, RV and cabin use. Systems available include forced air diesel or kerosene fired heaters, stoves, stove/heaters and ovens.'
     },
     {
+        'title' : 'Sunnyside Offroad',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/sunnyside.png',
+                    'phone' : '',
+                    'address' : '',
+                    'url' : 'http://www.sunnysideoffroad.com/',
+                    'email' : 'aoroz@sunnysideoffroad.com',
+        'content' : 'Sunnyside Offroad manufactures the lightest, smoothest riding independent suspension trailer on the market. Our trailers are built for extreme off-road use and are virtually unnoticeable both on and off the highway.'
+    },
+    {
         'title' : 'TopperLift',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/TopperEZLift-logo.jpg',
                     'phone' : '(877) 876-2576, (651) 207-5634',

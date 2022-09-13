@@ -72,6 +72,16 @@ const Construction = [
     
     },
     {
+        'title' : 'Anglers Edge Sportfishing',
+        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
+                    'phone' : '360-536-1344',
+                    'address' : '',
+                    'url' : 'https://anglersedgesportfishing.com/',
+                    'email' : 'Anglersedgefishingcharter@gmail.com',
+        'content' : 'We are a 6 pack fishing charter that runs out of Westport Washington , Primarily Captained by OUPV licensed Mitch Coleman ! our boat is a 290 Defiance Guadalupe with Twin 250 hp Honda motors to get you on and off the fishing grounds quickly! We offer Salmon, salmon/rockfish combos , Halibut , Lingcod and specialize in Washingtons world class Albacore fishery!'
+    
+    },
+    {
         'title' : 'Bass Obsessions Fishing Guide Services',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/bass-obsessions-logo.jpg',
                     'phone' : '509-904-7622',
@@ -122,6 +132,16 @@ const Construction = [
     
     },
     {
+        'title' : 'CORKEM FISHING NORTHWEST',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/Corkem.png',
+                    'phone' : '503-348-6189',
+                    'address' : '',
+                    'url' : 'https://corkemfishingnw.com/',
+                    'email' : 'corkemfish@gmail.com',
+        'content' : 'Dave specializes in catching some of the most sought-after fish in the Pacific Northwest, including Salmon, Sturgeon, Steelhead, and Lake Trout.  You will fish from a comfortable and reliable 25` Aluminum North River boat that will accommodate up to 6 anglers.  This boat is equipped with all of the latest electronics, safety equipment and fishing gear.'
+    
+    },
+    {
         'title' : 'Deep Sea Charters Inc.',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/Deep_Sea_Charters-logo.jpg',
                     'phone' : '(800) 562-0151, (360) 268-9300',
@@ -129,6 +149,16 @@ const Construction = [
                     'url' : 'http://www.deepseacharters.biz/',
                     'email' : 'L.Giese@comcast.net',
         'content' : ''
+    
+    },
+    {
+        'title' : 'Flatout Fishing',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/flatoutfishing.png',
+                    'phone' : '+1 509 302 1240',
+                    'address' : '5426 N Rd 68 d Pasco, WA 99301 United States',
+                    'url' : 'http://flatoutfishing.net/tri-cities_washington/',
+                    'email' : 'flatoutc@hotmail.com',
+        'content' : 'With over 20 years of experience fishing the rivers and lakes of the Pacific Northwest, you’re assured an exceptional fishing trip with one of the finest guided services in the Tri-Cities, WA (Kennewick, Pasco, Richland) area.  With the exceptional experience of Gerry Reyes, any angler, rather novice or highly experienced, is bound to have a memorable experience.'
     
     },
     {
@@ -149,6 +179,16 @@ const Construction = [
                     'url' : 'https://www.thefishhouse.net/',
                     'email' : '',
         'content' : 'Established in 1974, The Fish House is the charter company that Alaskans use. If you want a halibut trip, salmon trip, or a combination of both, we have experienced captains that can get the job done.'
+    
+    },
+    {
+        'title' : 'Five Star Charters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/5.jpg',
+                    'phone' : '541-247-0217',
+                    'address' : '',
+                    'url' : '',
+                    'email' : 'info@goldbeachadventures.com',
+        'content' : 'Five Star Charters is a family owned operation based in Gold Beach,  Oregon.  We offer ocean charter boat and guided river fishing services.  The ocean and nearby rivers offer world class fishing many months of the year.  Look at the fish schedule to see which types of fish we catch depending on the time of year.  We have 4 river boats including 2 drift boats and 2 power boats as well as 2 ocean boats to fit your needs. '
     
     },
     {
@@ -218,6 +258,16 @@ const Construction = [
                     'url' : 'http://sharktoothcharters.com/',
                     'email' : '',
         'content' : 'Silver Salmon Charters out in Scenic Valdez, Alaska, July 15 til Labor Day. The thrill of a lifetime is waiting for you! Experience the intensity of catching a Silver Salmon, a Halibut or possibly a Shark. We’re here to help you experience something special!'
+    
+    },
+    {
+        'title' : 'Tuna Dog',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/tunadog.png',
+                    'phone' : '503.539.0006',
+                    'address' : '',
+                    'url' : 'https://tunadogoffshore.com/',
+                    'email' : 'pointman40@hotmail.com',
+        'content' : 'The deep-sea version of fishing crack – peddled by a man called Tuna Dog – has anglers ditching their salmon gear and conventional boats for stout rods, heavy lines and big boats that can run 50 miles offshore to partake in the Northwest’s fastest growing salty adventure.'
     
     },
     {

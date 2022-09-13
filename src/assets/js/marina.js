@@ -31,9 +31,10 @@ const Marina = [
     },
             // ad vv
             {
-                'logo' : 'https://tpc.googlesyndication.com/pimgad/9350662558072553682?',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/08/baysideMarine-300x250-1.png',
                 'class' : 'ad',
                 'imgclass' : 'anad',
+                'adurl' : 'https://www.baysidemarine.com/'
             },
             {
                 'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/09/Power_Shop.jpg',

@@ -48,6 +48,15 @@ const tourism = [
             },
             // ad ^^
     {
+        'title' : 'Hughes River Expeditions, Inc.',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/HRE.png',
+                    'phone' : '800-262-1882',
+                    'address' : 'PO Box 218, Lolo, MT 59847',
+                    'url' : 'http://www.hughesriver.com/',
+                    'email' : 'info@hughesriver.com',
+        'content' : 'Hughes River Expeditions has been family owned and operated and running first-class, all-inclusive trips on rivers in the West since 1976. We look forward to taking you and yours on a vacation of a lifetime! '
+    },
+    {
         'title' : 'Visit Lewis Clark Valley',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(509) 758-7489',
@@ -55,6 +64,15 @@ const tourism = [
                     'url' : 'http://visitlewisclarkvalley.com/',
                     'email' : 'info@visitlcvalley.com',
         'content' : 'Visit Lewis Clark Valley will help you set up your next trip to the Lewiston, ID & Clarkston, WA area. We will recommend a tour company for a jet boat tour in Hells Canyon. We have expert fishing guides that fish the Snake River and Clearwater Rivers.'
+    },
+    {
+        'title' : 'Double Eagle',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/doubleEagle.png',
+                    'phone' : '509-276-1644',
+                    'address' : '811 S Main St Deer Park, WA, 99006',
+                    'url' : 'https://doubleeaglepawn.com/',
+                    'email' : '',
+        'content' : 'Double Eagle Pawn has provided pawn and loan services to the Spokane metro area for close to 30 years. With three convenient locations throughout the Spokane area, there is always a Double Eagle Pawn near by. '
     },
 ]
 export default tourism;

@@ -218,7 +218,7 @@ const Boats = [
     },
     {
         'title' : 'Madras Marine',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',  
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/07/Madras_Marine-logo.jpg',  
                     'phone' : '(541)-475-2476',
                     'address' : '1810 SW Highway 97, Madras, OR 97741',
                     'url' : 'http://www.madrasmarine.com/',
@@ -316,13 +316,13 @@ const Boats = [
     
     },
     {
-        'title' : 'Ricks Master Marine Inc.',
-        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ricks-master-marine-logo.jpg',
+        'title' : 'Legacy Master Marine',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/08/Legacy_Master-Marine-logo.jpg',
                     'phone' : '(206) 762-0741',
                     'address' : '',
-                    'url' : 'http://www.ricksmastermarine.com/',
+                    'url' : 'http://www.lmmseattle.com/',
                     'email' : 'rmmboat@ricksmastermarine.com',
-        'content' : 'We are a family owned and operated marine engine service/repair facility on the Duwamish River, and offer over 25 years of experience and dedication to this industry. We are an authorized dealer for: MerCruiser / Volvo Penta – I/O as well as Mercury and Honda O/B. We also service Yamaha and Suzuki outboards.'
+        'content' : 'Conveniently located on the Duwamish River, Legacy Master Marine is one of Seattle’s leading marine motor maintenance, service, and repair shops. We have spent nearly three decades building a reputation for quality and affordability delivered by our highly trained team of marine technicians. Using our experience, equipment, and fully-stocked shop of parts, we are ready to tackle servicing and repairs of most boat makes and models, including, Yamaha and Suzuki, Mercury and Honda Outboards, Volvo Penta, MerCruiser, OMC, and more. Call 206-762-0741 to schedule your boat’s service today.'
     
     },
     {
