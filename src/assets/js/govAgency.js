@@ -47,5 +47,14 @@ const govagency = [
                 'imgclass' : 'anad',
             },
             // ad ^^
+            {
+                'title' : 'ODFW Big Game Raffle Hunts',
+                'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/ODFW-Logo.jpg',
+                            'phone' : '',
+                            'address' : '',
+                            'url' : 'https://myodfw.com/articles/big-game-raffle-and-auction-hunts',
+                            'email' : '', 
+                'content' : 'Want a chance to hunt big game with an extended season and during the rut—or a rare chance to hunt for a bighorn sheep or Rocky Mountain goat? Big game raffle tickets are on sale starting December 1, online at MyODFW’s licensing page and at license sales agents.'
+            },
 ]
 export default govagency;

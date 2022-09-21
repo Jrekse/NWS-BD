@@ -147,6 +147,16 @@ const Boats = [
     
     },
     {
+        'title' : 'Coastal Marine Engine',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/coastalMarine.png',
+                    'phone' : '206-784-3703',
+                    'address' : '4300 11th Ave NW Seattle, WA 98107',
+                    'url' : 'https://www.coastalmarineengine.com/',
+                    'email' : 'service@coastalmarineengine.com',
+        'content' : 'Located just inside of the Ballard Locks and adjacent to Canal Boatyard, Coastal Marine Engine provides on-site sales and service as well as dockside service to the most vibrant waterways of our region. We have experienced staff to help with your every boating need, along with a deep inventory of Volvo Penta and Northern Lights OEM parts.'
+    
+    },
+    {
         'title' : 'Commencement Bay Marine Services',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(253)-572-2666',
