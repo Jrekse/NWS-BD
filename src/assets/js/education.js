@@ -20,14 +20,14 @@ const Education = [
         'content' : 'Learn the skills and receive the training you need to launch your career in the recreational boat, ship repair, and maintenance industries. Training with a faculty of industry experts, you’ll work and learn in a purpose-built professional facility, preparing you to work as a technician on recreational and commercial vessels in this high demand industry.'
     },
     {
-        'title' : 'Buy This Space',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '',
+        'title' : 'Defensive Arts Center, LLC',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/defensivearts.png',
+                    'phone' : '(503)610-6300',
                     'address' : '',
-                    'url' : '',
-                    'email' : '',
+                    'url' : 'https://defensivearts.org/',
+                    'email' : 'training@defensivearts.org',
                     'class' : 'premium',
-        'content' : ''
+        'content' : 'The Defensive Arts Center was designed from the ground up to address a huge gap in responsible, ethical and safe firearms training.  By leveraging digital simulators and  a 360 degree Simunition® live-fire environment, we are able to train safely at levels that can`t be done in a normal gun range.  Simunition® Ammunition gives you the full experience of live-fire while safely lowering the safety barriers to train for real-world violence.  The DAC is where martial-arts theory meets modern day self-defense technology.  Prepare to usher in a new paradigm of self defense training.'
     },
             // ad vv
             {

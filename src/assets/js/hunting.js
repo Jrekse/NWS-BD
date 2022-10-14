@@ -48,6 +48,24 @@ const air = [
         },
         // ad ^^
         {
+            'title' : 'Clear Creek Sports Club',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/Clearcreek.png',
+                        'phone' : '530-520-4034',
+                        'address' : '2655 Everett Freeman Way, Corning, CA 96021',
+                        'url' : 'https://www.clearcreeksportsclub.com/',
+                        'email' : 'info@clearcreeksportsclub.com',
+            'content' : ''
+        },
+        {
+            'title' : 'Horseshoe Curve Hunt Club',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/horseshoecurvehuntclub.png',
+                        'phone' : '503-539-5206',
+                        'address' : '37906 Rieth Road Echo, OR 97826',
+                        'url' : 'http://horseshoecurvehuntclub.com/',
+                        'email' : '',
+            'content' : 'Every hunter dreams of a place where they can escape the hustle and bustle of traffic, work and everyday life. They dream of a place where the wildlife is plentiful, the air is fresh and the hunting pressure is low. There is such a place just a few hours from Portland Oregon; and it was designed and planned specifically for hunters of all ages and gender to enjoy.'
+        },
+        {
             'title' : 'Linc Raahauge’s Hunting Club',
             'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                         'phone' : '530-724-0552',
@@ -91,6 +109,15 @@ const air = [
                         'url' : 'http://www.northriveroutfitting.com/',
                         'email' : 'nro_maria@yahoo.ca',
             'content' : ''
+        },
+        {
+            'title' : 'Pacific Wings',
+            'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/pacificwings.png',
+                        'phone' : '509-967-2303',
+                        'address' : '76708 N. Yakima River Drive West Richland, WA 99353',
+                        'url' : 'https://www.pacific-wings.net/',
+                        'email' : 'pacificwings@hotmail.com',
+            'content' : 'Pacific Wings strives to provide excellent quality duck or goose hunting experiences from the time you arrive. We know that to truly enjoy your hunt, a comfortable nights rest is essential.'
         },
         {
             'title' : 'Prairie Waterfowl Co.',

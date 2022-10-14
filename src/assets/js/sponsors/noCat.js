@@ -1,8 +1,8 @@
 const stateZero = [
     {
-        'src' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/01/Untitled-2.png',
+        'src' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/maxxummarine_logo_large.jpg',
         'sponclass' : 'banner',
-        'adurl' : 'https://nwsportsmanmag.com/contact-us/'
+        'adurl' : 'http://www.maxxummarine.com/'
     },
 ]
 export default stateZero;

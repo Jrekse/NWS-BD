@@ -84,13 +84,22 @@ const Gear = [
         'content' : 'Build it Right! Build it Once! wBuild it Here! Small and light enough that you will actually carry it. They may cost as much as your favorite boots. But when dragging a moose out of the beaver muck or putting your ATV back on its feet. They’re worth every dime.'
     },
     {
-        'title' : 'FULL FORGE GEAR',
-        'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
-                    'phone' : '937-454-0363; 877-425-4867',
+        'title' : 'Sage Canyon Outfitters',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/sagecanyon.png',
+                    'phone' : '1-800-538-7238',
+                    'address' : '89881 Bakeoven Rd. Maupin, Oregon 97037',
+                    'url' : 'https://www.sagecanyonoutfitters.com/',
+                    'email' : 'sagerafting@gmail.com',
+        'content' : 'Sage Canyon Outfitters is THE place for upland pheasant and chukar bird hunting in Central Oregon! We have Oregon bird hunting information–contact us about guided and non-guided trips, with individual, group, and corporate packages. Located just outside of Maupin, Oregon, on over 8,000 acres of prime upland bird habitat, an easy drive from Portland or Bend.'
+    },
+    {
+        'title' : 'Tactical Target Systems',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/Tacticaltargetsystems.png',
+                    'phone' : '(913) 333-8619',
                     'address' : '',
-                    'url' : 'http://www.fullforgegear.com/index.php',
-                    'email' : '',
-        'content' : 'FULL FORGE GEAR range bags are made with heavy-duty fabric to carry the weight of your guns, ammunition and gear. When you`re heading to the range, the Storm range bags have you covered. Range bags, Pistol cases, Rifle cases. backpacks. '
+                    'url' : 'https://tacticaltargetsystems.com/',
+                    'email' : 'support@tacticaltargetsystems.com',
+        'content' : ''
     },
     {
         'title' : 'Rangestore.net for Steel Target Paint',

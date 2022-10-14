@@ -58,6 +58,42 @@ const RV = [
         'content' : 'As a smaller dealership, we’re able to provide you with the kind of personalized service that makes the difference between simply purchasing a vehicle and fulfilling a travel dream. Our full-service dealership offers sales, consignments, service, parts, financing, and warranties all in one location to provide you with the ease and security that will give you a positive RV experience for many years to come.'
     },
     {
+        'title' : 'Cedar Ridge Campers',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/cedarridgecampers.png',
+                    'phone' : '270.970.2861',
+                    'address' : '',
+                    'url' : 'https://cedarridgecampers.com/',
+                    'email' : '',
+        'content' : 'For centuries outdoor enthusiasts have been fascinated by the millions of stars in the night sky. Vega and Altair are two of the stars composing an asterism called the Summer Triangle. By the warmth of a fire and black of night perchance, many legends have been told and retold about this prominent triangle high in the sky. This universe is too big to go unexplored, the stars too majestic to go unnoticed. Discover more with Cedar Ridge Campers, American made right here in Murray, Kentucky.'
+    },
+    {
+        'title' : 'Hiker Trailers',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/hikertrailers.png',
+                    'phone' : '812-975-5300',
+                    'address' : '2860 N National Rd. Ste. B Columbus, IN 47201',
+                    'url' : 'http://www.hikertrailers.com/',
+                    'email' : 'hikertrailers@numagroupinc.com',
+        'content' : 'Hiker Trailers designs and manufactures custom teardrop camping trailers.  With two convenient locations in Indiana and Colorado you can build your very own, perfectly equipped camping trailer to suit your style of adventure.  Hiker Trailers has four models to choose from, each capable of various off-road capabilities.  With hundreds of options and accessories to choose from, industry low lead times of 3 months or less, and ready-made units available immediately, Hiker Trailers allow you to build your own adventure on your budget.  Financing, home delivery, and aftermarket services are also provided.  Contact Hiker Trailers or visit their website to learn more or begin your build.'
+    },
+    {
+        'title' : 'Nucamp RV',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/nucamp.png',
+                    'phone' : '(330) 852-4811',
+                    'address' : '',
+                    'url' : 'https://nucamprv.com/',
+                    'email' : 'help@nucamprv.com',
+        'content' : 'When you purchase a nuCamp product, you become part of the nuCamp family. That comes with unparalleled customer support and a welcoming camper community. Join in the fun, attend one of our teardrop camper rallies, share your camping adventure, or join one of the numerous social media groups dedicated to our products. It is this nuCamp community that makes us stand out from the competition as the premier manufacturer of teardrop trailers and truck campers.'
+    },
+    {
+        'title' : 'Oliver Travel Trailers',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/OliverTravelTrailers.png',
+                    'phone' : '1-888-526-3978',
+                    'address' : '228 Industrial Avenue Hohenwald, TN 38462',
+                    'url' : 'https://olivertraveltrailers.com/',
+                    'email' : '',
+        'content' : 'Oliver Travel Trailers (OTT) are manufactured by Oliver Fiberglass Products (OFP) Company in Hohenwald, Tennessee since 2008. It is one of several product lines produced at the OFP plant.'
+    },
+    {
         'title' : 'South Hill RV Sales',
         'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2021/11/south_hill_rv-logo.jpg',
                     'phone' : '(877) 744-6341, (253) 220-4994',

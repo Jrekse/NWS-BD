@@ -102,6 +102,16 @@ const Construction = [
     
     },
     {
+        'title' : 'Blair`s Guide Service',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/10/blairsguideservice.png',
+                    'phone' : '(541) 761-7797',
+                    'address' : 'Jerrys Flat Road Gold Beach, OR 97444',
+                    'url' : 'https://blairsguideservice.business.site/',
+                    'email' : '',
+        'content' : 'Full time year round Fishing Charter offering trips for Salmon and Steelhead in Southern Oregon  . All ages welcome, all fishing gear bait tackle and fish cleaning provided. Call now or visit Roguebayfishing.com'
+    
+    },
+    {
         'title' : 'Blue Moon Fishing Adventures',
         'logo' : 'https://htmlcolorcodes.com/assets/images/colors/light-gray-color-solid-background-1920x1080.png',
                     'phone' : '(360) 521-0273',
@@ -150,6 +160,15 @@ const Construction = [
                     'email' : 'L.Giese@comcast.net',
         'content' : ''
     
+    },
+    {
+        'title' : 'Fish With Gary',
+        'logo' : 'https://nwsportsmanmag.com/wp-content/uploads/2022/09/Fishwithgary.png',
+                    'phone' : '541.536.1002',
+                    'address' : '52865 Lowell Way La Pine, OR 97739',
+                    'url' : 'https://www.fishwithgary.com/',
+                    'email' : 'gary@fishwithgary.com',
+        'content' : 'Welcome to the Fish With Gary™ Tackle Company. We manufacture the next generation of ultralight dodgers and matching lures for all of your Kokanee, trout, and landlocked salmon trolling needs. If you have visited here before, you will notice that this site is now very much updated, and contains a host of new information, as well as all of our new generation products.'
     },
     {
         'title' : 'Flatout Fishing',
